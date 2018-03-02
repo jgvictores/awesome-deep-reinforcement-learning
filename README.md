@@ -10,7 +10,8 @@
       - https://github.com/keras-team/keras/blob/master/examples/cifar10_cnn.py
 - http://docs.chainer.org (Define-by-Run rather than Define-and-Run)
 - https://github.com/deepmind/sonnet
-- LUA: torch
+- Torch (Lua)
+   - https://github.com/karpathy/char-rnn
 - OLD: pybrain, theano
 - Presentation: https://project.inria.fr/deeplearning/files/2016/05/DLFrameworks.pdf
 - Docker: https://github.com/ufoym/deepo (tensorflow sonnet torch keras mxnet cntk chainer theano lasagne caffe caffe2)
