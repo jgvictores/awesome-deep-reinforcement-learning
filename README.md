@@ -13,8 +13,10 @@
 - Torch (Lua)
    - https://github.com/karpathy/char-rnn
 - OLD: pybrain, theano
-- Presentation: https://project.inria.fr/deeplearning/files/2016/05/DLFrameworks.pdf
-- Docker: https://github.com/ufoym/deepo (tensorflow sonnet torch keras mxnet cntk chainer theano lasagne caffe caffe2)
+- GENERAL:
+   - Presentation: https://project.inria.fr/deeplearning/files/2016/05/DLFrameworks.pdf
+   - Tutorials: https://github.com/lisa-lab/DeepLearningTutorials
+   - Docker: https://github.com/ufoym/deepo (tensorflow sonnet torch keras mxnet cntk chainer theano lasagne caffe caffe2)
 
 ## NN Architectures
 - https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
