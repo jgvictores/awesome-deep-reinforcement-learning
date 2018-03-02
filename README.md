@@ -5,6 +5,7 @@
    - https://keras.io
    - https://en.wikipedia.org/wiki/Keras
    - https://www.datacamp.com/community/tutorials/deep-learning-python
+   - https://elitedatascience.com/keras-tutorial-deep-learning-in-python
 - http://docs.chainer.org (Define-by-Run rather than Define-and-Run)
 - https://github.com/deepmind/sonnet
 - LUA: torch
