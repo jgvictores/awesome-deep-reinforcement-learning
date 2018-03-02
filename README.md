@@ -1,5 +1,7 @@
 # awesome-machine-learning
 
+# NN
+
 ## NN Frameworks
 - Keras
    - https://keras.io
@@ -28,10 +30,15 @@
 - https://en.wikipedia.org/wiki/AlexNet
 - http://yann.lecun.com/exdb/mnist/
 
+# RL
+
 ## RL Frameworks
 - https://github.com/rll/rllab
 - https://github.com/chainer/chainerrl
 
-## Gyms
+## RL Theory
+- Best ref is Andrew Ng thesis: www.cs.ubc.ca/~nando/550-2006/handouts/andrew-ng.pdf
+
+# Gyms
 - https://gym.openai.com
 - https://github.com/SoyGema/Startcraft_pysc2_minigames
