@@ -69,7 +69,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - Keras
    - https://github.com/haarnoja/sac
    - https://github.com/SoyGema/Startcraft_pysc2_minigames
-- https://github.com/chainer/chainerrl
+- ChainerRL ([GitHub](https://github.com/chainer/chainerrl))
 
 ## RL/DRL Books
 - Best ref is Andrew Ng thesis: www.cs.ubc.ca/~nando/550-2006/handouts/andrew-ng.pdf
