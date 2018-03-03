@@ -14,6 +14,7 @@
    - http://www.chainer.org
 - TensorFlow (low-level)
    - https://github.com/llSourcell/YOLO_Object_Detection
+   - https://github.com/tkarras/progressive_growing_of_gans
 - Sonnet (DeepMind layer over TensorFlow)
    - https://github.com/deepmind/sonnet
 - MXNet (apache)
