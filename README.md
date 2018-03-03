@@ -54,7 +54,9 @@
 - Best ref is Andrew Ng thesis: www.cs.ubc.ca/~nando/550-2006/handouts/andrew-ng.pdf
 
 # EA
+- https://blog.openai.com/evolution-strategies
 - https://eng.uber.com/deep-neuroevolution/
+- CMA 2006
 
 # Gyms
 - https://gym.openai.com
