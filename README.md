@@ -81,7 +81,7 @@ Attempling to order by current popularity:
 
 ## RL/DRL Gyms
 - https://gym.openai.com
-- pysc2 ([GitHub](https://github.com/deepmind/pysc2)) (by DeepMind) (API: Python) (Blizzard StarCraft II Learning Environment (SC2LE) component)
+- PySC2 ([GitHub](https://github.com/deepmind/pysc2)) (by DeepMind) (API: Python) (Blizzard StarCraft II Learning Environment (SC2LE) component)
 - Atari-net ?
 
 ## RL/DRL Baselines
