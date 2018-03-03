@@ -61,3 +61,7 @@
 
 # Books
 - http://proquest.safaribooksonline.com/book/programming/python/9781491912126
+
+# Other tools
+- DLPaper2Code: Auto-generation of Code from Deep Learning Research Papers: https://arxiv.org/abs/1711.03543
+- you can download the raw source of any arxiv paper. Click on the "Other formats" link, then click "Download source"
