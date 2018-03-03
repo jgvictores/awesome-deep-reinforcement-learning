@@ -17,6 +17,7 @@
    - https://github.com/tkarras/progressive_growing_of_gans
    - https://github.com/mlberkeley/Creative-Adversarial-Networks
    - http://www.subsubroutine.com/sub-subroutine/2016/11/12/painting-like-van-gogh-with-convolutional-neural-networks
+   - https://github.com/luanfujun/deep-photo-styletransfer
 - Sonnet (DeepMind layer over TensorFlow)
    - https://github.com/deepmind/sonnet
 - MXNet (apache)
