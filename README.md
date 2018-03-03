@@ -15,7 +15,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
    - https://github.com/karpathy/char-rnn
    - https://github.com/luanfujun/deep-photo-styletransfer
 - TensorFlow (low-level)
-   - https://github.com/llSourcell/YOLO_Object_Detection (original: )
+   - https://github.com/llSourcell/YOLO_Object_Detection (but the original uses Darknet)
    - https://github.com/tkarras/progressive_growing_of_gans
    - https://github.com/mlberkeley/Creative-Adversarial-Networks
    - http://www.subsubroutine.com/sub-subroutine/2016/11/12/painting-like-van-gogh-with-convolutional-neural-networks
@@ -26,11 +26,11 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
    - https://github.com/llSourcell/MXNet
 - theano ([MILA stopped developing](https://groups.google.com/forum/#!msg/theano-users/7Poq8BZutbY/rNCIfvAEAwAJ))
    - Still many tutorials: https://github.com/lisa-lab/DeepLearningTutorials
-- https://pjreddie.com/darknet
+- [Darknet](https://pjreddie.com/darknet)
    - https://pjreddie.com/darknet/yolo
-- http://www.opennn.net
+- [OpenNN](http://www.opennn.net)
    - Old work by Martin Stoelen
-- http://pybrain.org
+- [http://pybrain.org](PyBrain)
    - Old work by Santi Morante
 
 ## NN Architectures
