@@ -13,7 +13,7 @@
 - Chainer (Define-by-Run rather than Define-and-Run)
    - http://www.chainer.org
 - TensorFlow (low-level)
-   - https://github.com/llSourcell/YOLO_Object_Detection
+   - https://github.com/llSourcell/YOLO_Object_Detection (original: https://pjreddie.com/darknet/yolo/)
    - https://github.com/tkarras/progressive_growing_of_gans
 - Sonnet (DeepMind layer over TensorFlow)
    - https://github.com/deepmind/sonnet
