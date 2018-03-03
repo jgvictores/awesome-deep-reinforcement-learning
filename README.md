@@ -17,7 +17,6 @@
    - https://github.com/tkarras/progressive_growing_of_gans
    - https://github.com/mlberkeley/Creative-Adversarial-Networks
    - http://www.subsubroutine.com/sub-subroutine/2016/11/12/painting-like-van-gogh-with-convolutional-neural-networks
-   - https://github.com/luanfujun/deep-photo-styletransfer
 - Sonnet (DeepMind layer over TensorFlow)
    - https://github.com/deepmind/sonnet
 - MXNet (apache)
@@ -25,6 +24,7 @@
 - Torch (Lua)
    - https://github.com/junyanz/CycleGAN (but links with theano, etc)
    - https://github.com/karpathy/char-rnn
+   - https://github.com/luanfujun/deep-photo-styletransfer
 - theano (DEPRECATED)
    - Tutorials: https://github.com/lisa-lab/DeepLearningTutorials
 - (EVEN MORE DEPRECATED) https://pjreddie.com/darknet/, http://www.opennn.net/, http://pybrain.org/....
