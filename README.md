@@ -63,8 +63,9 @@
 # Baselines
 - https://github.com/openai/baselines
 
-# Books
+# Books / Papers
 - http://proquest.safaribooksonline.com/book/programming/python/9781491912126
+- https://github.com/terryum/awesome-deep-learning-papers#new-papers
 
 # Other tools
 - DLPaper2Code: Auto-generation of Code from Deep Learning Research Papers: https://arxiv.org/abs/1711.03543
