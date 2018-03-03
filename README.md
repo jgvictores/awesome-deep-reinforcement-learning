@@ -24,7 +24,7 @@
    - https://github.com/karpathy/char-rnn
 - theano (DEPRECATED)
    - Tutorials: https://github.com/lisa-lab/DeepLearningTutorials
-- pybrain (DEPRECATED)
+- (EVEN MORE DEPRECATED) https://pjreddie.com/darknet/, http://www.opennn.net/, http://pybrain.org/....
 - GENERAL:
    - Presentation: https://project.inria.fr/deeplearning/files/2016/05/DLFrameworks.pdf
    - Docker: https://github.com/ufoym/deepo (tensorflow sonnet torch keras mxnet cntk chainer theano lasagne caffe caffe2)
