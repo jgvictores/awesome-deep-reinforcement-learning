@@ -19,6 +19,7 @@
 - MXNet (apache)
    - https://github.com/llSourcell/MXNet
 - Torch (Lua)
+   - https://github.com/junyanz/CycleGAN (but links with theano, etc)
    - https://github.com/karpathy/char-rnn
 - theano (DEPRECATED)
    - Tutorials: https://github.com/lisa-lab/DeepLearningTutorials
