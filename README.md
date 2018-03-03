@@ -5,9 +5,18 @@
 ## General Frameworks
 - [scikit-learn](http://scikit-learn.org) (API: Python)
 
-# NN
+## General Books / Papers
+- http://proquest.safaribooksonline.com/book/programming/python/9781491912126
+- https://github.com/terryum/awesome-deep-learning-papers#new-papers
 
-## NN Frameworks
+## General Other tools
+- DLPaper2Code: Auto-generation of Code from Deep Learning Research Papers: https://arxiv.org/abs/1711.03543
+- you can download the raw source of any arxiv paper. Click on the "Other formats" link, then click "Download source"
+- http://www.arxiv-sanity.com/
+
+# Neural Networks (NN) and Deep Neural Networks (DNN) 
+
+## NN/DNN Frameworks
 Here's a good overview [presentation](https://project.inria.fr/deeplearning/files/2016/05/DLFrameworks.pdf) ([permalink](https://github.com/jgvictores/awesome-machine-learning/blob/b16fadd3c56ce0d7fb3614cb63f155d5c2d4af81/doc/inria2007DLFrameworks.pdf)), and here's a very full [Docker](https://github.com/ufoym/deepo) with (tensorflow sonnet torch keras mxnet cntk chainer theano lasagne caffe caffe2). Attempling to order by current popularity:
 - [Keras](https://keras.io) (layer over: TensorFlow, theano...)
    - https://en.wikipedia.org/wiki/Keras
@@ -37,48 +46,43 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - theano (very used, but down here because [MILA stopped developing](https://groups.google.com/forum/#!msg/theano-users/7Poq8BZutbY/rNCIfvAEAwAJ))
    - Still many tutorials: https://github.com/lisa-lab/DeepLearningTutorials
 
-## NN Architectures
+## NN/DNN Architectures
 - https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
 - http://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/
 
-## NN Datasets
+## NN/DNN Datasets
 - http://www.image-net.org/
 - https://en.wikipedia.org/wiki/AlexNet
 - http://yann.lecun.com/exdb/mnist/
 
-## NN Misc
-- Transfer learning. Dropout. LSTM. Capsule Networks. R-CNN.
+## NN/DNN Buzzworks Misc
+- GANs.
+- Transfer learning.
+- RNN and more modern LSTM. Capsule Networks. R-CNN. RBM (bad rumors).
+- Dropout.
 
-# RL
+# Reinforcement Learning (RL) and Deep Reinforcement Learning (DRL)
 
-## RL Frameworks
+## RL/DRL Frameworks
 - https://github.com/rll/rllab (keras, and sandbox tensorflow)
 - Keras
    - https://github.com/haarnoja/sac
    - https://github.com/SoyGema/Startcraft_pysc2_minigames
 - https://github.com/chainer/chainerrl
 
-## RL Books
+## RL/DRL Books
 - Best ref is Andrew Ng thesis: www.cs.ubc.ca/~nando/550-2006/handouts/andrew-ng.pdf
 - Reinforcement Learning: An Introduction: http://incompleteideas.net/book/bookdraft2017nov5.pdf (Richard S. Sutton is father of RL)
 
-## RL Gyms
+## RL/DRL Gyms
 - https://gym.openai.com
 - https://github.com/deepmind/pysc2
 
-## RL Baselines
+## RL/DRL Baselines
 - https://github.com/openai/baselines
 
-# EA (with same objective as RL)
+# Evolutionary Algorithms (EA)
+Only accounting those with same objective as RL.
 - https://blog.openai.com/evolution-strategies
 - https://eng.uber.com/deep-neuroevolution/
 - CMA 2006
-
-# General: Books / Papers
-- http://proquest.safaribooksonline.com/book/programming/python/9781491912126
-- https://github.com/terryum/awesome-deep-learning-papers#new-papers
-
-# General: Other tools
-- DLPaper2Code: Auto-generation of Code from Deep Learning Research Papers: https://arxiv.org/abs/1711.03543
-- you can download the raw source of any arxiv paper. Click on the "Other formats" link, then click "Download source"
-- http://www.arxiv-sanity.com/
