@@ -56,4 +56,4 @@
 - https://github.com/openai/baselines
 
 # Books
-- 
+- http://proquest.safaribooksonline.com/book/programming/python/9781491912126
