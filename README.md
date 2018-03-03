@@ -70,6 +70,8 @@ Attempling to order by current popularity:
 - Keras
    - https://github.com/haarnoja/sac
    - https://github.com/SoyGema/Startcraft_pysc2_minigames
+- Torch
+   - https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner
 - ChainerRL ([GitHub](https://github.com/chainer/chainerrl)) (API: Python)
 
 ## RL/DRL Books
