@@ -65,6 +65,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 # Reinforcement Learning (RL) and Deep Reinforcement Learning (DRL)
 
 ## RL/DRL Frameworks
+Attempling to order by current popularity:
 - rllab ([GitHub](https://github.com/rll/rllab)) ([readthedocs](http://rllab.readthedocs.io)) (layer above: keras, and tensorflow in sandbox)
 - Keras
    - https://github.com/haarnoja/sac
