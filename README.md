@@ -6,15 +6,13 @@
 - GENERAL:
    - Presentation: https://project.inria.fr/deeplearning/files/2016/05/DLFrameworks.pdf ([permalink](https://github.com/jgvictores/awesome-machine-learning/blob/b16fadd3c56ce0d7fb3614cb63f155d5c2d4af81/doc/inria2007DLFrameworks.pdf))
    - Docker: https://github.com/ufoym/deepo (tensorflow sonnet torch keras mxnet cntk chainer theano lasagne caffe caffe2)
-- Keras (layer over many)
-   - https://keras.io
+- [Keras](https://keras.io) (layer over many)
    - https://en.wikipedia.org/wiki/Keras
    - Tutorials
       - https://www.datacamp.com/community/tutorials/deep-learning-python
       - https://elitedatascience.com/keras-tutorial-deep-learning-in-python
       - https://github.com/keras-team/keras/blob/master/examples/cifar10_cnn.py
-- Chainer (Define-by-Run rather than Define-and-Run)
-   - http://www.chainer.org
+- [Chainer](http://www.chainer.org) (Define-by-Run rather than Define-and-Run)
 - TensorFlow (low-level)
    - https://github.com/llSourcell/YOLO_Object_Detection (original: https://pjreddie.com/darknet/yolo/)
    - https://github.com/tkarras/progressive_growing_of_gans
