@@ -15,6 +15,7 @@
 - TensorFlow (low-level)
    - https://github.com/llSourcell/YOLO_Object_Detection (original: https://pjreddie.com/darknet/yolo/)
    - https://github.com/tkarras/progressive_growing_of_gans
+   - https://github.com/mlberkeley/Creative-Adversarial-Networks
 - Sonnet (DeepMind layer over TensorFlow)
    - https://github.com/deepmind/sonnet
 - MXNet (apache)
