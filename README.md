@@ -4,9 +4,10 @@
 
 ## General Frameworks
 - [scikit-learn](http://scikit-learn.org) (API: Python)
+- [scikit-image](http://scikit-image.org) (API: Python)
 
 ## General Books / Papers
-- http://proquest.safaribooksonline.com/book/programming/python/9781491912126
+- Jake VanderPlas, "Python Data Science Handbook", 2017. ([Safari](http://proquest.safaribooksonline.com/book/programming/python/9781491912126)) (API: Python)
 - https://github.com/terryum/awesome-deep-learning-papers#new-papers
 
 ## General Other tools
