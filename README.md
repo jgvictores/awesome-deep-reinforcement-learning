@@ -62,7 +62,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - GANs.
 - Transfer learning.
 - Capsule Networks. R-CNN. (time sequences) RNN and more modern LSTM. (bad rumors) RBM.
-- Dropout.
+- Dropout. Replay. 
 
 # Reinforcement Learning (RL) and Deep Reinforcement Learning (DRL)
 
