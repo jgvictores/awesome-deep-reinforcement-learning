@@ -41,6 +41,8 @@
 ## RL Frameworks
 - https://github.com/rll/rllab
 - https://github.com/chainer/chainerrl
+- Keras
+   - https://github.com/haarnoja/sac
 
 ## RL Theory
 - Best ref is Andrew Ng thesis: www.cs.ubc.ca/~nando/550-2006/handouts/andrew-ng.pdf
@@ -51,3 +53,6 @@
 
 # Baselines
 - https://github.com/openai/baselines
+
+# Books
+- 
