@@ -19,7 +19,7 @@
 
 ## NN/DNN Frameworks
 Here's a good overview [presentation](https://project.inria.fr/deeplearning/files/2016/05/DLFrameworks.pdf) ([permalink](https://github.com/jgvictores/awesome-machine-learning/blob/b16fadd3c56ce0d7fb3614cb63f155d5c2d4af81/doc/inria2007DLFrameworks.pdf)), and here's a very full [Docker](https://github.com/ufoym/deepo) with (tensorflow sonnet torch keras mxnet cntk chainer theano lasagne caffe caffe2). Attempling to order by current popularity:
-- [Keras](https://keras.io) (layer over: TensorFlow, theano...)
+- [Keras](https://keras.io) (layer over: TensorFlow, theano...) (API: Python)
    - https://en.wikipedia.org/wiki/Keras
    - Tutorials
       - https://www.datacamp.com/community/tutorials/deep-learning-python
@@ -29,13 +29,13 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
    - https://github.com/junyanz/CycleGAN (but links to implementations with theano, etc)
    - https://github.com/karpathy/char-rnn
    - https://github.com/luanfujun/deep-photo-styletransfer
-- TensorFlow (low-level)
+- [TensorFlow](https://www.tensorflow.org) (low-level)  (API: Python most stable)
    - https://github.com/llSourcell/YOLO_Object_Detection (but the original uses Darknet)
    - https://github.com/tkarras/progressive_growing_of_gans
    - https://github.com/mlberkeley/Creative-Adversarial-Networks
    - http://www.subsubroutine.com/sub-subroutine/2016/11/12/painting-like-van-gogh-with-convolutional-neural-networks
 - [Chainer](http://www.chainer.org) (Define-by-Run rather than Define-and-Run)
-- Sonnet (by DeepMind) (layer over: TensorFlow)
+- [Sonnet](https://deepmind.com/blog/open-sourcing-sonnet/) (by DeepMind) (layer over: TensorFlow)
    - https://github.com/deepmind/sonnet
 - [MXNet](https://github.com/llSourcell/MXNet) (by Apache)
 - [Darknet](https://pjreddie.com/darknet)
