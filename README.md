@@ -53,26 +53,27 @@
    - https://github.com/SoyGema/Startcraft_pysc2_minigames
 - https://github.com/chainer/chainerrl
 
-## RL Theory
+## RL Books
 - Best ref is Andrew Ng thesis: www.cs.ubc.ca/~nando/550-2006/handouts/andrew-ng.pdf
+- Reinforcement Learning: An Introduction: http://incompleteideas.net/book/bookdraft2017nov5.pdf (Richard S. Sutton is father of RL)
 
 # EA
 - https://blog.openai.com/evolution-strategies
 - https://eng.uber.com/deep-neuroevolution/
 - CMA 2006
 
-# Gyms
+# General: Gyms
 - https://gym.openai.com
 - https://github.com/deepmind/pysc2
 
-# Baselines
+# General: Baselines
 - https://github.com/openai/baselines
 
-# Books / Papers
+# General: Books / Papers
 - http://proquest.safaribooksonline.com/book/programming/python/9781491912126
 - https://github.com/terryum/awesome-deep-learning-papers#new-papers
 
-# Other tools
+# General: Other tools
 - DLPaper2Code: Auto-generation of Code from Deep Learning Research Papers: https://arxiv.org/abs/1711.03543
 - you can download the raw source of any arxiv paper. Click on the "Other formats" link, then click "Download source"
 - http://www.arxiv-sanity.com/
