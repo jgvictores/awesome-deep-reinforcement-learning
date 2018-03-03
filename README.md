@@ -1,5 +1,7 @@
 # awesome-machine-learning
 
+Disclaimer: Very NN/DNN (vision) and RL (videogames/robotics) oriented, perhaps biased by DRL. Repo name may be subject to change.
+
 # General
 
 ## General Frameworks
