@@ -56,10 +56,10 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - https://en.wikipedia.org/wiki/AlexNet
 - http://yann.lecun.com/exdb/mnist/
 
-## NN/DNN Buzzworks Misc
+## NN/DNN Techniques Misc
 - GANs.
 - Transfer learning.
-- RNN and more modern LSTM. Capsule Networks. R-CNN. RBM (bad rumors).
+- Capsule Networks. R-CNN. (time sequences) RNN and more modern LSTM. (bad rumors) RBM.
 - Dropout.
 
 # Reinforcement Learning (RL) and Deep Reinforcement Learning (DRL)
