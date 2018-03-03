@@ -3,7 +3,7 @@
 # NN
 
 ## NN Frameworks
-- Keras
+- Keras (layer over many)
    - https://keras.io
    - https://en.wikipedia.org/wiki/Keras
    - Tutorials
@@ -13,7 +13,8 @@
 - http://docs.chainer.org (Define-by-Run rather than Define-and-Run)
 - TensorFlow (low-level)
    - https://github.com/llSourcell/YOLO_Object_Detection
-- https://github.com/deepmind/sonnet
+- Sonnet (DeepMind layer over TensorFlow)
+   - https://github.com/deepmind/sonnet
 - Torch (Lua)
    - https://github.com/karpathy/char-rnn
 - theano (DEPRECATED)
