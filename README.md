@@ -50,6 +50,7 @@
 
 # Gyms
 - https://gym.openai.com
+- Starcraft
 
 # Baselines
 - https://github.com/openai/baselines
