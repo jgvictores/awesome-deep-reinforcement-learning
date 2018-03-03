@@ -49,6 +49,9 @@
 ## RL Theory
 - Best ref is Andrew Ng thesis: www.cs.ubc.ca/~nando/550-2006/handouts/andrew-ng.pdf
 
+# EA
+- https://eng.uber.com/deep-neuroevolution/
+
 # Gyms
 - https://gym.openai.com
 - https://github.com/deepmind/pysc2
