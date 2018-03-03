@@ -81,6 +81,7 @@ Attempling to order by current popularity:
 ## RL/DRL Gyms
 - https://gym.openai.com
 - https://github.com/deepmind/pysc2
+- Atari-net ?
 
 ## RL/DRL Baselines
 - https://github.com/openai/baselines
