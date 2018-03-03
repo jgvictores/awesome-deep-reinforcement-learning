@@ -37,6 +37,9 @@
 - https://en.wikipedia.org/wiki/AlexNet
 - http://yann.lecun.com/exdb/mnist/
 
+## NN Misc
+- Transfer learning. Dropout. LSTM. Capsule Networks. R-CNN.
+
 # RL
 
 ## RL Frameworks
