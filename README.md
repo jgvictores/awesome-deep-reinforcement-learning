@@ -3,6 +3,9 @@
 # NN
 
 ## NN Frameworks
+- GENERAL:
+   - Presentation: https://project.inria.fr/deeplearning/files/2016/05/DLFrameworks.pdf [permalink]([https://github.com/jgvictores/awesome-machine-learning/blob/b16fadd3c56ce0d7fb3614cb63f155d5c2d4af81/doc/inria2007DLFrameworks.pdf)
+   - Docker: https://github.com/ufoym/deepo (tensorflow sonnet torch keras mxnet cntk chainer theano lasagne caffe caffe2)
 - Keras (layer over many)
    - https://keras.io
    - https://en.wikipedia.org/wiki/Keras
@@ -28,9 +31,6 @@
 - theano (DEPRECATED)
    - Tutorials: https://github.com/lisa-lab/DeepLearningTutorials
 - (EVEN MORE DEPRECATED) https://pjreddie.com/darknet/, http://www.opennn.net/, http://pybrain.org/....
-- GENERAL:
-   - Presentation: https://project.inria.fr/deeplearning/files/2016/05/DLFrameworks.pdf (permalink)[https://github.com/jgvictores/awesome-machine-learning/blob/b16fadd3c56ce0d7fb3614cb63f155d5c2d4af81/doc/inria2007DLFrameworks.pdf]
-   - Docker: https://github.com/ufoym/deepo (tensorflow sonnet torch keras mxnet cntk chainer theano lasagne caffe caffe2)
 
 ## NN Architectures
 - https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
