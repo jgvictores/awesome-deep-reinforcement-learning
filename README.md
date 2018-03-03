@@ -11,6 +11,8 @@
       - https://elitedatascience.com/keras-tutorial-deep-learning-in-python
       - https://github.com/keras-team/keras/blob/master/examples/cifar10_cnn.py
 - http://docs.chainer.org (Define-by-Run rather than Define-and-Run)
+- TensorFlow (low-level)
+   - https://github.com/llSourcell/YOLO_Object_Detection
 - https://github.com/deepmind/sonnet
 - Torch (Lua)
    - https://github.com/karpathy/char-rnn
