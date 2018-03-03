@@ -4,7 +4,7 @@
 
 ## NN Frameworks
 - GENERAL:
-   - Presentation: https://project.inria.fr/deeplearning/files/2016/05/DLFrameworks.pdf [permalink]([https://github.com/jgvictores/awesome-machine-learning/blob/b16fadd3c56ce0d7fb3614cb63f155d5c2d4af81/doc/inria2007DLFrameworks.pdf)
+   - Presentation: https://project.inria.fr/deeplearning/files/2016/05/DLFrameworks.pdf ([permalink](https://github.com/jgvictores/awesome-machine-learning/blob/b16fadd3c56ce0d7fb3614cb63f155d5c2d4af81/doc/inria2007DLFrameworks.pdf))
    - Docker: https://github.com/ufoym/deepo (tensorflow sonnet torch keras mxnet cntk chainer theano lasagne caffe caffe2)
 - Keras (layer over many)
    - https://keras.io
