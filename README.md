@@ -1,5 +1,10 @@
 # awesome-machine-learning
 
+# General
+
+## General Frameworks
+- [scikit-learn](http://scikit-learn.org) (API: Python)
+
 # NN
 
 ## NN Frameworks
