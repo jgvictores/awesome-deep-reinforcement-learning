@@ -15,6 +15,8 @@
    - https://github.com/llSourcell/YOLO_Object_Detection
 - Sonnet (DeepMind layer over TensorFlow)
    - https://github.com/deepmind/sonnet
+- MXNet (apache)
+   - https://github.com/llSourcell/MXNet
 - Torch (Lua)
    - https://github.com/karpathy/char-rnn
 - theano (DEPRECATED)
@@ -45,3 +47,6 @@
 # Gyms
 - https://gym.openai.com
 - https://github.com/SoyGema/Startcraft_pysc2_minigames
+
+# Baselines
+- https://github.com/openai/baselines
