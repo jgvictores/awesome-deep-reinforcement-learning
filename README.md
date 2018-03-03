@@ -14,7 +14,7 @@
       - https://github.com/keras-team/keras/blob/master/examples/cifar10_cnn.py
 - [Chainer](http://www.chainer.org) (Define-by-Run rather than Define-and-Run)
 - TensorFlow (low-level)
-   - https://github.com/llSourcell/YOLO_Object_Detection (original: https://pjreddie.com/darknet/yolo/)
+   - https://github.com/llSourcell/YOLO_Object_Detection (original: )
    - https://github.com/tkarras/progressive_growing_of_gans
    - https://github.com/mlberkeley/Creative-Adversarial-Networks
    - http://www.subsubroutine.com/sub-subroutine/2016/11/12/painting-like-van-gogh-with-convolutional-neural-networks
@@ -26,9 +26,14 @@
    - https://github.com/junyanz/CycleGAN (but links with theano, etc)
    - https://github.com/karpathy/char-rnn
    - https://github.com/luanfujun/deep-photo-styletransfer
-- theano (DEPRECATED)
-   - Tutorials: https://github.com/lisa-lab/DeepLearningTutorials
-- (EVEN MORE DEPRECATED) https://pjreddie.com/darknet/, http://www.opennn.net/, http://pybrain.org/....
+- theano ([MILA stopped developing](https://groups.google.com/forum/#!msg/theano-users/7Poq8BZutbY/rNCIfvAEAwAJ))
+   - Still many tutorials: https://github.com/lisa-lab/DeepLearningTutorials
+- https://pjreddie.com/darknet
+   - https://pjreddie.com/darknet/yolo
+- http://www.opennn.net
+   - Old work by Martin Stoelen
+- http://pybrain.org
+   - Old work by Santi Morante
 
 ## NN Architectures
 - https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
