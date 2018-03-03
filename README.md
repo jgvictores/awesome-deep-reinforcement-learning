@@ -16,6 +16,7 @@
    - https://github.com/llSourcell/YOLO_Object_Detection (original: https://pjreddie.com/darknet/yolo/)
    - https://github.com/tkarras/progressive_growing_of_gans
    - https://github.com/mlberkeley/Creative-Adversarial-Networks
+   - http://www.subsubroutine.com/sub-subroutine/2016/11/12/painting-like-van-gogh-with-convolutional-neural-networks
 - Sonnet (DeepMind layer over TensorFlow)
    - https://github.com/deepmind/sonnet
 - MXNet (apache)
