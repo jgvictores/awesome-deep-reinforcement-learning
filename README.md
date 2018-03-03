@@ -57,17 +57,17 @@
 - Best ref is Andrew Ng thesis: www.cs.ubc.ca/~nando/550-2006/handouts/andrew-ng.pdf
 - Reinforcement Learning: An Introduction: http://incompleteideas.net/book/bookdraft2017nov5.pdf (Richard S. Sutton is father of RL)
 
-# RL Gyms
+## RL Gyms
 - https://gym.openai.com
 - https://github.com/deepmind/pysc2
+
+## RL Baselines
+- https://github.com/openai/baselines
 
 # EA (with same objective as RL)
 - https://blog.openai.com/evolution-strategies
 - https://eng.uber.com/deep-neuroevolution/
 - CMA 2006
-
-# General: Baselines
-- https://github.com/openai/baselines
 
 # General: Books / Papers
 - http://proquest.safaribooksonline.com/book/programming/python/9781491912126
