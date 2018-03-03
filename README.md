@@ -10,7 +10,8 @@
       - https://www.datacamp.com/community/tutorials/deep-learning-python
       - https://elitedatascience.com/keras-tutorial-deep-learning-in-python
       - https://github.com/keras-team/keras/blob/master/examples/cifar10_cnn.py
-- http://docs.chainer.org (Define-by-Run rather than Define-and-Run)
+- Chainer (Define-by-Run rather than Define-and-Run)
+   - http://www.chainer.org
 - TensorFlow (low-level)
    - https://github.com/llSourcell/YOLO_Object_Detection
 - Sonnet (DeepMind layer over TensorFlow)
