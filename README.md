@@ -24,14 +24,14 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
    - https://github.com/deepmind/sonnet
 - MXNet (apache)
    - https://github.com/llSourcell/MXNet
-- theano ([MILA stopped developing](https://groups.google.com/forum/#!msg/theano-users/7Poq8BZutbY/rNCIfvAEAwAJ))
-   - Still many tutorials: https://github.com/lisa-lab/DeepLearningTutorials
 - [Darknet](https://pjreddie.com/darknet)
    - https://pjreddie.com/darknet/yolo
 - [OpenNN](http://www.opennn.net)
    - Old work by Martin Stoelen
-- [http://pybrain.org](PyBrain)
-   - Old work by Santi Morante
+- [PyBrain](http://www.pybrain.org)
+   - Old work by Santiago Morante
+- theano (very used, but down here because [MILA stopped developing](https://groups.google.com/forum/#!msg/theano-users/7Poq8BZutbY/rNCIfvAEAwAJ))
+   - Still many tutorials: https://github.com/lisa-lab/DeepLearningTutorials
 
 ## NN Architectures
 - https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
