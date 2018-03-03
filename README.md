@@ -64,7 +64,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 # Reinforcement Learning (RL) and Deep Reinforcement Learning (DRL)
 
 ## RL/DRL Frameworks
-- https://github.com/rll/rllab (keras, and sandbox tensorflow)
+- https://github.com/rll/rllab (layer above: keras, and tensorflow in sandbox)
 - Keras
    - https://github.com/haarnoja/sac
    - https://github.com/SoyGema/Startcraft_pysc2_minigames
