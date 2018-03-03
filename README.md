@@ -34,7 +34,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
    - https://github.com/tkarras/progressive_growing_of_gans
    - https://github.com/mlberkeley/Creative-Adversarial-Networks
    - http://www.subsubroutine.com/sub-subroutine/2016/11/12/painting-like-van-gogh-with-convolutional-neural-networks
-- [Chainer](http://www.chainer.org) (Define-by-Run rather than Define-and-Run)
+- [Chainer](http://www.chainer.org) ([GitHub](https://github.com/chainer/chainer)) (API: Python) (Define-by-Run rather than Define-and-Run)
 - [Sonnet](https://deepmind.com/blog/open-sourcing-sonnet/) (by DeepMind) (layer over: TensorFlow)
    - https://github.com/deepmind/sonnet
 - [MXNet](https://github.com/llSourcell/MXNet) (by Apache)
@@ -69,7 +69,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - Keras
    - https://github.com/haarnoja/sac
    - https://github.com/SoyGema/Startcraft_pysc2_minigames
-- ChainerRL ([GitHub](https://github.com/chainer/chainerrl))
+- ChainerRL ([GitHub](https://github.com/chainer/chainerrl)) (API: Python)
 
 ## RL/DRL Books
 - Best ref is Andrew Ng thesis: www.cs.ubc.ca/~nando/550-2006/handouts/andrew-ng.pdf
