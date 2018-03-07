@@ -26,7 +26,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
    - Examples/tutorials
       - https://github.com/keras-team/keras/blob/master/examples
       - https://www.datacamp.com/community/tutorials/deep-learning-python
-      - https://elitedatascience.com/keras-tutorial-deep-learning-in-python
+      - https://elitedatascience.com/keras-tutorial-deep-learning-in-python (includes deepdream, but original uses Caffe)
 - Torch (API: Lua)
    - https://github.com/junyanz/CycleGAN (but links to implementations with theano, etc)
    - https://github.com/karpathy/char-rnn
@@ -36,6 +36,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
    - https://github.com/tkarras/progressive_growing_of_gans
    - https://github.com/mlberkeley/Creative-Adversarial-Networks
    - http://www.subsubroutine.com/sub-subroutine/2016/11/12/painting-like-van-gogh-with-convolutional-neural-networks
+   - https://github.com/ckmarkoh/neuralart_tensorflow (looks like Deepdream, but short, and nice)
 - [Chainer](http://www.chainer.org) ([GitHub](https://github.com/chainer/chainer)) (API: Python) (Define-by-Run rather than Define-and-Run)
 - [Sonnet](https://deepmind.com/blog/open-sourcing-sonnet/) (by DeepMind) (layer over: TensorFlow)
    - https://github.com/deepmind/sonnet
