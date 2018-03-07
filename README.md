@@ -65,7 +65,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - GANs.
 - Transfer learning.
 - Capsule Networks. R-CNN. (time sequences) RNN and more modern LSTM. (bad rumors) RBM.
-- Dropout. Replay. 
+- Dropout.
 
 # Reinforcement Learning (RL) and Deep Reinforcement Learning (DRL)
 
@@ -91,6 +91,9 @@ Attempling to order by current popularity:
 
 ## RL/DRL Baselines
 - https://github.com/openai/baselines
+
+## RL/DRL Techniques Misc
+- Experience Replay. 
 
 # Evolutionary Algorithms (EA)
 Only accounting those with same objective as RL.
