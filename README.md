@@ -85,7 +85,8 @@ Attempling to order by current popularity:
 - Reinforcement Learning: An Introduction: http://incompleteideas.net/book/bookdraft2017nov5.pdf (Richard S. Sutton is father of RL)
 
 ## RL/DRL Gyms
-- https://gym.openai.com
+- [OpenAI Gym](https://gym.openai.com) ([GitHub](https://github.com/openai/gym)) ([docs](https://gym.openai.com/docs/))
+   - https://www.oreilly.com/learning/introduction-to-reinforcement-learning-and-openai-gym
 - PySC2 ([GitHub](https://github.com/deepmind/pysc2)) (by DeepMind) (API: Python) (Blizzard StarCraft II Learning Environment (SC2LE) component)
 - Atari-net ?
 
