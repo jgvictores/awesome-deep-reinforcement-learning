@@ -39,10 +39,11 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
    - https://github.com/ckmarkoh/neuralart_tensorflow (looks like Deepdream, but short, and nice)
 - [Caffe](http://caffe.berkeleyvision.org/) (API: Python, Matlab)
    - https://github.com/google/deepdream
-- [Chainer](http://www.chainer.org) ([GitHub](https://github.com/chainer/chainer)) (API: Python) (Define-by-Run rather than Define-and-Run)
+- [Chainer](http://www.chainer.org) ([GitHub](https://github.com/chainer/chainer)) (API: Python) (Define-by-Run rather than Define-and-Run) (in addition to chainerrl below, also https://github.com/chainer/chainercv)
 - [Sonnet](https://deepmind.com/blog/open-sourcing-sonnet/) (by DeepMind) (layer over: TensorFlow)
    - https://github.com/deepmind/sonnet
 - [MXNet](https://github.com/llSourcell/MXNet) (by Apache)
+   - https://github.com/msracver/FCIS (re-implementation in chainer: https://github.com/knorth55/chainer-fcis)
 - [Darknet](https://pjreddie.com/darknet)
    - https://pjreddie.com/darknet/yolo
 - [OpenNN](http://www.opennn.net)
