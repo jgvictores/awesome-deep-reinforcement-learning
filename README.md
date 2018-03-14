@@ -40,9 +40,8 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - [Caffe](http://caffe.berkeleyvision.org/) (API: Python, Matlab)
    - https://github.com/google/deepdream
    - FCIS, but released [MXNet version](https://github.com/msracver/FCIS), and [chainer re-implementation](https://github.com/knorth55/chainer-fcis) can also be found.
-- [Chainer](http://www.chainer.org) ([GitHub](https://github.com/chainer/chainer)) (API: Python) (Define-by-Run rather than Define-and-Run) (in addition to chainerrl below, also https://github.com/chainer/chainercv)
-- [Sonnet](https://deepmind.com/blog/open-sourcing-sonnet/) (by DeepMind) (layer over: TensorFlow)
-   - https://github.com/deepmind/sonnet
+- [Chainer](http://www.chainer.org) ([GitHub](https://github.com/chainer/chainer)) (API: Python) (Define-by-Run rather than Define-and-Run) (in addition to chainerrl below, there is also a [chainercv](https://github.com/chainer/chainercv))
+- [Sonnet](https://deepmind.com/blog/open-sourcing-sonnet/) ([GitHub](https://github.com/deepmind/sonnet)) (by DeepMind) (layer over: TensorFlow)
 - [MXNet](https://github.com/llSourcell/MXNet) (by Apache)
 - [Darknet](https://pjreddie.com/darknet)
    - https://pjreddie.com/darknet/yolo
