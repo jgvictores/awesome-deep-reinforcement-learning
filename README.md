@@ -37,6 +37,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
    - https://github.com/mlberkeley/Creative-Adversarial-Networks
    - http://www.subsubroutine.com/sub-subroutine/2016/11/12/painting-like-van-gogh-with-convolutional-neural-networks
    - https://github.com/ckmarkoh/neuralart_tensorflow (looks like Deepdream, but short, and nice)
+   - Another NN wrapper: Tensorpack ([GitHub](https://github.com/ppwwyyxx/tensorpack))
 - [Caffe](http://caffe.berkeleyvision.org/) (API: Python, Matlab)
    - https://github.com/google/deepdream
    - FCIS, but released [MXNet version](https://github.com/msracver/FCIS), and [chainer re-implementation](https://github.com/knorth55/chainer-fcis) can also be found.
