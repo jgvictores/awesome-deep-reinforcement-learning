@@ -74,9 +74,12 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - http://yann.lecun.com/exdb/mnist/
 
 ## NN/DNN Techniques Misc
+- Capsule Networks. R-CNN. (time sequences) RNN and more modern LSTM. RBM. Echo-state networks.
 - GANs.
 - Transfer learning.
-- Capsule Networks. R-CNN. (time sequences) RNN and more modern LSTM. (bad rumors) RBM.
+- Max-pooling.
+- Activation functions: ReLu.
+- Optimization: ADAM.
 - Dropout.
 
 # Reinforcement Learning (RL) and Deep Reinforcement Learning (DRL)
