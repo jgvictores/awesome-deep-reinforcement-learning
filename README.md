@@ -10,6 +10,11 @@ A curated list of General Machine Learning (ML), Neural Networks (NN) and Deep N
    - [NN/DNN Datasets](#nndnn-datasets)
    - [NN/DNN Techniques Misc](#nndnn-techniques-misc)
 - [Reinforcement Learning (RL) and Deep Reinforcement Learning (DRL)](#reinforcement-learning-rl-and-deep-reinforcement-learning-drl)
+   - [RL/DRL Frameworks](#rldrl-frameworks)
+   - [RL/DRL Books](#rldrl-books)
+   - [RL/DRL Gyms](#rldrl-gyms)
+   - [RL/DRL Baselines](#rldrl-baselines)
+   - [RL/DRL Techniques Misc](#rldrl-techniques-misc)
 - [Evolutionary Algorithms (EA)](#evolutionary-algorithms-ea)
 - [Misc tools](#misc-tools)
 
