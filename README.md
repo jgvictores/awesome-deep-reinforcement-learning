@@ -1,6 +1,6 @@
 # awesome-deep-reinforcement-learning
 
-A curated list of General Machine Learning (ML), Neural Networks (NN) and Deep Neural Networks (DNN) with many vision examples, Reinforcement Learning (RL) with videogames/robotics examples, with ultimate goal of Deep Reinforcement Learning (DRL).
+A curated list with ultimate goal of Deep Reinforcement Learning (DRL). Includes general Machine Learning (ML), Neural Networks (NN) and Deep Neural Networks (DNN) with many vision examples, Reinforcement Learning (RL) with videogames/robotics examples, all for this objective.
 
 - [General Machine Learning (ML)](#general-machine-learning-ml)
    - [General ML Books / Papers](#general-ml-frameworks)
