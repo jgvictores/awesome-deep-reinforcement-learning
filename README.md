@@ -96,8 +96,8 @@ Attempling to order by current popularity:
 - ChainerRL ([GitHub](https://github.com/chainer/chainerrl)) (API: Python)
 
 ## RL/DRL Books
-- Best ref is Andrew Ng thesis: www.cs.ubc.ca/~nando/550-2006/handouts/andrew-ng.pdf
 - Reinforcement Learning: An Introduction: http://incompleteideas.net/book/bookdraft2017nov5.pdf (Richard S. Sutton is father of RL)
+- Andrew Ng thesis: www.cs.ubc.ca/~nando/550-2006/handouts/andrew-ng.pdf
 
 ## RL/DRL Gyms
 - [OpenAI Gym](https://gym.openai.com) ([GitHub](https://github.com/openai/gym)) ([docs](https://gym.openai.com/docs/))
