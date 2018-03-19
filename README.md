@@ -2,6 +2,12 @@
 
 A curated list of General Machine Learning (ML), Neural Networks (NN) and Deep Neural Networks (DNN) with many vision examples, Reinforcement Learning (RL) with videogames/robotics examples, with ultimate goal of Deep Reinforcement Learning (DRL).
 
+- [General Machine Learning (ML)](#general-machine-learning-ml)
+- [Neural Networks (NN) and Deep Neural Networks (DNN)](#neural-networks-nn-and-deep-neural-networks-dnn)
+- [Reinforcement Learning (RL) and Deep Reinforcement Learning (DRL)](#reinforcement-learning-rl-and-deep-reinforcement-learning-drl)
+- [Evolutionary Algorithms (EA)](#evolutionary-algorithms-ea)
+- [Misc tools] (#misc-tools)
+
 # General Machine Learning (ML)
 
 ## General ML Frameworks
