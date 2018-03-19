@@ -1,6 +1,6 @@
 # awesome-deep-reinforcement-learning
 
-A curated list with the  all for this objectiveultimate goal of Deep Reinforcement Learning (DRL).
+A curated list for the ultimate goal of Deep Reinforcement Learning (DRL).
 
 To accomplish this, includes general Machine Learning (ML), Neural Networks (NN) and Deep Neural Networks (DNN) with many vision examples, and Reinforcement Learning (RL) with videogames/robotics examples. Some alternative Evolutionary Algorithms (EA) with similar objectives included too.
 
