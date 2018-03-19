@@ -1,21 +1,16 @@
-# awesome-machine-learning
+# awesome-deep-reinforcement-learning
 
-Disclaimer: Very NN/DNN (vision) and RL (videogames/robotics) oriented, perhaps biased by DRL. Repo name may be subject to change.
+A curated list of General Machine Learning (ML), Neural Networks (NN) and Deep Neural Networks (DNN) many vision examples, Reinforcement Learning (RL) with videogames/robotics examples, with ultimate goal of Deep Reinforcement Learning (DRL).
 
-# General
+# General Machine Learning (ML)
 
-## General Frameworks
+## General ML Frameworks
 - [scikit-learn](http://scikit-learn.org) (API: Python)
 - [scikit-image](http://scikit-image.org) (API: Python)
 
-## General Books / Papers
+## General ML Books / Papers
 - Jake VanderPlas, "Python Data Science Handbook", 2017. ([Safari](http://proquest.safaribooksonline.com/book/programming/python/9781491912126)) (API: Python)
 - https://github.com/terryum/awesome-deep-learning-papers#new-papers
-
-## General Other tools
-- DLPaper2Code: Auto-generation of Code from Deep Learning Research Papers: https://arxiv.org/abs/1711.03543
-- Tip: you can download the raw source of any arxiv paper. Click on the "Other formats" link, then click "Download source"
-- http://www.arxiv-sanity.com/
 
 # Neural Networks (NN) and Deep Neural Networks (DNN) 
 
@@ -103,3 +98,8 @@ Only accounting those with same objective as RL.
 - https://blog.openai.com/evolution-strategies
 - https://eng.uber.com/deep-neuroevolution/
 - CMA 2006
+
+# Misc Tools
+- DLPaper2Code: Auto-generation of Code from Deep Learning Research Papers: https://arxiv.org/abs/1711.03543
+- Tip: you can download the raw source of any arxiv paper. Click on the "Other formats" link, then click "Download source"
+- http://www.arxiv-sanity.com/
