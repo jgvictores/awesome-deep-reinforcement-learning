@@ -110,7 +110,7 @@ Attempling to order by current popularity:
 - https://github.com/openai/baselines
 
 ## RL/DRL Techniques Misc
-- Batch: REINFORCE, Truncated Natural Policy Gradient (TNPG), Trust Region Policy Optimization (TRPO), Reward-Weighted Regression, Relative Entropy Policy Search (REPS), Cross Entropy Method (CEM), A2C, ACER, ACKTR, DDPG, DQN, GAIL, HER, PPO1, PPO2.
+- Batch: REINFORCE, Truncated Natural Policy Gradient (TNPG), Trust Region Policy Optimization (TRPO), Reward-Weighted Regression, Relative Entropy Policy Search (REPS), Cross Entropy Method (CEM), A2C, A3C, ACER, ACKTR, DDPG, DQN, GAIL, HER, PPO1, PPO2.
 - Online: Deep Determisitc Policy Gradient (DDPG).
 - Experience Replay. 
 
