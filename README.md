@@ -105,13 +105,17 @@ Attempling to order by current popularity:
    - https://www.oreilly.com/learning/introduction-to-reinforcement-learning-and-openai-gym
    - Most recent [robotics environments](https://gym.openai.com/envs/#robotics) use MuJoCo, but old examples have been re-implemented in [roboschool](https://blog.openai.com/roboschool/) which is visually the same but MIT License.
 - PySC2 ([GitHub](https://github.com/deepmind/pysc2)) (by DeepMind) (API: Python) (Blizzard StarCraft II Learning Environment (SC2LE) component)
+- https://github.com/mwydmuch/ViZDoom
+- https://github.com/Microsoft/malmo
+- https://github.com/nadavbh12/Retro-Learning-Environment
+- https://github.com/twitter/torch-twrl
 - Atari-net ?
 
 ## RL/DRL Baselines
 - https://github.com/openai/baselines
 
 ## RL/DRL Techniques Misc
-- Batch: REINFORCE, Deep Q-Network (DQN), Truncated Natural Policy Gradient (TNPG), Trust Region Policy Optimization (TRPO), Reward-Weighted Regression, Relative Entropy Policy Search (REPS), Cross Entropy Method (CEM), Advantage-Actor-Critic (A2C), Asynchronous Advantage Actor-Critic (A3C), Actor-critic with Experience Replay (ACER), Actor Critic using Kronecker-Factored Trust Region (ACKTR), Generative Adversarial Imitation Learning (GAIL), Hindsight Experience Replay (HER), Proximal Policy Optimization (PPO, PPO1, PPO2).
+- Batch: REINFORCE, Deep Q-Network (DQN), Double DQN, Truncated Natural Policy Gradient (TNPG), Trust Region Policy Optimization (TRPO), Reward-Weighted Regression, Relative Entropy Policy Search (REPS), Cross Entropy Method (CEM), Advantage-Actor-Critic (A2C), Asynchronous Advantage Actor-Critic (A3C), Actor-critic with Experience Replay (ACER), Actor Critic using Kronecker-Factored Trust Region (ACKTR), Generative Adversarial Imitation Learning (GAIL), Hindsight Experience Replay (HER), Proximal Policy Optimization (PPO, PPO1, PPO2), Expected-SARSA, True Online-TD.
 - Online: Deep Determisitc Policy Gradient (DDPG).
 - Experience Replay. 
 
