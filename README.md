@@ -110,6 +110,7 @@ Attempling to order by current popularity:
 - https://github.com/openai/baselines
 
 ## RL/DRL Techniques Misc
+- REINFORCE, A2C, ACER, ACKTR, DDPG, DQN, GAIL, HER, PPO1, PPO2, TRPO.
 - Experience Replay. 
 
 # Evolutionary Algorithms (EA)
