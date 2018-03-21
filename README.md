@@ -98,6 +98,7 @@ Attempling to order by current popularity:
 - TensorForce ([GitHub](https://github.com/reinforceio/tensorforce)) (uses tensorflow)
 - keras-rl ([GitHub](https://github.com/keras-rl/keras-rl)) (uses keras)
 - https://github.com/geek-ai/MAgent (uses tensorflow)
+- http://ray.readthedocs.io/en/latest/rllib.html (API: Python)
 - http://burlap.cs.brown.edu/ (API: Java)
 
 ## RL/DRL Books
@@ -119,7 +120,7 @@ Attempling to order by current popularity:
 - https://github.com/openai/baselines
 
 ## RL/DRL Techniques Misc
-- Batch: REINFORCE, Deep Q-Network (DQN),  Expected-SARSA, True Online Temporal-Difference (TD), Double DQN, Truncated Natural Policy Gradient (TNPG), Trust Region Policy Optimization (TRPO), Reward-Weighted Regression, Relative Entropy Policy Search (REPS), Cross Entropy Method (CEM), Advantage-Actor-Critic (A2C), Asynchronous Advantage Actor-Critic (A3C), Actor-critic with Experience Replay (ACER), Actor Critic using Kronecker-Factored Trust Region (ACKTR), Generative Adversarial Imitation Learning (GAIL), Hindsight Experience Replay (HER), Proximal Policy Optimization (PPO, PPO1, PPO2).
+- Batch: REINFORCE, Deep Q-Network (DQN),  Expected-SARSA, True Online Temporal-Difference (TD), Double DQN, Truncated Natural Policy Gradient (TNPG), Trust Region Policy Optimization (TRPO), Reward-Weighted Regression, Relative Entropy Policy Search (REPS), Cross Entropy Method (CEM), Advantage-Actor-Critic (A2C), Asynchronous Advantage Actor-Critic (A3C), Actor-critic with Experience Replay (ACER), Actor Critic using Kronecker-Factored Trust Region (ACKTR), Generative Adversarial Imitation Learning (GAIL), Hindsight Experience Replay (HER), Proximal Policy Optimization (PPO, PPO1, PPO2), Ape-X Distributed Prioritized Experience Replay.
 - Online: Deep Determisitc Policy Gradient (DDPG).
 - Experience Replay. 
 
