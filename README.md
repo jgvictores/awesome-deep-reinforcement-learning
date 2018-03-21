@@ -93,6 +93,7 @@ Attempling to order by current popularity:
    - https://github.com/SoyGema/Startcraft_pysc2_minigames
 - Torch
    - https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner
+   - https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752 (originally in tensorflow)
 - ChainerRL ([GitHub](https://github.com/chainer/chainerrl)) (API: Python)
 
 ## RL/DRL Books
@@ -110,7 +111,7 @@ Attempling to order by current popularity:
 - https://github.com/openai/baselines
 
 ## RL/DRL Techniques Misc
-- Batch: REINFORCE, Truncated Natural Policy Gradient (TNPG), Trust Region Policy Optimization (TRPO), Reward-Weighted Regression, Relative Entropy Policy Search (REPS), Cross Entropy Method (CEM), A2C, A3C, ACER, ACKTR, DDPG, DQN, GAIL, HER, PPO1, PPO2.
+- Batch: REINFORCE, Truncated Natural Policy Gradient (TNPG), Trust Region Policy Optimization (TRPO), Reward-Weighted Regression, Relative Entropy Policy Search (REPS), Cross Entropy Method (CEM), Advantage-Actor-Critic (A2C), A3C, ACER, ACKTR, DDPG, DQN, GAIL, HER, PPO1, PPO2.
 - Online: Deep Determisitc Policy Gradient (DDPG).
 - Experience Replay. 
 
