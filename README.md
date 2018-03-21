@@ -95,6 +95,7 @@ Attempling to order by current popularity:
    - https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner
    - https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752 (originally in tensorflow)
 - ChainerRL ([GitHub](https://github.com/chainer/chainerrl)) (API: Python)
+- TensorForce ([GitHub](https://github.com/reinforceio/tensorforce)) (uses tensorflow)
 
 ## RL/DRL Books
 - Reinforcement Learning: An Introduction: http://incompleteideas.net/book/bookdraft2017nov5.pdf (Richard S. Sutton is father of RL)
