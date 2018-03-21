@@ -110,14 +110,14 @@ Attempling to order by current popularity:
 - https://github.com/openai/baselines
 
 ## RL/DRL Techniques Misc
-- REINFORCE, A2C, ACER, ACKTR, DDPG, DQN, GAIL, HER, PPO1, PPO2, TRPO.
+- REINFORCE, Truncated Natural Policy Gradient (TNPG), Trust Region Policy Optimization (TRPO), Relative Entropy Policy Search (REPS), Cross Entropy Method (CEM), A2C, ACER, ACKTR, DDPG, DQN, GAIL, HER, PPO1, PPO2.
 - Experience Replay. 
 
 # Evolutionary Algorithms (EA)
 Only accounting those with same objective as RL.
 - https://blog.openai.com/evolution-strategies
 - https://eng.uber.com/deep-neuroevolution/
-- CMA 2006
+- Covariance Matrix Adaptation Evolution Strategy (CMA-ES)
 
 # Misc Tools
 - DLPaper2Code: Auto-generation of Code from Deep Learning Research Papers: https://arxiv.org/abs/1711.03543
