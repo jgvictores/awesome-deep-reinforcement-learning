@@ -86,7 +86,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 
 ## RL/DRL Frameworks
 Attempling to order by current popularity:
-- rllab ([GitHub](https://github.com/rll/rllab)) ([readthedocs](http://rllab.readthedocs.io)) (layer above: keras, and tensorflow in sandbox)
+- rllab ([GitHub](https://github.com/rll/rllab)) ([readthedocs](http://rllab.readthedocs.io)) (officialy uses theano; in practice has some keras, tensorflow, torch, chainer...)
 - Keras
    - https://becominghuman.ai/lets-build-an-atari-ai-part-0-intro-to-rl-9b2c5336e0ec
    - https://github.com/haarnoja/sac
