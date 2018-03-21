@@ -97,6 +97,7 @@ Attempling to order by current popularity:
 - ChainerRL ([GitHub](https://github.com/chainer/chainerrl)) (API: Python)
 - TensorForce ([GitHub](https://github.com/reinforceio/tensorforce)) (uses tensorflow)
 - keras-rl ([GitHub](https://github.com/keras-rl/keras-rl)) (uses keras)
+- http://burlap.cs.brown.edu/ (API: Java)
 
 ## RL/DRL Books
 - Reinforcement Learning: An Introduction: http://incompleteideas.net/book/bookdraft2017nov5.pdf (Richard S. Sutton is father of RL)
