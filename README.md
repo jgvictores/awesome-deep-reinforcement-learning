@@ -69,12 +69,13 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
 - http://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/
 - https://en.wikipedia.org/wiki/AlexNet
+- SSD: https://arxiv.org/abs/1512.02325 (orig caffe: https://github.com/intel/caffe/wiki/SSD:-Single-Shot-MultiBox-Detector)
 - MobileNet-SSD: https://arxiv.org/abs/1704.04861
 
 ## NN/DNN Datasets
 - http://yann.lecun.com/exdb/mnist/
 - http://www.image-net.org/
-- ImageNet Large Scale Visual Recognition Challenge (ILSVRC)
+- ImageNet Large Scale Visual Recognition Challenge (ILSVRC), e.g. LS-LOC
 - PASCAL VOC
 - MS COCO
 
