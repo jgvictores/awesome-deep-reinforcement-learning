@@ -68,10 +68,11 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 ## NN/DNN Architectures
 - https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
 - http://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/
+- https://en.wikipedia.org/wiki/AlexNet
+- MobileNet: https://arxiv.org/abs/1704.04861
 
 ## NN/DNN Datasets
 - http://www.image-net.org/
-- https://en.wikipedia.org/wiki/AlexNet
 - http://yann.lecun.com/exdb/mnist/
 
 ## NN/DNN Techniques Misc
