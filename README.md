@@ -59,6 +59,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - [MXNet](https://github.com/llSourcell/MXNet) (by Apache)
 - [Darknet](https://pjreddie.com/darknet)
    - https://pjreddie.com/darknet/yolo
+- [OpenCV](https://www.opencv.org) now has some DNN: https://docs.opencv.org/3.3.0/d2/d58/tutorial_table_of_content_dnn.html
 - [OpenNN](http://www.opennn.net)
 - [PyBrain](http://www.pybrain.org)
 - theano (very used, but down here because [MILA stopped developing](https://groups.google.com/forum/#!msg/theano-users/7Poq8BZutbY/rNCIfvAEAwAJ))
