@@ -69,11 +69,14 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
 - http://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/
 - https://en.wikipedia.org/wiki/AlexNet
-- MobileNet: https://arxiv.org/abs/1704.04861
+- MobileNet-SSD: https://arxiv.org/abs/1704.04861
 
 ## NN/DNN Datasets
-- http://www.image-net.org/
 - http://yann.lecun.com/exdb/mnist/
+- http://www.image-net.org/
+- ImageNet Large Scale Visual Recognition Challenge (ILSVRC)
+- PASCAL VOC
+- MS COCO
 
 ## NN/DNN Techniques Misc
 - Capsule Networks. R-CNN. (time sequences) RNN and more modern LSTM. RBM. Echo-state networks.
