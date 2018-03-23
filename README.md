@@ -80,7 +80,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - GANs.
 - Transfer learning.
 - Max-pooling.
-- Activation functions: softmax, exponential linear unit (elu), scaled exponential linear unit (selu), softplus, softsign, tanh, sigmoid, hard sigmoid, linear. ([keras-docs](https://keras.io/activations/)
+- Activation functions: softmax, exponential linear unit (elu), scaled exponential linear unit (selu), softplus, softsign, tanh, sigmoid, hard sigmoid, linear. ([keras-docs](https://keras.io/activations/))
 - Advanced activation functions: Leaky version of a Rectified Linear Unit (LeakyReLU), Parametric Rectified Linear Unit (PReLU), Exponential Linear Unit (ELU). ([keras-docs](https://keras.io/layers/advanced-activations/)) 
 - Optimization: ADAM.
 - Dropout.
