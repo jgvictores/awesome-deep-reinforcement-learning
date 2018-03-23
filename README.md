@@ -80,7 +80,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - GANs.
 - Transfer learning.
 - Max-pooling.
-- Activation functions: ReLu.
+- Activation functions: ReLu, softmax.
 - Optimization: ADAM.
 - Dropout.
 
