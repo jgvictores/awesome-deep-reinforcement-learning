@@ -136,6 +136,8 @@ Only accounting those with same objective as RL.
 - https://blog.openai.com/evolution-strategies
 - https://eng.uber.com/deep-neuroevolution/
 - Covariance Matrix Adaptation Evolution Strategy (CMA-ES)
+    - https://github.com/CMA-ES/pycma
+    - https://github.com/hardmaru/estool
 
 # Misc Tools
 - DLPaper2Code: Auto-generation of Code from Deep Learning Research Papers: https://arxiv.org/abs/1711.03543
