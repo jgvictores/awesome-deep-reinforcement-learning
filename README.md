@@ -101,6 +101,8 @@ Attempling to order by current popularity:
 - Torch
    - https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner
    - https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752 (originally in tensorflow)
+- PyTorch
+   - https://github.com/ikostrikov/pytorch-a2c-ppo-acktr
 - ChainerRL ([GitHub](https://github.com/chainer/chainerrl)) (API: Python)
 - TensorForce ([GitHub](https://github.com/reinforceio/tensorforce)) (uses tensorflow)
 - keras-rl ([GitHub](https://github.com/keras-rl/keras-rl)) (uses keras)
