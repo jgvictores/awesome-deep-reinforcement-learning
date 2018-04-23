@@ -66,8 +66,9 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
    - Still many tutorials: https://github.com/lisa-lab/DeepLearningTutorials
 
 ## NN/DNN Architectures
-- MobileNet-SSD: https://arxiv.org/abs/1704.04861
-- SSD: https://arxiv.org/abs/1512.02325 (orig caffe: [GitHub](https://github.com/intel/caffe/wiki/SSD:-Single-Shot-MultiBox-Detector))
+- MobileNets ([arxiv](https://arxiv.org/abs/1704.04861))
+- YOLO9000 ([arxiv](https://arxiv.org/abs/1612.08242))
+- SSD ([arxiv](https://arxiv.org/abs/1512.02325)) (orig caffe: [GitHub](https://github.com/intel/caffe/wiki/SSD:-Single-Shot-MultiBox-Detector))
 - ResNet (2015)
 - GoogleNet (2014)
 - VGGNet (2014)
@@ -77,7 +78,6 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - Links to overviews:
    - https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
    - http://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/
-
 
 ## NN/DNN Datasets
 - http://yann.lecun.com/exdb/mnist/
