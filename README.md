@@ -125,10 +125,10 @@ Attempling to order by current popularity:
 - [OpenAI Gym](https://gym.openai.com) ([GitHub](https://github.com/openai/gym)) ([docs](https://gym.openai.com/docs/))
    - https://www.oreilly.com/learning/introduction-to-reinforcement-learning-and-openai-gym
    - Most recent [robotics environments](https://gym.openai.com/envs/#robotics) use MuJoCo, but old examples have been re-implemented in [roboschool](https://blog.openai.com/roboschool/) which is visually the same but MIT License.
-- PySC2 ([GitHub](https://github.com/deepmind/pysc2)) (by DeepMind) (API: Python) (Blizzard StarCraft II Learning Environment (SC2LE) component)
    - https://github.com/duckietown/gym-duckietown
    - https://github.com/ppaquette/gym-doom
 - https://github.com/mwydmuch/ViZDoom
+- PySC2 ([GitHub](https://github.com/deepmind/pysc2)) (by DeepMind) (API: Python) (Blizzard StarCraft II Learning Environment (SC2LE) component)
 - https://github.com/Microsoft/malmo
 - https://github.com/nadavbh12/Retro-Learning-Environment
 - https://github.com/twitter/torch-twrl
