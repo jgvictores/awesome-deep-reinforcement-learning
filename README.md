@@ -127,6 +127,7 @@ Attempling to order by current popularity:
    - Most recent [robotics environments](https://gym.openai.com/envs/#robotics) use MuJoCo, but old examples have been re-implemented in [roboschool](https://blog.openai.com/roboschool/) which is visually the same but MIT License.
 - PySC2 ([GitHub](https://github.com/deepmind/pysc2)) (by DeepMind) (API: Python) (Blizzard StarCraft II Learning Environment (SC2LE) component)
    - https://github.com/duckietown/gym-duckietown
+   - https://github.com/ppaquette/gym-doom
 - https://github.com/mwydmuch/ViZDoom
 - https://github.com/Microsoft/malmo
 - https://github.com/nadavbh12/Retro-Learning-Environment
