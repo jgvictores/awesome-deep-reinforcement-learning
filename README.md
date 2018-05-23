@@ -93,7 +93,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - Max-pooling.
 - Activation functions: softmax, exponential linear unit (elu), scaled exponential linear unit (selu), softplus, softsign, tanh, sigmoid, hard sigmoid, linear, logit. ([keras-docs](https://keras.io/activations/))([wikipedia](https://en.wikipedia.org/wiki/Activation_function))
 - Advanced activation functions: Leaky version of a Rectified Linear Unit (LeakyReLU), Parametric Rectified Linear Unit (PReLU), Exponential Linear Unit (ELU). ([keras-docs](https://keras.io/layers/advanced-activations/)) 
-- Optimization: ADAM.
+- Optimization: Insofar, RMSprop, Adadelta, Adam.
 - Dropout.
 
 # Reinforcement Learning (RL) and Deep Reinforcement Learning (DRL)
