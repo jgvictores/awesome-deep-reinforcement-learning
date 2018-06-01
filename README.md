@@ -85,6 +85,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - ImageNet Large Scale Visual Recognition Challenge (ILSVRC), e.g. LS-LOC
 - PASCAL VOC
 - MS COCO
+- CIFAR-10 and CIFAR-100 (https://www.cs.toronto.edu/~kriz/cifar.html)
 
 ## NN/DNN Techniques Misc
 - Capsule Networks. R-CNN. (time sequences) RNN and more modern LSTM. RBM. Echo-state networks.
