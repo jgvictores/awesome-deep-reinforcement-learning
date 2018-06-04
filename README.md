@@ -129,6 +129,7 @@ Attempling to order by current popularity:
    - https://github.com/duckietown/gym-duckietown
    - https://github.com/arex18/rocket-lander
    - https://github.com/ppaquette/gym-doom
+   - https://github.com/benelot/pybullet-gym
 - https://github.com/mwydmuch/ViZDoom
 - PySC2 ([GitHub](https://github.com/deepmind/pysc2)) (by DeepMind) (API: Python) (Blizzard StarCraft II Learning Environment (SC2LE) component)
 - https://github.com/Microsoft/malmo
