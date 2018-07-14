@@ -98,7 +98,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - Gradient descent optimization algorithms: Momentum, Nesterov accelerated gradient, Adagrad, Adadelta, RMSprop, Adam, AdaMax, Nadam, AMSGrad. ([ref](https://arxiv.org/pdf/1609.04747.pdf))
 - Parallelizing and distributing SGD: Hogwild!, Downpour SGD, Delay-tolerant Algorithms for SGD, TensorFlow, Elastic Averaging SGD.
 - Additional strategies for optimizing SGD: Shuffling and Curriculum Learning, Batch normalization, Early Stopping, Gradient noise.
-- Dropout.
+- Regularization techniques: L2/L1/Maxnorm regularization, dropout, batch and weight normalization, data augmentation, early stopping, gradient checking.
 
 # Reinforcement Learning (RL) and Deep Reinforcement Learning (DRL)
 
