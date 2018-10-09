@@ -7,7 +7,7 @@ To accomplish this, includes general Machine Learning (ML), Neural Networks (NN)
 - [General Machine Learning (ML)](#general-machine-learning-ml)
    - [General ML Books / Papers](#general-ml-frameworks)
 - [Neural Networks (NN) and Deep Neural Networks (DNN)](#neural-networks-nn-and-deep-neural-networks-dnn)
-   - [NN/DNN Frameworks](#nndnn-frameworks)
+   - [NN/DNN Software Frameworks](#nndnn-software-frameworks)
    - [NN/DNN Architectures](#nndnn-architectures)
    - [NN/DNN Datasets](#nndnn-datasets)
    - [NN/DNN Techniques Misc](#nndnn-techniques-misc)
@@ -32,7 +32,7 @@ To accomplish this, includes general Machine Learning (ML), Neural Networks (NN)
 
 # Neural Networks (NN) and Deep Neural Networks (DNN) 
 
-## NN/DNN Frameworks
+## NN/DNN Software Frameworks
 Here's a good overview [presentation](https://project.inria.fr/deeplearning/files/2016/05/DLFrameworks.pdf) ([permalink](https://github.com/jgvictores/awesome-deep-reinforcement-learning/blob/143a885cc10b4331b9b3fa3e1a9436d5325676af/doc/inria2017DLFrameworks.pdf)), and here's a very full [Docker](https://github.com/ufoym/deepo) with (tensorflow sonnet torch keras mxnet cntk chainer theano lasagne caffe caffe2). Attempling to order by current popularity:
 - [Keras](https://keras.io) (layer over: TensorFlow, theano...) (API: Python)
    - https://en.wikipedia.org/wiki/Keras
