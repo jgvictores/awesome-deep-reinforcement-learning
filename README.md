@@ -80,7 +80,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
    - http://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/
 
 ## NN/DNN Datasets
-- http://yann.lecun.com/exdb/mnist/
+- [MNIST](http://yann.lecun.com/exdb/mnist/): Handwritten digits, set of 70000 examples, is a subset of a larger set available from NIST.
 - [ImageNet](http://www.image-net.org/): Organized according to the WordNet hierarchy. Includes SIFT features, bounding boxes, attributes. 14197122 images, 21841 synsets indexed. ImageNet Large Scale Visual Recognition Challenge (ILSVRC), e.g. LS-LOC
 - PASCAL VOC (Visual Object Classes): http://host.robots.ox.ac.uk/pascal/VOC/
 - [COCO](http://cocodataset.org) (Common Objects in Context): 2014, 2015, 2017. Includes classes and annotations.
