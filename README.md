@@ -85,7 +85,8 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - ImageNet Large Scale Visual Recognition Challenge (ILSVRC), e.g. LS-LOC
 - PASCAL VOC (Visual Object Classes): http://host.robots.ox.ac.uk/pascal/VOC/
 - MS COCO (Common Objects in Context): http://cocodataset.org
-- CIFAR-10 and CIFAR-100 (https://www.cs.toronto.edu/~kriz/cifar.html)
+- [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html): 60000 32x32 colour images in 10 classes, with 6000 images per class
+- [CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html): 60000 32x32 colour images in 100 classes containing 600 images per class, grouped into 20 superclasses
 - Link to overview: https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research
 
 ## NN/DNN Techniques Misc
