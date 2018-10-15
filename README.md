@@ -83,8 +83,8 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - http://yann.lecun.com/exdb/mnist/
 - http://www.image-net.org/
 - ImageNet Large Scale Visual Recognition Challenge (ILSVRC), e.g. LS-LOC
-- PASCAL VOC
-- MS COCO
+- PASCAL VOC (Visual Object Classes): http://host.robots.ox.ac.uk/pascal/VOC/
+- MS COCO (Common Objects in Context): http://cocodataset.org
 - CIFAR-10 and CIFAR-100 (https://www.cs.toronto.edu/~kriz/cifar.html)
 - Link to overview: https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research
 
