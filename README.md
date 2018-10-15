@@ -86,6 +86,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - PASCAL VOC
 - MS COCO
 - CIFAR-10 and CIFAR-100 (https://www.cs.toronto.edu/~kriz/cifar.html)
+- Link to overview: https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research
 
 ## NN/DNN Techniques Misc
 - Capsule Networks. R-CNN. (time sequences) RNN and more modern LSTM. RBM. Echo-state networks.
