@@ -99,7 +99,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - Link to overview: https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research
 
 ## NN/DNN Pretrained
-- [ResNet50 + ImageNet (keras)](https://www.kaggle.com/keras/resnet50)
+- VGG16, VGG19, ResNet50, InceptionV3, InceptionResNetV2, Xception trained on ImageNet: [keras](https://www.kaggle.com/keras)
 
 ## NN/DNN Techniques Misc
 - Capsule Networks. R-CNN. (time sequences) RNN and more modern LSTM. RBM. Echo-state networks.
