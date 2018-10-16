@@ -85,7 +85,8 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 ## NN/DNN Datasets
 - [MNIST](http://yann.lecun.com/exdb/mnist/): Handwritten digits, set of 70000 examples, is a subset of a larger set available from NIST.
 - [ImageNet](http://www.image-net.org/): Organized according to the WordNet hierarchy. Includes SIFT features, bounding boxes, attributes. 14197122 images, 21841 synsets indexed. ImageNet Large Scale Visual Recognition Challenge (ILSVRC), e.g. LS-LOC
-- PASCAL VOC (Visual Object Classes): http://host.robots.ox.ac.uk/pascal/VOC/
+- [MIT Places](http://places.csail.mit.edu/)
+- [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/) (Visual Object Classes)
 - [COCO](http://cocodataset.org) (Common Objects in Context): 2014, 2015, 2017. Includes classes and annotations.
 - [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html): 60000 32x32 colour images (selected from MIT TinyImages) in 10 classes, with 6000 images per class
 - [CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html): 60000 32x32 colour images (selected from MIT TinyImages) in 100 classes containing 600 images per class, grouped into 20 superclasses
