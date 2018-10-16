@@ -10,7 +10,7 @@ To accomplish this, includes general Machine Learning (ML), Neural Networks (NN)
    - [NN/DNN Software Frameworks](#nndnn-software-frameworks)
    - [NN/DNN Architectures](#nndnn-architectures)
    - [NN/DNN Datasets](#nndnn-datasets)
-   - [NN/DNN Datasets](#nndnn-pretrained)
+   - [NN/DNN Pretrained](#nndnn-pretrained)
    - [NN/DNN Techniques Misc](#nndnn-techniques-misc)
 - [Reinforcement Learning (RL) and Deep Reinforcement Learning (DRL)](#reinforcement-learning-rl-and-deep-reinforcement-learning-drl)
    - [RL/DRL Frameworks](#rldrl-frameworks)
@@ -83,7 +83,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
    - http://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/
    - https://medium.com/@sidereal/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5
 - Implementation/tutorials:
-   - [ImageNet: VGGNet, ResNet, Inception, and Xception (keras)](https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/)
+
 - Viewers: [Netscope (caffe)](http://ethereon.github.io/netscope) / [cnnvisualizer (caffe)](https://github.com/metalbubble/cnnvisualizer)
 
 ## NN/DNN Datasets
@@ -100,6 +100,8 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 
 ## NN/DNN Pretrained
 - VGG16, VGG19, ResNet50, InceptionV3, InceptionResNetV2, Xception trained on ImageNet: [keras](https://www.kaggle.com/keras)
+- VGG16 trained on ImageNet (tutorial): [keras](https://www.pyimagesearch.com/2016/08/10/imagenet-classification-with-python-and-keras/)
+- VGGNet, ResNet, Inception, and Xception trained on ImageNet (tutorial): [keras](https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/)
 
 ## NN/DNN Techniques Misc
 - Capsule Networks. R-CNN. (time sequences) RNN and more modern LSTM. RBM. Echo-state networks.
