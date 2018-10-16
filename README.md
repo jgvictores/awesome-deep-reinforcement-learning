@@ -40,6 +40,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
       - https://github.com/keras-team/keras/blob/master/examples
       - https://www.datacamp.com/community/tutorials/deep-learning-python
       - https://elitedatascience.com/keras-tutorial-deep-learning-in-python (includes deepdream, but original uses Caffe)
+- [PyTorch](https://pytorch.org/) (API: Python)
 - Torch (API: Lua)
    - https://github.com/junyanz/CycleGAN (but links to implementations with theano, etc)
    - https://github.com/karpathy/char-rnn
@@ -115,11 +116,12 @@ Attempling to order by current popularity:
    - https://becominghuman.ai/lets-build-an-atari-ai-part-0-intro-to-rl-9b2c5336e0ec
    - https://github.com/haarnoja/sac
    - https://github.com/SoyGema/Startcraft_pysc2_minigames
+- PyTorch
+   - https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
+   - https://github.com/ikostrikov/pytorch-a2c-ppo-acktr
 - Torch
    - https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner
    - https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752 (originally in tensorflow)
-- PyTorch
-   - https://github.com/ikostrikov/pytorch-a2c-ppo-acktr
 - ChainerRL ([GitHub](https://github.com/chainer/chainerrl)) (API: Python)
 - TensorForce ([GitHub](https://github.com/reinforceio/tensorforce)) (uses tensorflow)
 - keras-rl ([GitHub](https://github.com/keras-rl/keras-rl)) (uses keras)
