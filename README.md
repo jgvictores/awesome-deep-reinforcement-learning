@@ -10,6 +10,7 @@ To accomplish this, includes general Machine Learning (ML), Neural Networks (NN)
    - [NN/DNN Software Frameworks](#nndnn-software-frameworks)
    - [NN/DNN Architectures](#nndnn-architectures)
    - [NN/DNN Datasets](#nndnn-datasets)
+   - [NN/DNN Datasets](#nndnn-pretrained)
    - [NN/DNN Techniques Misc](#nndnn-techniques-misc)
 - [Reinforcement Learning (RL) and Deep Reinforcement Learning (DRL)](#reinforcement-learning-rl-and-deep-reinforcement-learning-drl)
    - [RL/DRL Frameworks](#rldrl-frameworks)
@@ -70,7 +71,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - MobileNets ([arxiv](https://arxiv.org/abs/1704.04861))
 - YOLO9000 ([arxiv](https://arxiv.org/abs/1612.08242))
 - SSD ([arxiv](https://arxiv.org/abs/1512.02325)) (orig caffe: [GitHub](https://github.com/intel/caffe/wiki/SSD:-Single-Shot-MultiBox-Detector))
-- ResNet (2015). Paper: [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385). Pre-trained: [ResNet50 (keras)](https://www.kaggle.com/keras/resnet50)
+- ResNet (2015). Paper: [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385). Variants: ResNet50, ResNet101, ResNet152...
 - GoogleNet (2014)
 - VGGNet (2014)
 - Network In Network (NIN) (2013)
@@ -83,17 +84,22 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
    - https://medium.com/@sidereal/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5
 - Implementation/tutorials:
    - [ImageNet: VGGNet, ResNet, Inception, and Xception (keras)](https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/)
+- Viewers: [Netscope (caffe)](http://ethereon.github.io/netscope) / [cnnvisualizer (caffe)](https://github.com/metalbubble/cnnvisualizer)
 
 ## NN/DNN Datasets
 - [MNIST](http://yann.lecun.com/exdb/mnist/): Handwritten digits, set of 70000 examples, is a subset of a larger set available from NIST.
 - [ImageNet](http://www.image-net.org/): Project organized according to the WordNet hierarchy (22000 categories). Includes SIFT features, bounding boxes, attributes. Currently over 14 million images, 21841 cognitive synonyms (synsets) indexed, goal of +1000 images per synset.
    - ImageNet Large Visual Recognition Challenge (ILSVRC): Goal of 1000 categories using +100000 test images. E.g. LS-LOC
-- [MIT Places](http://places.csail.mit.edu/)
 - [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/) (Visual Object Classes)
 - [COCO](http://cocodataset.org) (Common Objects in Context): 2014, 2015, 2017. Includes classes and annotations.
 - [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html): 60000 32x32 colour images (selected from MIT TinyImages) in 10 classes, with 6000 images per class
 - [CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html): 60000 32x32 colour images (selected from MIT TinyImages) in 100 classes containing 600 images per class, grouped into 20 superclasses
+- [MIT Places](http://places.csail.mit.edu/)
+- [MIT Moments](http://moments.csail.mit.edu/)
 - Link to overview: https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research
+
+## NN/DNN Pretrained
+- [ResNet50 + ImageNet (keras)](https://www.kaggle.com/keras/resnet50)
 
 ## NN/DNN Techniques Misc
 - Capsule Networks. R-CNN. (time sequences) RNN and more modern LSTM. RBM. Echo-state networks.
