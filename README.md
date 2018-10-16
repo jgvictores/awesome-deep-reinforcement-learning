@@ -70,7 +70,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - MobileNets ([arxiv](https://arxiv.org/abs/1704.04861))
 - YOLO9000 ([arxiv](https://arxiv.org/abs/1612.08242))
 - SSD ([arxiv](https://arxiv.org/abs/1512.02325)) (orig caffe: [GitHub](https://github.com/intel/caffe/wiki/SSD:-Single-Shot-MultiBox-Detector))
-- ResNet (2015)
+- ResNet (2015). Paper: [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385). Pre-trained: [ResNet50 (keras)](https://www.kaggle.com/keras/resnet50)
 - GoogleNet (2014)
 - VGGNet (2014)
 - Network In Network (NIN) (2013)
@@ -85,7 +85,8 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 
 ## NN/DNN Datasets
 - [MNIST](http://yann.lecun.com/exdb/mnist/): Handwritten digits, set of 70000 examples, is a subset of a larger set available from NIST.
-- [ImageNet](http://www.image-net.org/): Organized according to the WordNet hierarchy. Includes SIFT features, bounding boxes, attributes. 14197122 images, 21841 synsets indexed. ImageNet Large Scale Visual Recognition Challenge (ILSVRC), e.g. LS-LOC
+- [ImageNet](http://www.image-net.org/): Project organized according to the WordNet hierarchy (22000 categories). Includes SIFT features, bounding boxes, attributes. Currently over 14 million images, 21841 cognitive synonyms (synsets) indexed, goal of +1000 images per synset.
+   - ImageNet Large Visual Recognition Challenge (ILSVRC): Goal of 1000 categories using +100000 test images. E.g. LS-LOC
 - [MIT Places](http://places.csail.mit.edu/)
 - [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/) (Visual Object Classes)
 - [COCO](http://cocodataset.org) (Common Objects in Context): 2014, 2015, 2017. Includes classes and annotations.
