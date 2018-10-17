@@ -106,6 +106,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
    - VGGNet, ResNet, Inception, and Xception trained on ImageNet (tutorial): [keras](https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/)
    - VGG16 trained on ILSVRC: [caffe by original VGG author](https://gist.github.com/ksimonyan/211839e770f7b538e2d8) / ported (tutorials): [tensorflow](https://www.cs.toronto.edu/~frossard/post/vgg16/) / [keras](https://gist.github.com/baraldilorenzo/07d7802847aaad0a35d3) / [keras ImageNet weights](https://drive.google.com/file/d/0Bz7KyqmuGsilT0J5dmRCM0ROVHc)
 - Misc:
+   - Small examples: [keras by keras](https://github.com/keras-team/keras/tree/master/examples) ([permalink](https://github.com/keras-team/keras/tree/e15533e6c725dca8c37a861aacb13ef149789433/examples))
    - Model zoo: [caffe](https://github.com/BVLC/caffe/wiki/Model-Zoo)
 
 ## NN/DNN Techniques Misc
