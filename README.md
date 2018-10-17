@@ -102,7 +102,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - VGGNet, ResNet, Inception, and Xception trained on ImageNet (tutorial): [keras](https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/)
 
 ## NN/DNN Techniques Misc
-- Capsule Networks. R-CNN. (time sequences) RNN and more modern LSTM. RBM. Echo-state networks.
+- Capsule Networks. R-CNN. (time sequences) RNN and more modern LSTM. RBM. Echo-state networks. Inception modules.
 - GANs.
 - Transfer learning.
 - Max-pooling.
