@@ -70,10 +70,10 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 ## NN/DNN Architectures
 - MobileNets ([arxiv](https://arxiv.org/abs/1704.04861))
 - YOLO9000 ([arxiv](https://arxiv.org/abs/1612.08242))
-- SSD ([arxiv](https://arxiv.org/abs/1512.02325)) (orig caffe: [GitHub](https://github.com/intel/caffe/wiki/SSD:-Single-Shot-MultiBox-Detector))
-- ResNet (2015). Paper: [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385). Variants: ResNet50, ResNet101, ResNet152...
+- SSD ([arxiv](https://arxiv.org/abs/1512.02325)). (orig: [caffe](https://github.com/intel/caffe/wiki/SSD:-Single-Shot-MultiBox-Detector))
+- ResNet (2015). ([arxiv](https://arxiv.org/abs/1512.03385)). Variants: ResNet50, ResNet101, ResNet152...
 - GoogleNet (2014)
-- VGGNet (2014). Input: 224*224*3. Variants: VGG16, VGG19.
+- VGGNet (2014). ([arXiv](https://arxiv.org/abs/1409.1556)). Input: 224*224*3. Variants: VGG16, VGG19.
 - Network In Network (NIN) (2013)
 - OverFeat (2013)
 - AlexNet (2012) ([wikipedia](https://en.wikipedia.org/wiki/AlexNet))
@@ -97,6 +97,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - Link to overview: https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research
 
 ## NN/DNN Pretrained
+- VGG16 trained on CIFAR-10 and CIFAR-100: [keras](https://github.com/geifmany/cifar-vgg) / [keras CIFAR-10 weights](https://drive.google.com/open?id=0B4odNGNGJ56qVW9JdkthbzBsX28) / [keras CIFAR-100 weights](https://drive.google.com/open?id=0B4odNGNGJ56qTEdnT1RjTU44Zms)
 - VGG16, VGG19, ResNet50, InceptionV3, InceptionResNetV2, Xception trained on ImageNet: [keras](https://www.kaggle.com/keras)
 - VGG16 trained on ImageNet (tutorial): [keras](https://www.pyimagesearch.com/2016/08/10/imagenet-classification-with-python-and-keras/)
 - VGGNet, ResNet, Inception, and Xception trained on ImageNet (tutorial): [keras](https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/)
