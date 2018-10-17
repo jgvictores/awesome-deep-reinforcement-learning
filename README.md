@@ -73,7 +73,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - SSD ([arxiv](https://arxiv.org/abs/1512.02325)) (orig caffe: [GitHub](https://github.com/intel/caffe/wiki/SSD:-Single-Shot-MultiBox-Detector))
 - ResNet (2015). Paper: [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385). Variants: ResNet50, ResNet101, ResNet152...
 - GoogleNet (2014)
-- VGGNet (2014)
+- VGGNet (2014). Input: 224*224*3. Variants: VGG16, VGG19.
 - Network In Network (NIN) (2013)
 - OverFeat (2013)
 - AlexNet (2012) ([wikipedia](https://en.wikipedia.org/wiki/AlexNet))
