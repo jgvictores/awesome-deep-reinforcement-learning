@@ -74,7 +74,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - ResNet (2015). ([arxiv](https://arxiv.org/abs/1512.03385)). Variants: ResNet50, ResNet101, ResNet152...
 - GoogleNet (2014)
 - VGGNet (2014). ([arXiv](https://arxiv.org/abs/1409.1556)). Input: 224*224*3. Variants: VGG16, VGG19.
-- Network In Network (NIN) (2013)
+- Network In Network (NIN) (2013). ([arxiv](http://arxiv.org/abs/1312.4400)).
 - OverFeat (2013)
 - AlexNet (2012) ([wikipedia](https://en.wikipedia.org/wiki/AlexNet))
 - LeNet (1998)
@@ -104,6 +104,8 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
    - VGG16 trained on ImageNet (tutorial): [keras](https://www.pyimagesearch.com/2016/08/10/imagenet-classification-with-python-and-keras/)
    - VGGNet, ResNet, Inception, and Xception trained on ImageNet (tutorial): [keras](https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/)
    - VGG16 trained on ILSVRC: [caffe by original VGG author](https://gist.github.com/ksimonyan/211839e770f7b538e2d8) / ported (tutorials): [tensorflow](https://www.cs.toronto.edu/~frossard/post/vgg16/) / [keras](https://gist.github.com/baraldilorenzo/07d7802847aaad0a35d3) / [keras ImageNet weights](https://drive.google.com/file/d/0Bz7KyqmuGsilT0J5dmRCM0ROVHc)
+- Misc:
+   - Model zoo: [caffe](https://github.com/BVLC/caffe/wiki/Model-Zoo)
 
 ## NN/DNN Techniques Misc
 - Capsule Networks. R-CNN. (time sequences) RNN and more modern LSTM. RBM. Echo-state networks. Inception modules.
