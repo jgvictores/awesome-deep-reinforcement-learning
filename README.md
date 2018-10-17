@@ -100,6 +100,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - VGG16, VGG19, ResNet50, InceptionV3, InceptionResNetV2, Xception trained on ImageNet: [keras](https://www.kaggle.com/keras)
 - VGG16 trained on ImageNet (tutorial): [keras](https://www.pyimagesearch.com/2016/08/10/imagenet-classification-with-python-and-keras/)
 - VGGNet, ResNet, Inception, and Xception trained on ImageNet (tutorial): [keras](https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/)
+- VGG16 trained on ILSVRC by original author: [caffe](https://gist.github.com/ksimonyan/211839e770f7b538e2d8)
 
 ## NN/DNN Techniques Misc
 - Capsule Networks. R-CNN. (time sequences) RNN and more modern LSTM. RBM. Echo-state networks. Inception modules.
