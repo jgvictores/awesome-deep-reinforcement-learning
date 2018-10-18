@@ -43,6 +43,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
       - https://www.datacamp.com/community/tutorials/deep-learning-python
       - https://elitedatascience.com/keras-tutorial-deep-learning-in-python (includes deepdream, but original uses Caffe)
 - [PyTorch](https://pytorch.org/) (API: Python)
+   - Used internally by http://www.fast.ai/
 - Torch (API: Lua)
    - https://github.com/junyanz/CycleGAN (but links to implementations with theano, etc)
    - https://github.com/karpathy/char-rnn
