@@ -75,7 +75,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - SSD (2015). Wei Liu et Al; UNC, Zoox, Google, et Al; "SSD: Single Shot MultiBox Detector"; [arxiv](https://arxiv.org/abs/1512.02325). (orig: [caffe](https://github.com/intel/caffe/wiki/SSD:-Single-Shot-MultiBox-Detector))
 - ResNet (2015). Kaiming He et Al; Microsoft Research; "Deep Residual Learning for Image Recognition"; [arxiv](https://arxiv.org/abs/1512.03385). Variants: ResNet50, ResNet101, ResNet152...
 - VGGNet (Sept 2014). Karen Simonyan et Al; Visual Geometry Group (Oxford); "Very Deep Convolutional Networks for Large-Scale Image Recognition"; [arxiv](https://arxiv.org/abs/1409.1556). Input: 224 224 3. Variants: VGG16, VGG19.
-- GoogLeNet/Inception (Sept 2014). Christian Szegedy et Al; Google, UNC; "Going Deeper with Convolutions"; [arxiv](https://arxiv.org/abs/1409.4842).
+- GoogLeNet/InceptionV1 (Sept 2014). Christian Szegedy et Al; Google, UNC; "Going Deeper with Convolutions"; [arxiv](https://arxiv.org/abs/1409.4842). Batch normalization, image distortions, RMSprop, novel inception modules.
 - NIN (2013). Min Lin et Al; NUSingapore; "Network In Network"; [arxiv](http://arxiv.org/abs/1312.4400). Provides inspiration for GoogLeNet.
 - ZFNet (2013). Matthew D Zeiler and Rob Fergus; NYU; "Visualizing and Understanding Convolutional Networks"; [doi](https://doi.org/10.1007/978-3-319-10590-1_53), [arxiv](https://arxiv.org/abs/1311.2901). Similar to AlexNet, with well-justified finer tuning and visualization (namely Deconvolutional Network).
 - AlexNet (2012). Alex Krizhevsky et Al; Toronto; "ImageNet Classification with Deep Convolutional Neural Networks"; [doi](https://doi.org/10.1145/3065386). In 224x224 color patches (and their horizontal reflections) from 256x256 color images; 5 conv, maxpool, 3 full; ReLU; SVD with momentum; dropout and data augmentation; split into 2 pipelines to enable 5-6 day GTX 580 GPU training (while CPU data augmentation).
@@ -124,7 +124,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - Parallelizing and distributing SGD: Hogwild!, Downpour SGD, Delay-tolerant Algorithms for SGD, TensorFlow, Elastic Averaging SGD.
 - Additional strategies for optimizing SGD: Shuffling and Curriculum Learning, Batch normalization, Early Stopping, Gradient noise.
 - Error functions: cross-entropy loss.
-- Regularization techniques (reduce overfitting): L2/L1/Maxnorm regularization, dropout, batch and weight normalization, data augmentation, early stopping, gradient checking.
+- Regularization techniques (reduce overfitting): L2/L1/Maxnorm regularization, dropout, batch and weight normalization, data augmentation, image distortions, early stopping, gradient checking.
 - Cross-validation: https://en.wikipedia.org/wiki/Cross-validation_(statistics)#Common_types_of_cross-validation (hold-out, stratified k-fold,...)
 - Capsule Networks. R-CNN. (time sequences) RNN and more modern LSTM. RBM. Echo-state networks. Inception modules.
 - GANs.
