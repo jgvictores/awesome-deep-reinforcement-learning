@@ -78,7 +78,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - VGGNet (2014). Karen Simonyan et Al; Visual Geometry Group (Oxford); "Very Deep Convolutional Networks for Large-Scale Image Recognition"; [arXiv](https://arxiv.org/abs/1409.1556). Input: 224 224 3. Variants: VGG16, VGG19.
 - Network In Network (NIN) (2013). [arxiv](http://arxiv.org/abs/1312.4400).
 - OverFeat (2013).
-- AlexNet (2012). Alex Krizhevsky et Al; Toronto; "ImageNet Classification with Deep Convolutional Neural Networks"; [doi](https://doi.org/10.1145/3065386). ([wikipedia](https://en.wikipedia.org/wiki/AlexNet)). In 224x224 color patches (and their horizontal reflections) from 256x256 color images; stacked conv, maxpool, full; ReLU; SVD with momentum; dropout and data augmentation. 2 pipelines to split 6 day GPU training while CPU data augmentation.
+- AlexNet (2012). Alex Krizhevsky et Al; Toronto; "ImageNet Classification with Deep Convolutional Neural Networks"; [doi](https://doi.org/10.1145/3065386). ([wikipedia](https://en.wikipedia.org/wiki/AlexNet)). In 224x224 color patches (and their horizontal reflections) from 256x256 color images; 5 conv, maxpool, 3 full; ReLU; SVD with momentum; dropout and data augmentation; split into 2 pipelines to enable 5-6 day GTX 580 GPU training (while CPU data augmentation).
 - LeNet-5 (1998). Yann LeCun et Al; ATT now at Facebook AI Research; "Gradient-based learning applied to document recognition"; [doi](https://doi.org/10.1109/5.726791). In 32x32 grayscale; 7 layer (conv, pool, full...).
 - Links to overviews:
    - https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
