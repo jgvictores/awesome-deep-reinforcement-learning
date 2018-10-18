@@ -117,7 +117,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
    - Model zoo: [caffe](https://github.com/BVLC/caffe/wiki/Model-Zoo)
 
 ## NN/DNN Techniques Misc
-- Layers: Dense (Fully Connected), Convolutional, Pooling (Max, Average...), Normalisation. Note: in Keras, activation functions, dropout, etc are also implemented as layers.
+- Layers: Dense (aka Fully Connected), Convolutional, Pooling (Max, Average...)(aka SubSampling, e.g. SubSampling can be AveragePooling with learnable weights per feature map), Normalisation. Note: in Keras, activation functions, dropout, etc can also be implemented as layers.
 - Activation functions: Rectified Linear Unit (ReLU), softmax, Exponential Linear Unit (ELU), scaled exponential linear unit (selu), softplus, softsign, tanh, sigmoid, hard sigmoid, linear, logit, Leaky version of a Rectified Linear Unit (LeakyReLU or LReLU), Parametrized or Parametric Rectified Linear Unit (PReLU), Swish. [wikipedia](https://en.wikipedia.org/wiki/Activation_function), [keras](https://keras.io/activations/), [keras (advanced)](https://keras.io/layers/advanced-activations/).
 - Gradient descent variants: Batch gradient descent, Stochastic gradient descent (SGD), Mini-batch gradient descent.
 - Gradient descent optimization algorithms: Momentum, Nesterov accelerated gradient, Adagrad, Adadelta, RMSprop, Adam, AdaMax, Nadam, AMSGrad. ([ref](https://arxiv.org/pdf/1609.04747.pdf))
