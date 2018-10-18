@@ -72,7 +72,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - MobileNets (2017). Andrew Howard et Al, Google, "MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications", [arxiv](https://arxiv.org/abs/1704.04861).
 - YOLO9000 (2016). Joseph Redmond et Al, "YOLO9000: Better, Faster, Stronger", [arxiv](https://arxiv.org/abs/1612.08242).
 - SSD (2015). Wei Liu et Al, UNC Zoox Google et Al, "SSD: Single Shot MultiBox Detector", [arxiv](https://arxiv.org/abs/1512.02325). (orig: [caffe](https://github.com/intel/caffe/wiki/SSD:-Single-Shot-MultiBox-Detector))
-- ResNet (2015). ([arxiv](https://arxiv.org/abs/1512.03385)). Variants: ResNet50, ResNet101, ResNet152...
+- ResNet (2015). Kaiming He et Al, Microsoft Research, "Deep Residual Learning for Image Recognition", [arxiv](https://arxiv.org/abs/1512.03385). Variants: ResNet50, ResNet101, ResNet152...
 - GoogleNet (2014)
 - VGGNet (2014). ([arXiv](https://arxiv.org/abs/1409.1556)). Input: 224*224*3. Variants: VGG16, VGG19.
 - Network In Network (NIN) (2013). ([arxiv](http://arxiv.org/abs/1312.4400)).
