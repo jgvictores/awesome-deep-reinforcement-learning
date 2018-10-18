@@ -123,7 +123,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - Gradient descent optimization algorithms: Momentum, Nesterov accelerated gradient, Adagrad, Adadelta, RMSprop, Adam, AdaMax, Nadam, AMSGrad. ([ref](https://arxiv.org/pdf/1609.04747.pdf))
 - Parallelizing and distributing SGD: Hogwild!, Downpour SGD, Delay-tolerant Algorithms for SGD, TensorFlow, Elastic Averaging SGD.
 - Additional strategies for optimizing SGD: Shuffling and Curriculum Learning, Batch normalization, Early Stopping, Gradient noise.
-- Regularization techniques: L2/L1/Maxnorm regularization, dropout, batch and weight normalization, data augmentation, early stopping, gradient checking.
+- Regularization techniques (reduce overfitting): L2/L1/Maxnorm regularization, dropout, batch and weight normalization, data augmentation, early stopping, gradient checking.
 - Cross-validation: https://en.wikipedia.org/wiki/Cross-validation_(statistics)#Common_types_of_cross-validation (hold-out, stratified k-fold,...)
 - Capsule Networks. R-CNN. (time sequences) RNN and more modern LSTM. RBM. Echo-state networks. Inception modules.
 - GANs.
