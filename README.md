@@ -79,7 +79,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - Network In Network (NIN) (2013). [arxiv](http://arxiv.org/abs/1312.4400).
 - OverFeat (2013).
 - AlexNet (2012). Alex Krizhevsky et Al; Toronto; "ImageNet Classification with Deep Convolutional Neural Networks"; [doi](https://doi.org/10.1145/3065386). ([wikipedia](https://en.wikipedia.org/wiki/AlexNet))
-- LeNet (1998)
+- LeNet-5 (1998). Yann LeCun et Al; ATT now at Facebook AI Research; "Gradient-based learning applied to document recognition"; [doi](https://doi.org/10.1109/5.726791).
 - Links to overviews:
    - https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
    - http://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/
