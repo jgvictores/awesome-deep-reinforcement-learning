@@ -124,7 +124,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - Parallelizing and distributing SGD: Hogwild!, Downpour SGD, Delay-tolerant Algorithms for SGD, TensorFlow, Elastic Averaging SGD.
 - Additional strategies for optimizing SGD: Shuffling and Curriculum Learning, Batch normalization, Early Stopping, Gradient noise.
 - Error functions: cross-entropy loss.
-- Regularization techniques (reduce overfitting): L2/L1/Maxnorm regularization, dropout, batch and weight normalization, data augmentation, image distortions, early stopping, gradient checking.
+- Regularization techniques (reduce overfitting): L2/L1/Maxnorm regularization, dropout, batch and weight normalization, data augmentation (image distortions, scale jittering...), early stopping, gradient checking.
 - Cross-validation: https://en.wikipedia.org/wiki/Cross-validation_(statistics)#Common_types_of_cross-validation (hold-out, stratified k-fold,...)
 - Capsule Networks. R-CNN. (time sequences) RNN and more modern LSTM. RBM. Echo-state networks. Inception modules.
 - GANs.
