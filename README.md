@@ -83,7 +83,9 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
    - https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
    - http://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/
    - https://medium.com/@sidereal/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5
-- Viewers: [Netscope (caffe)](http://ethereon.github.io/netscope) / [cnnvisualizer (caffe)](https://github.com/metalbubble/cnnvisualizer)
+- Visualization:
+   - Keras: [tutorial](https://machinelearningmastery.com/visualize-deep-learning-neural-network-model-keras/) / [official](https://keras.io/visualization/)
+   - Caffe: [Netscope](http://ethereon.github.io/netscope) / [cnnvisualizer](https://github.com/metalbubble/cnnvisualizer)
 
 ## NN/DNN Datasets
 - [MNIST](http://yann.lecun.com/exdb/mnist/): Handwritten digits, set of 70000 examples, is a subset of a larger set available from NIST.
