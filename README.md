@@ -116,10 +116,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
    - Model zoo: [caffe](https://github.com/BVLC/caffe/wiki/Model-Zoo)
 
 ## NN/DNN Techniques Misc
-- Capsule Networks. R-CNN. (time sequences) RNN and more modern LSTM. RBM. Echo-state networks. Inception modules.
-- GANs.
-- Transfer learning.
-- Max-pooling.
+- Layers: Dense (Fully Connected), Convolutional, Pooling (Max, Average...), Normalisation. Note: in Keras, activation functions, dropout, etc are also implemented as layers.
 - Activation functions: Rectified Linear Unit (ReLU), softmax, Exponential Linear Unit (ELU), scaled exponential linear unit (selu), softplus, softsign, tanh, sigmoid, hard sigmoid, linear, logit, Leaky version of a Rectified Linear Unit (LeakyReLU or LReLU), Parametrized or Parametric Rectified Linear Unit (PReLU), Swish. [wikipedia](https://en.wikipedia.org/wiki/Activation_function), [keras](https://keras.io/activations/), [keras (advanced)](https://keras.io/layers/advanced-activations/).
 - Gradient descent variants: Batch gradient descent, Stochastic gradient descent (SGD), Mini-batch gradient descent.
 - Gradient descent optimization algorithms: Momentum, Nesterov accelerated gradient, Adagrad, Adadelta, RMSprop, Adam, AdaMax, Nadam, AMSGrad. ([ref](https://arxiv.org/pdf/1609.04747.pdf))
@@ -127,6 +124,9 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - Additional strategies for optimizing SGD: Shuffling and Curriculum Learning, Batch normalization, Early Stopping, Gradient noise.
 - Regularization techniques: L2/L1/Maxnorm regularization, dropout, batch and weight normalization, data augmentation, early stopping, gradient checking.
 - Cross-validation: https://en.wikipedia.org/wiki/Cross-validation_(statistics)#Common_types_of_cross-validation (hold-out, stratified k-fold,...)
+- Capsule Networks. R-CNN. (time sequences) RNN and more modern LSTM. RBM. Echo-state networks. Inception modules.
+- GANs.
+- Transfer learning.
 
 # Reinforcement Learning (RL) and Deep Reinforcement Learning (DRL)
 
