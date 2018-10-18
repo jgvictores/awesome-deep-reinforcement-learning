@@ -120,8 +120,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - GANs.
 - Transfer learning.
 - Max-pooling.
-- Activation functions: Rectified Linear Unit (ReLU), softmax, Exponential Linear Unit (ELU), scaled exponential linear unit (selu), softplus, softsign, tanh, sigmoid, hard sigmoid, linear, logit. ([keras-docs](https://keras.io/activations/))([wikipedia](https://en.wikipedia.org/wiki/Activation_function))
-- Advanced activation functions: Leaky version of a Rectified Linear Unit (LeakyReLU or LReLU), Parametrized or Parametric Rectified Linear Unit (PReLU), Swish. ([keras-docs](https://keras.io/layers/advanced-activations/))
+- Activation functions: Rectified Linear Unit (ReLU), softmax, Exponential Linear Unit (ELU), scaled exponential linear unit (selu), softplus, softsign, tanh, sigmoid, hard sigmoid, linear, logit, Leaky version of a Rectified Linear Unit (LeakyReLU or LReLU), Parametrized or Parametric Rectified Linear Unit (PReLU), Swish. [wikipedia](https://en.wikipedia.org/wiki/Activation_function), [keras](https://keras.io/activations/), [keras (advanced)](https://keras.io/layers/advanced-activations/).
 - Gradient descent variants: Batch gradient descent, Stochastic gradient descent (SGD), Mini-batch gradient descent.
 - Gradient descent optimization algorithms: Momentum, Nesterov accelerated gradient, Adagrad, Adadelta, RMSprop, Adam, AdaMax, Nadam, AMSGrad. ([ref](https://arxiv.org/pdf/1609.04747.pdf))
 - Parallelizing and distributing SGD: Hogwild!, Downpour SGD, Delay-tolerant Algorithms for SGD, TensorFlow, Elastic Averaging SGD.
