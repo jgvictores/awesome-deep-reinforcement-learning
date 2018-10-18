@@ -75,9 +75,9 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - ResNet (2015). Kaiming He et Al; Microsoft Research; "Deep Residual Learning for Image Recognition"; [arxiv](https://arxiv.org/abs/1512.03385). Variants: ResNet50, ResNet101, ResNet152...
 - GoogleNet (2014). Christian Szegedy et Al; Google, UNC; "Going Deeper with Convolutions"; [arxiv](https://arxiv.org/abs/1409.4842).
 - VGGNet (2014). Karen Simonyan et Al; Visual Geometry Group (Oxford); "Very Deep Convolutional Networks for Large-Scale Image Recognition"; [arXiv](https://arxiv.org/abs/1409.1556). Input: 224 224 3. Variants: VGG16, VGG19.
-- Network In Network (NIN) (2013). ([arxiv](http://arxiv.org/abs/1312.4400)).
-- OverFeat (2013)
-- AlexNet (2012) ([wikipedia](https://en.wikipedia.org/wiki/AlexNet))
+- Network In Network (NIN) (2013). [arxiv](http://arxiv.org/abs/1312.4400).
+- OverFeat (2013).
+- AlexNet (2012). Alex Krizhevsky et Al; Toronto; "ImageNet Classification with Deep Convolutional Neural Networks"; [doi](https://doi.org/10.1145/3065386). ([wikipedia](https://en.wikipedia.org/wiki/AlexNet))
 - LeNet (1998)
 - Links to overviews:
    - https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
