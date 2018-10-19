@@ -71,7 +71,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 
 ## NN/DNN Architectures
 - MobileNets (2017). Andrew Howard et Al; Google; "MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications"; [arxiv](https://arxiv.org/abs/1704.04861).
-- YOLO9000 (2016). Joseph Redmond et Al; "YOLO9000: Better, Faster, Stronger"; [arxiv](https://arxiv.org/abs/1612.08242).
+- YOLO9000 (2016). Joseph Redmond and Ali Farhadi; U Washington and Allen AI; "YOLO9000: Better, Faster, Stronger"; [arxiv](https://arxiv.org/abs/1612.08242).
 - SSD (2015). Wei Liu et Al; UNC, Zoox, Google, et Al; "SSD: Single Shot MultiBox Detector"; [arxiv](https://arxiv.org/abs/1512.02325). (orig: [caffe](https://github.com/intel/caffe/wiki/SSD:-Single-Shot-MultiBox-Detector))
 - ResNet (2015). Kaiming He et Al; Microsoft Research; "Deep Residual Learning for Image Recognition"; [arxiv](https://arxiv.org/abs/1512.03385). Introduces Skip Connections (gated units or gated recurrent units) and heavy batch normalization. Variants: ResNet50, ResNet101, ResNet152 (correspond to number of layers). 25.5 million parameters.
 - VGGNet (Sept 2014). Karen Simonyan et Al; Visual Geometry Group (Oxford); "Very Deep Convolutional Networks for Large-Scale Image Recognition"; [arxiv](https://arxiv.org/abs/1409.1556). Input: 224x224x3. Conv/pool and fully connected. Variants: VGG11, VGG13, VGG16, VGG19 (correspond to number of layers); with batch normalization. 138 million parameters; trained on 4 Titan Black GPUs for 2-3 weeks.
