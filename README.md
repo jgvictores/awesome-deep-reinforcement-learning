@@ -21,6 +21,7 @@ To accomplish this, includes general Machine Learning (ML), Neural Networks (NN)
    - [RL/DRL Techniques Misc](#rldrl-techniques-misc)
 - [Evolutionary Algorithms (EA)](#evolutionary-algorithms-ea)
 - [Misc tools](#misc-tools)
+- [Similar pages](#similar-pages)
 
 # General Machine Learning (ML)
 
@@ -193,3 +194,7 @@ Only accounting those with same objective as RL.
 - DLPaper2Code: Auto-generation of Code from Deep Learning Research Papers: https://arxiv.org/abs/1711.03543
 - Tip: you can download the raw source of any arxiv paper. Click on the "Other formats" link, then click "Download source"
 - http://www.arxiv-sanity.com/
+
+# Similar pages
+- https://github.com/anu-bioinfo/awesome-deep-rl
+- https://github.com/williamd4112/awesome-deep-reinforcement-learning
