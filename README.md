@@ -196,5 +196,5 @@ Only accounting those with same objective as RL.
 - http://www.arxiv-sanity.com/
 
 # Similar pages
-- https://github.com/anu-bioinfo/awesome-deep-rl
+- https://github.com/tigerneil/awesome-deep-rl
 - https://github.com/williamd4112/awesome-deep-reinforcement-learning
