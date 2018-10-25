@@ -101,6 +101,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - [CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html): 60000 32x32 colour images (selected from MIT TinyImages) in 100 classes containing 600 images per class, grouped into 20 superclasses
 - Many at MIT: [MIT Places](http://places.csail.mit.edu/), [MIT Moments](http://moments.csail.mit.edu/)...
 - Many at Kaggle: https://www.kaggle.com/datasets
+- More robotics from iCub: https://robotology.github.io/iCubWorld/#datasets
 - Link to overview: https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research
 
 ## NN/DNN Benchmarks
