@@ -42,7 +42,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
    - Examples/tutorials
       - https://github.com/keras-team/keras/blob/master/examples
       - https://www.datacamp.com/community/tutorials/deep-learning-python
-      - https://elitedatascience.com/keras-tutorial-deep-learning-in-python (includes deepdream, but original uses Caffe)
+      - https://elitedatascience.com/keras-tutorial-deep-learning-in-python
 - [PyTorch](https://pytorch.org/) (API: Python)
    - Used internally by http://www.fast.ai/
 - Torch (API: Lua)
