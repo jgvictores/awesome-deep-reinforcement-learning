@@ -89,6 +89,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
    - https://medium.com/@sidereal/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5
 - Visualization:
    - Keras: [tutorial](https://machinelearningmastery.com/visualize-deep-learning-neural-network-model-keras/) / [official](https://keras.io/visualization/)
+   - Tensorflow: [online demo](http://playground.tensorflow.org)
    - Caffe: [Netscope](http://ethereon.github.io/netscope) / [cnnvisualizer](https://github.com/metalbubble/cnnvisualizer)
 
 ## NN/DNN Datasets
