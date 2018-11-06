@@ -132,12 +132,12 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - Cells/units used in larger networks: Capsules (in capsule networks ([wikipedia](https://en.wikipedia.org/wiki/Capsule_neural_network))). Inception modules.  Skip Connections (gated units or gated recurrent units), SimpleRNNCell, GRUCell.
 - Restricted Boltzmann Machine (RBM). Generative Adversarial Network (GAN). Echo-state networks.
 - Transfer learning.
-### Optimizers
-- Gradient descent variants: Batch gradient descent, Stochastic gradient descent (SGD), Mini-batch gradient descent.
-- Gradient descent optimization algorithms: Momentum, Nesterov accelerated gradient, Adagrad, Adadelta, RMSprop, Adam, AdaMax, Nadam, AMSGrad.
-- Parallelizing and distributing SGD: Hogwild!, Downpour SGD, Delay-tolerant Algorithms for SGD, TensorFlow, Elastic Averaging SGD.
-- Additional strategies for optimizing SGD: Shuffling and Curriculum Learning, Batch normalization, Early Stopping, Gradient noise.
-- [keras](https://keras.io/optimizers/), [ref](https://arxiv.org/pdf/1609.04747.pdf)
+- Optimizers
+   - Gradient descent variants: Batch gradient descent, Stochastic gradient descent (SGD), Mini-batch gradient descent.
+   - Gradient descent optimization algorithms: Momentum, Nesterov accelerated gradient, Adagrad, Adadelta, RMSprop, Adam, AdaMax, Nadam, AMSGrad.
+   - Parallelizing and distributing SGD: Hogwild!, Downpour SGD, Delay-tolerant Algorithms for SGD, TensorFlow, Elastic Averaging SGD.
+   - Additional strategies for optimizing SGD: Shuffling and Curriculum Learning, Batch normalization, Early Stopping, Gradient noise.
+   - [keras](https://keras.io/optimizers/), [ref](https://arxiv.org/pdf/1609.04747.pdf)
 
 # Reinforcement Learning (RL) and Deep Reinforcement Learning (DRL)
 
