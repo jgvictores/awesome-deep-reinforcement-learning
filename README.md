@@ -128,7 +128,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - Regularization techniques (reduce overfitting): L1(lasso)/L2(ridge)/ElasticNet(L1/L2)/Maxnorm regularization ([keras](https://keras.io/regularizers/)), dropout, batch and weight normalization, Local Response Normalisation (LRN), data augmentation (image distortions, scale jittering...), early stopping, gradient checking.
 - Weight initialization: pretrained (see [above section](#nndnn-pretrained)), zeros, ones, constant, normal random, uniform random, truncated normal, variance scaling, orthogonal, identity, normal/uniform as done by Yann LeCun, normal/uniform as done by Xavier Glorot, normal/uniform as done by Kaiming He. [keras](https://keras.io/initializers), [StackExchange](https://datascience.stackexchange.com/questions/13061/when-to-use-he-or-glorot-normal-initialization-over-uniform-init-and-what-are)
 - Cross-validation: hold-out, stratified k-fold. [wikipedia](https://en.wikipedia.org/wiki/Cross-validation_(statistics)#Common_types_of_cross-validation).
-- Capsule Networks. R-CNN. (time sequences) RNN and more modern LSTM. RBM. Echo-state networks. Inception modules.  Skip Connections (gated units or gated recurrent units).
+- Capsule Networks. (time sequences) RNN and more modern LSTM. RBM. Echo-state networks. Inception modules.  Skip Connections (gated units or gated recurrent units).
 - GANs.
 - Transfer learning.
 ### Optimizers
