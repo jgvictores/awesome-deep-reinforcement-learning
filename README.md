@@ -130,7 +130,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - Cross-validation: hold-out, stratified k-fold. [wikipedia](https://en.wikipedia.org/wiki/Cross-validation_(statistics)#Common_types_of_cross-validation).
 - Recurrent (can model time sequences better): RNN, SimpleRNN, GRU, LSTM, ConvLSTM2D. ([keras](https://keras.io/layers/recurrent/))
 - Cells/units used in larger networks: Capsules (in capsule networks ([wikipedia](https://en.wikipedia.org/wiki/Capsule_neural_network))). Inception modules.  Skip Connections (gated units or gated recurrent units), SimpleRNNCell, GRUCell.
-- GANs. Echo-state networks. RBM.
+- Restricted Boltzmann Machine (RBM). Generative Adversarial Network (GAN). Echo-state networks.
 - Transfer learning.
 ### Optimizers
 - Gradient descent variants: Batch gradient descent, Stochastic gradient descent (SGD), Mini-batch gradient descent.
