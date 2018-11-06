@@ -136,7 +136,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
    - Accuracy used for classification problems: binary accuracy (mean accuracy rate across all predictions for binary classification problems), categorical accuracy (mean accuracy rate across all predictions for multiclass classification problems), sparse categorical accuracy (useful for sparse targets), top k categorical accuracy (success when the target class is within the top k predictions provided).
    - Error loss (measures the difference between the values predicted and the values actually observed, can be used for regression): mean square error (MSE), root square error (RMSE), mean absolute error (MAE), mean absolute percentage error (MAPE), mean squared logarithmic error (MSLE).
    - Hinge: hinge loss, squared hinge loss, categorical hinge.
-   - Class loss, used to calculate the cross-entropy for classification problems: binary cross-entropy (binary classification), categorical cross-entropy (multi-class classification), sparse categorical crossentropy. [wikipedia](https://en.wikipedia.org/wiki/Cross_entropy)
+   - Class loss, used to calculate the cross-entropy for classification problems: binary cross-entropy (binary classification), categorical cross-entropy (multi-class classification), sparse categorical cross-entropy. [wikipedia](https://en.wikipedia.org/wiki/Cross_entropy)
    - logcosh, kullback leibler divergence, poisson, cosine proximity.
    - [keras](https://keras.io/losses)
 - Recurrent (can model time sequences better): RNN, SimpleRNN, GRU, LSTM, ConvLSTM2D. ([keras](https://keras.io/layers/recurrent/))
