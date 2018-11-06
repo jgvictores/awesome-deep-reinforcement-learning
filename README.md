@@ -132,7 +132,13 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
    - Parallelizing and distributing SGD: Hogwild!, Downpour SGD, Delay-tolerant Algorithms for SGD, TensorFlow, Elastic Averaging SGD.
    - Additional strategies for optimizing SGD: Shuffling and Curriculum Learning, Batch normalization, Early Stopping, Gradient noise.
    - [keras](https://keras.io/optimizers/), [ref](https://arxiv.org/pdf/1609.04747.pdf)
-- Error/loss functions: binary cross entropy (binary classification), categorical cross entropy (multi-class classification), sparse categorical crossentropy, mean squared error (regression), mean absolute error, mean absolute percentage error, mean squared logarithmic error, squared hinge, hinge, categorical hinge, logcosh, kullback leibler divergence, poisson, cosine proximity. [keras](https://keras.io/losses)
+- Error/loss functions:
+   - Accuracy used for classification problems: binary accuracy (mean accuracy rate across all predictions for binary classification problems), categorical accuracy (mean accuracy rate across all predictions for multiclass classification problems), sparse categorical accuracy (useful for sparse targets), top k categorical accuracy (success when the target class is within the top k predictions provided).
+   - Error loss (measures the difference between the values predicted and the values actually observed, can be used for regression): mean square error (MSE), root square error (RMSE), mean absolute error (MAE), mean absolute percentage error (MAPE), mean squared logarithmic error (MSLE).
+   - Hinge: hinge loss, squared hinge loss, categorical hinge.
+   - Class loss, used to calculate the cross-entropy for classification problems: binary cross-entropy (binary classification), categorical cross-entropy (multi-class classification), sparse categorical crossentropy. [wikipedia](https://en.wikipedia.org/wiki/Cross_entropy)
+   - logcosh, kullback leibler divergence, poisson, cosine proximity.
+   - [keras](https://keras.io/losses)
 - Recurrent (can model time sequences better): RNN, SimpleRNN, GRU, LSTM, ConvLSTM2D. ([keras](https://keras.io/layers/recurrent/))
 - Cells/units used in larger networks: Capsules (in capsule networks ([wikipedia](https://en.wikipedia.org/wiki/Capsule_neural_network))). Inception modules.  Skip Connections (gated units or gated recurrent units), SimpleRNNCell, GRUCell.
 - Cross-validation: hold-out, stratified k-fold. [wikipedia](https://en.wikipedia.org/wiki/Cross-validation_(statistics)#Common_types_of_cross-validation).
