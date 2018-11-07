@@ -103,6 +103,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - Many at MIT: [MIT Places](http://places.csail.mit.edu/), [MIT Moments](http://moments.csail.mit.edu/)...
 - Many at Kaggle: https://www.kaggle.com/datasets
 - Robotics: [iCubWorld](https://robotology.github.io/iCubWorld/#datasets); where iCWT: 200 domestic objects in 20 categories (11 categories also in ILSVRC, rest in ImageNet).
+- [HICO](http://www-personal.umich.edu/~ywchao/hico/) (Humans Interacting with Common Objects)
 - Link to overview: https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research
 
 ## NN/DNN Benchmarks
