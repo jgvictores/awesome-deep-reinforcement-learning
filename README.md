@@ -36,7 +36,7 @@ To accomplish this, includes general Machine Learning (ML), Neural Networks (NN)
 # Neural Networks (NN) and Deep Neural Networks (DNN) 
 
 ## NN/DNN Software Frameworks
-Here's a good overview [presentation](https://project.inria.fr/deeplearning/files/2016/05/DLFrameworks.pdf) ([permalink](https://github.com/jgvictores/awesome-deep-reinforcement-learning/blob/143a885cc10b4331b9b3fa3e1a9436d5325676af/doc/inria2017DLFrameworks.pdf)), and here's a very full [Docker](https://github.com/ufoym/deepo) with (tensorflow sonnet torch keras mxnet cntk chainer theano lasagne caffe caffe2). Attempling to order by current popularity:
+Here's a good overview [presentation](https://project.inria.fr/deeplearning/files/2016/05/DLFrameworks.pdf) ([permalink](https://github.com/jgvictores/awesome-deep-reinforcement-learning/blob/143a885cc10b4331b9b3fa3e1a9436d5325676af/doc/inria2017DLFrameworks.pdf)). There are several Docker images with several pre-installed software frameworks: [1](https://github.com/ufoym/deepo), [2](https://github.com/floydhub/dl-docker). Attempling to order software frameworks by current popularity:
 - [Keras](https://keras.io) (layer over: TensorFlow, theano...) (API: Python)
    - https://en.wikipedia.org/wiki/Keras
    - Examples/tutorials
