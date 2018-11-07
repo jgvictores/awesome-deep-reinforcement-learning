@@ -140,6 +140,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
    - Class loss, used to calculate the cross-entropy for classification problems: binary cross-entropy (binary classification), categorical cross-entropy (multi-class classification), sparse categorical cross-entropy. [wikipedia](https://en.wikipedia.org/wiki/Cross_entropy)
    - Logarithm of the hyperbolic cosine of the prediction error (logcosh), kullback leibler divergence, poisson, cosine proximity.
    - [keras](https://keras.io/losses)
+- Metric functions: usually same type as error/loss functions, but used for evaluationg rather than training. [keras](https://keras.io/metrics)
 - Recurrent (can model time sequences better): RNN, SimpleRNN, GRU, LSTM, ConvLSTM2D. ([keras](https://keras.io/layers/recurrent/))
 - Cells/units used in larger networks: Capsules (in capsule networks ([wikipedia](https://en.wikipedia.org/wiki/Capsule_neural_network))). Inception modules.  Skip Connections (gated units or gated recurrent units), SimpleRNNCell, GRUCell.
 - Cross-validation: hold-out, stratified k-fold. [wikipedia](https://en.wikipedia.org/wiki/Cross-validation_(statistics)#Common_types_of_cross-validation).
