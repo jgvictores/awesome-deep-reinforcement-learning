@@ -8,10 +8,10 @@ To accomplish this, includes general Machine Learning (ML), Neural Networks (NN)
    - [General ML Books / Papers](#general-ml-frameworks)
 - [Neural Networks (NN) and Deep Neural Networks (DNN)](#neural-networks-nn-and-deep-neural-networks-dnn)
    - [NN/DNN Software Frameworks](#nndnn-software-frameworks)
-   - [NN/DNN Architectures](#nndnn-architectures)
+   - [NN/DNN Models](#nndnn-architectures)
    - [NN/DNN Datasets](#nndnn-datasets)
    - [NN/DNN Benchmarks](#nndnn-benchmarks)
-   - [NN/DNN Pretrained](#nndnn-pretrained)
+   - [NN/DNN Pretrained Models](#nndnn-pretrained-models)
    - [NN/DNN Techniques Misc](#nndnn-techniques-misc)
 - [Reinforcement Learning (RL) and Deep Reinforcement Learning (DRL)](#reinforcement-learning-rl-and-deep-reinforcement-learning-drl)
    - [RL/DRL Frameworks](#rldrl-frameworks)
@@ -70,7 +70,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - theano (very used, but down here because [MILA stopped developing](https://groups.google.com/forum/#!msg/theano-users/7Poq8BZutbY/rNCIfvAEAwAJ))
    - Still many tutorials: https://github.com/lisa-lab/DeepLearningTutorials
 
-## NN/DNN Architectures
+## NN/DNN Models
 - Mask R-CNN (2017), Kaiming He et Al; Facebook AI Research (FAIR); "Mask R-CNN"; [arxiv](https://arxiv.org/abs/1703.06870). Refs: [1](https://towardsdatascience.com/r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e), [2](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4).
 - MobileNets (2017). Andrew Howard et Al; Google; "MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications"; [arxiv](https://arxiv.org/abs/1704.04861).
 - DenseNets (2016). Gao Huang et Al; "Densely Connected Convolutional Networks"; [arxiv](https://arxiv.org/abs/1608.06993v1).
@@ -109,7 +109,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 ## NN/DNN Benchmarks
 - http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html
 
-## NN/DNN Pretrained
+## NN/DNN Pretrained Models
 - Several pre-trained models: [keras](https://keras.io/applications), [caffe](https://github.com/BVLC/caffe/wiki/Model-Zoo)
 - CIFAR-10 and CIFAR-100:
    - CNN trained on CIFAR-100 tutorial: [keras](https://andrewkruger.github.io/projects/2017-08-05-keras-convolutional-neural-network-for-cifar-100)
