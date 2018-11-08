@@ -110,7 +110,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html
 
 ## NN/DNN Pretrained Models
-- Several pre-trained models: [keras](https://keras.io/applications), [caffe](https://github.com/BVLC/caffe/wiki/Model-Zoo)
+- Several pre-trained models: [keras web](https://keras.io/applications), [keras 1](https://github.com/keras-team/keras/tree/master/keras/applications), [keras 2](https://github.com/keras-team/keras-applications), [caffe](https://github.com/BVLC/caffe/wiki/Model-Zoo)
 - CIFAR-10 and CIFAR-100:
    - CNN trained on CIFAR-100 tutorial: [keras](https://andrewkruger.github.io/projects/2017-08-05-keras-convolutional-neural-network-for-cifar-100)
    - VGG16 trained on CIFAR-10 and CIFAR-100: [keras](https://github.com/geifmany/cifar-vgg) / [keras CIFAR-10 weights](https://drive.google.com/open?id=0B4odNGNGJ56qVW9JdkthbzBsX28) / [keras CIFAR-100 weights](https://drive.google.com/open?id=0B4odNGNGJ56qTEdnT1RjTU44Zms)
