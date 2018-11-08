@@ -110,6 +110,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html
 
 ## NN/DNN Pretrained
+- Several pre-trained models: [keras](https://keras.io/applications), [caffe](https://github.com/BVLC/caffe/wiki/Model-Zoo)
 - CIFAR-10 and CIFAR-100:
    - CNN trained on CIFAR-100 tutorial: [keras](https://andrewkruger.github.io/projects/2017-08-05-keras-convolutional-neural-network-for-cifar-100)
    - VGG16 trained on CIFAR-10 and CIFAR-100: [keras](https://github.com/geifmany/cifar-vgg) / [keras CIFAR-10 weights](https://drive.google.com/open?id=0B4odNGNGJ56qVW9JdkthbzBsX28) / [keras CIFAR-100 weights](https://drive.google.com/open?id=0B4odNGNGJ56qTEdnT1RjTU44Zms)
@@ -118,9 +119,6 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
    - VGG16 trained on ImageNet (tutorial): [keras](https://www.pyimagesearch.com/2016/08/10/imagenet-classification-with-python-and-keras/)
    - VGGNet, ResNet, Inception, and Xception trained on ImageNet (tutorial): [keras](https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/)
    - VGG16 trained on ILSVRC: [caffe by original VGG author](https://gist.github.com/ksimonyan/211839e770f7b538e2d8) / ported (tutorials): [tensorflow](https://www.cs.toronto.edu/~frossard/post/vgg16/) / [keras](https://gist.github.com/baraldilorenzo/07d7802847aaad0a35d3) / [keras ImageNet weights](https://drive.google.com/file/d/0Bz7KyqmuGsilT0J5dmRCM0ROVHc)
-- Misc:
-   - Small examples: [keras by keras](https://github.com/keras-team/keras/tree/master/examples) ([permalink](https://github.com/keras-team/keras/tree/e15533e6c725dca8c37a861aacb13ef149789433/examples))
-   - Model zoo: [caffe](https://github.com/BVLC/caffe/wiki/Model-Zoo)
 
 ## NN/DNN Techniques Misc
 - Layers: Dense (aka Fully Connected), Convolutional, Pooling (aka SubSampling)(1D/2D/3D)(Max, Average, Global Max, Global Average, Average with learnable weights per feature map... [keras](https://keras.io/layers/pooling)), Normalisation. Note: Keras implements activation functions, dropout, etc as layers.
