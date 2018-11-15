@@ -85,11 +85,6 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
    - https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
    - http://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/
    - https://medium.com/@sidereal/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5
-- Visualization:
-   - [Quiver](https://keplr-io.github.io/quiver/)
-   - Keras: [tutorial](https://machinelearningmastery.com/visualize-deep-learning-neural-network-model-keras/) / [official](https://keras.io/visualization/)
-   - Tensorflow: [online demo](http://playground.tensorflow.org)
-   - Caffe: [Netscope](http://ethereon.github.io/netscope) / [cnnvisualizer](https://github.com/metalbubble/cnnvisualizer)
 
 ## NN/DNN Datasets
 - [MNIST](http://yann.lecun.com/exdb/mnist/): Handwritten digits, set of 70000 examples, is a subset of a larger set available from NIST.
@@ -143,6 +138,11 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - Cross-validation: hold-out, stratified k-fold. [wikipedia](https://en.wikipedia.org/wiki/Cross-validation_(statistics)#Common_types_of_cross-validation).
 - Restricted Boltzmann Machine (RBM). Generative Adversarial Network (GAN). Echo-state networks.
 - Transfer learning.
+- Visualization:
+   - [Quiver](https://keplr-io.github.io/quiver/)
+   - Keras: [tutorial](https://machinelearningmastery.com/visualize-deep-learning-neural-network-model-keras/) / [official](https://keras.io/visualization/)
+   - Tensorflow: [online demo](http://playground.tensorflow.org)
+   - Caffe: [Netscope](http://ethereon.github.io/netscope) / [cnnvisualizer](https://github.com/metalbubble/cnnvisualizer)
 
 # Reinforcement Learning (RL) and Deep Reinforcement Learning (DRL)
 
