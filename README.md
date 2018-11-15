@@ -37,12 +37,8 @@ To accomplish this, includes general Machine Learning (ML), Neural Networks (NN)
 
 ## NN/DNN Software Frameworks
 Here's a good overview [presentation](https://project.inria.fr/deeplearning/files/2016/05/DLFrameworks.pdf) ([permalink](https://github.com/jgvictores/awesome-deep-reinforcement-learning/blob/143a885cc10b4331b9b3fa3e1a9436d5325676af/doc/inria2017DLFrameworks.pdf)). There are several Docker images with several pre-installed software frameworks: [1](https://github.com/ufoym/deepo), [2](https://github.com/floydhub/dl-docker). Attempling to order software frameworks by current popularity:
-- [Keras](https://keras.io) (layer over: TensorFlow, theano...) (API: Python)
-   - https://en.wikipedia.org/wiki/Keras
-   - Examples/tutorials
-      - https://github.com/keras-team/keras/blob/master/examples
-      - https://www.datacamp.com/community/tutorials/deep-learning-python
-      - https://elitedatascience.com/keras-tutorial-deep-learning-in-python
+- [Keras](https://keras.io) (layer over: TensorFlow, theano...) (API: Python). [wikipedia](https://en.wikipedia.org/wiki/Keras)
+   - Examples/tutorials: [keras](https://github.com/keras-team/keras/blob/master/examples), [1](https://www.datacamp.com/community/tutorials/deep-learning-python), [2](https://elitedatascience.com/keras-tutorial-deep-learning-in-python)
 - [PyTorch](https://pytorch.org/) (API: Python)
    - Used internally by http://www.fast.ai/
 - Torch (API: Lua)
