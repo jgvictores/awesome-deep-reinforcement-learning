@@ -83,6 +83,8 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - ZFNet (2013). Matthew D Zeiler and Rob Fergus; NYU; "Visualizing and Understanding Convolutional Networks"; [doi](https://doi.org/10.1007/978-3-319-10590-1_53), [arxiv](https://arxiv.org/abs/1311.2901). Similar to AlexNet, with well-justified finer tuning and visualization (namely Deconvolutional Network).
 - AlexNet (2012). Alex Krizhevsky et Al; SuperVision (UToronto); "ImageNet Classification with Deep Convolutional Neural Networks"; [doi](https://doi.org/10.1145/3065386). In 224x224 color patches (and their horizontal reflections) from 256x256 color images; 5 conv, maxpool, 3 full; ReLU; SVD with momentum; dropout and data augmentation. 60-61 million parameters, split into 2 pipelines to enable 5-6 day GTX 580 GPU training (while CPU data augmentation).
 - LeNet-5 (1998). Yann LeCun et Al; ATT now at Facebook AI Research; "Gradient-based learning applied to document recognition"; [doi](https://doi.org/10.1109/5.726791). In 32x32 grayscale; 7 layer (conv, pool, full...). 60 thousand parameters.
+- Other types of networks:
+   - Word embeddings: [word2vec](https://code.google.com/archive/p/word2vec/).
 - Links to overviews:
    - https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
    - http://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/
@@ -104,7 +106,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - Many at Kaggle: https://www.kaggle.com/datasets
 - Robotics: [iCubWorld](https://robotology.github.io/iCubWorld/#datasets); where iCWT: 200 domestic objects in 20 categories (11 categories also in ILSVRC, rest in ImageNet).
 - [HICO](http://www-personal.umich.edu/~ywchao/hico/) (Humans Interacting with Common Objects)
-- [text8](http://mattmahoney.net/dc/textdata.html): [text8.zip](http://mattmahoney.net/dc/text8.zip)
+- [text8](http://mattmahoney.net/dc/textdata.html): [text8.zip](http://mattmahoney.net/dc/text8.zip). more at [word2vec](https://code.google.com/archive/p/word2vec/).
 - Link to overview: https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research
 
 ## NN/DNN Benchmarks
@@ -120,6 +122,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
    - VGG16 trained on ImageNet (tutorial): [keras](https://www.pyimagesearch.com/2016/08/10/imagenet-classification-with-python-and-keras/)
    - VGGNet, ResNet, Inception, and Xception trained on ImageNet (tutorial): [keras](https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/)
    - VGG16 trained on ILSVRC: [caffe by original VGG author](https://gist.github.com/ksimonyan/211839e770f7b538e2d8) / ported (tutorials): [tensorflow](https://www.cs.toronto.edu/~frossard/post/vgg16/) / [keras](https://gist.github.com/baraldilorenzo/07d7802847aaad0a35d3) / [keras ImageNet weights](https://drive.google.com/file/d/0Bz7KyqmuGsilT0J5dmRCM0ROVHc)
+- word2vec: [gensim](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing)
 
 ## NN/DNN Techniques Misc
 - Layers: Dense (aka Fully Connected), Convolutional (1D/2D/3D... [keras](https://keras.io/layers/convolutional), advanced: upsampling (e.g. in GANs), dilated causal (aka atrous)(e.g. in WaveNet)), Pooling (aka SubSampling)(1D/2D/3D)(Max, Average, Global Max, Global Average, Average with learnable weights per feature map... [keras](https://keras.io/layers/pooling)), Normalisation. Note: Keras implements activation functions, dropout, etc as layers.
