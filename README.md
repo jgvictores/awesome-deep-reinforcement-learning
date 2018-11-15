@@ -13,6 +13,7 @@ To accomplish this, includes general Machine Learning (ML), Neural Networks (NN)
    - [NN/DNN Benchmarks](#nndnn-benchmarks)
    - [NN/DNN Pretrained Models](#nndnn-pretrained-models)
    - [NN/DNN Techniques Misc](#nndnn-techniques-misc)
+   - [NN/DNN Visualization](#nndnn-visualization)
 - [Reinforcement Learning (RL) and Deep Reinforcement Learning (DRL)](#reinforcement-learning-rl-and-deep-reinforcement-learning-drl)
    - [RL/DRL Frameworks](#rldrl-frameworks)
    - [RL/DRL Books](#rldrl-books)
@@ -138,11 +139,12 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - Cross-validation: hold-out, stratified k-fold. [wikipedia](https://en.wikipedia.org/wiki/Cross-validation_(statistics)#Common_types_of_cross-validation).
 - Restricted Boltzmann Machine (RBM). Generative Adversarial Network (GAN). Echo-state networks.
 - Transfer learning.
-- Visualization:
-   - [Quiver](https://keplr-io.github.io/quiver/)
-   - Keras: [tutorial](https://machinelearningmastery.com/visualize-deep-learning-neural-network-model-keras/) / [official](https://keras.io/visualization/)
-   - Tensorflow: [online demo](http://playground.tensorflow.org)
-   - Caffe: [Netscope](http://ethereon.github.io/netscope) / [cnnvisualizer](https://github.com/metalbubble/cnnvisualizer)
+
+## NN/DNN Visualization
+- [Quiver](https://keplr-io.github.io/quiver/)
+- Keras: [tutorial](https://machinelearningmastery.com/visualize-deep-learning-neural-network-model-keras/) / [official](https://keras.io/visualization/)
+- Tensorflow: [online demo](http://playground.tensorflow.org)
+- Caffe: [Netscope](http://ethereon.github.io/netscope) / [cnnvisualizer](https://github.com/metalbubble/cnnvisualizer)
 
 # Reinforcement Learning (RL) and Deep Reinforcement Learning (DRL)
 
