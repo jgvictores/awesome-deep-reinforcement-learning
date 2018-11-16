@@ -46,7 +46,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
    - https://github.com/junyanz/CycleGAN (but links to implementations with theano, etc)
    - https://github.com/karpathy/char-rnn
    - https://github.com/luanfujun/deep-photo-styletransfer
-- [TensorFlow](https://www.tensorflow.org) (low-level)  (API: Python most stable)
+- [TensorFlow](https://www.tensorflow.org) (low-level)  (API: Python most stable, JavaScript, C++, Java...)
    - https://github.com/llSourcell/YOLO_Object_Detection (but the original uses Darknet)
    - https://github.com/tkarras/progressive_growing_of_gans
    - https://github.com/mlberkeley/Creative-Adversarial-Networks
