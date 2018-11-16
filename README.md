@@ -42,7 +42,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
    - Examples/tutorials: [keras](https://github.com/keras-team/keras/blob/master/examples), [1](https://www.datacamp.com/community/tutorials/deep-learning-python), [2](https://elitedatascience.com/keras-tutorial-deep-learning-in-python)
 - [PyTorch](https://pytorch.org/) (API: Python)
    - Used internally by http://www.fast.ai/
-- Torch (API: Lua)
+- [Torch](http://torch.ch/) (API: Lua)
    - https://github.com/junyanz/CycleGAN (but links to implementations with theano, etc)
    - https://github.com/karpathy/char-rnn
    - https://github.com/luanfujun/deep-photo-styletransfer
