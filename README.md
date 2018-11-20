@@ -46,7 +46,6 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
    - Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models: [1](https://github.com/karpathy/char-rnn)
    - https://github.com/luanfujun/deep-photo-styletransfer
 - [TensorFlow](https://www.tensorflow.org) (low-level) (API: Python most stable, JavaScript, C++, Java...) (support: Google).
-   - https://github.com/thtrieu/darkflow (but the original uses Darknet)
    - https://github.com/tkarras/progressive_growing_of_gans
    - https://github.com/mlberkeley/Creative-Adversarial-Networks
    - http://www.subsubroutine.com/sub-subroutine/2016/11/12/painting-like-van-gogh-with-convolutional-neural-networks
@@ -59,7 +58,6 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - [Sonnet](https://deepmind.com/blog/open-sourcing-sonnet/) ([GitHub](https://github.com/deepmind/sonnet)) (layer over: TensorFlow) (API: Python) (support: DeepMind)
 - [MXNet](https://github.com/llSourcell/MXNet) (support: Apache)
 - [Darknet](https://pjreddie.com/darknet)
-   - https://pjreddie.com/darknet/yolo
 - [OpenCV](https://www.opencv.org) now has some DNN: https://docs.opencv.org/3.3.0/d2/d58/tutorial_table_of_content_dnn.html
 - [OpenNN](http://www.opennn.net)
 - [PyBrain](http://www.pybrain.org)
@@ -74,7 +72,7 @@ Overviews: [1](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need
 - FCIS (2017). "Fully Convolutional Instance-aware Semantic Segmentation". [arxiv](https://arxiv.org/abs/1611.07709). Coded in Caffe, released [MXNet](https://github.com/msracver/FCIS), more: [chainer](https://github.com/knorth55/chainer-fcis).
 - [CycleGAN](https://junyanz.github.io/CycleGAN/) (2017). Jun-Yan Zhu et Al; Berkeley; "Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks". [torch](https://github.com/junyanz/CycleGAN) and migrated to [pytorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix).
 - DenseNets (2016). Gao Huang et Al; "Densely Connected Convolutional Networks"; [arxiv](https://arxiv.org/abs/1608.06993v1).
-- YOLO9000 (2016). Joseph Redmond and Ali Farhadi; U Washington and Allen AI; "YOLO9000: Better, Faster, Stronger"; [arxiv](https://arxiv.org/abs/1612.08242).
+- YOLO9000 (2016). Joseph Redmond and Ali Farhadi; U Washington and Allen AI; "YOLO9000: Better, Faster, Stronger"; [arxiv](https://arxiv.org/abs/1612.08242). [Darknet](https://pjreddie.com/darknet/yolo), ports: [tensorflow](https://github.com/thtrieu/darkflow).
 - SSD (2015). Wei Liu et Al; UNC, Zoox, Google, et Al; "SSD: Single Shot MultiBox Detector"; [arxiv](https://arxiv.org/abs/1512.02325). (orig: [caffe](https://github.com/intel/caffe/wiki/SSD:-Single-Shot-MultiBox-Detector))
 - ResNet (2015). Kaiming He et Al; Microsoft Research; "Deep Residual Learning for Image Recognition"; [arxiv](https://arxiv.org/abs/1512.03385). Introduces Skip Connections ("gated units" or "gated recurrent units") and/or(?) "Residual Blocks" and heavy batch normalization. Variants: ResNet50, ResNet101, ResNet152 (correspond to number of layers). 25.5 million parameters.
 - VGGNet (Sept 2014). Karen Simonyan et Al; Visual Geometry Group (Oxford); "Very Deep Convolutional Networks for Large-Scale Image Recognition"; [arxiv](https://arxiv.org/abs/1409.1556). Input: 224x224x3. Conv/pool and fully connected. Variants: VGG11, VGG13, VGG16, VGG19 (correspond to number of layers); with batch normalization. 138 million parameters; trained on 4 Titan Black GPUs for 2-3 weeks.
