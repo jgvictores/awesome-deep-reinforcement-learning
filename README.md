@@ -47,7 +47,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
    - https://github.com/karpathy/char-rnn
    - https://github.com/luanfujun/deep-photo-styletransfer
 - [TensorFlow](https://www.tensorflow.org) (low-level)  (API: Python most stable, JavaScript, C++, Java...)
-   - https://github.com/llSourcell/YOLO_Object_Detection (but the original uses Darknet)
+   - https://github.com/thtrieu/darkflow (but the original uses Darknet)
    - https://github.com/tkarras/progressive_growing_of_gans
    - https://github.com/mlberkeley/Creative-Adversarial-Networks
    - http://www.subsubroutine.com/sub-subroutine/2016/11/12/painting-like-van-gogh-with-convolutional-neural-networks
