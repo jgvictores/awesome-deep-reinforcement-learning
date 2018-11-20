@@ -43,7 +43,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - [PyTorch](https://pytorch.org/) (API: Python) (support: Facebook AI Research).
    - Used internally by http://www.fast.ai/
 - [Torch](http://torch.ch/) (API: Lua) (support: Facebook AI Research).
-   - https://github.com/karpathy/char-rnn
+   - Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models: [1](https://github.com/karpathy/char-rnn)
    - https://github.com/luanfujun/deep-photo-styletransfer
 - [TensorFlow](https://www.tensorflow.org) (low-level) (API: Python most stable, JavaScript, C++, Java...) (support: Google).
    - https://github.com/thtrieu/darkflow (but the original uses Darknet)
@@ -54,7 +54,8 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
    - Another NN wrapper: Tensorpack ([GitHub](https://github.com/ppwwyyxx/tensorpack))
 - [Caffe](http://caffe.berkeleyvision.org/) (API: Python, Matlab) (support: Berkeley)
 - [Chainer](http://www.chainer.org) ([GitHub](https://github.com/chainer/chainer)) (API: Python) (support: Preferred Networks)
-   - Define-by-Run rather than Define-and-Run. In addition to chainerrl below, there is also a [chainercv](https://github.com/chainer/chainercv))
+   - Define-by-Run rather than Define-and-Run.
+   - In addition to chainerrl below, there is also a chainercv: [1](https://github.com/chainer/chainercv))
 - [Sonnet](https://deepmind.com/blog/open-sourcing-sonnet/) ([GitHub](https://github.com/deepmind/sonnet)) (layer over: TensorFlow) (API: Python) (support: DeepMind)
 - [MXNet](https://github.com/llSourcell/MXNet) (support: Apache)
 - [Darknet](https://pjreddie.com/darknet)
