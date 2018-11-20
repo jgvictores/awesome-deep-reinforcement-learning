@@ -38,25 +38,26 @@ To accomplish this, includes general Machine Learning (ML), Neural Networks (NN)
 
 ## NN/DNN Software Frameworks
 Here's a good overview [presentation](https://project.inria.fr/deeplearning/files/2016/05/DLFrameworks.pdf) ([permalink](https://github.com/jgvictores/awesome-deep-reinforcement-learning/blob/143a885cc10b4331b9b3fa3e1a9436d5325676af/doc/inria2017DLFrameworks.pdf)). There are several Docker images with several pre-installed software frameworks: [1](https://github.com/ufoym/deepo), [2](https://github.com/floydhub/dl-docker). Attempling to order software frameworks by current popularity:
-- [Keras](https://keras.io) (layer over: TensorFlow, theano...) (API: Python). [wikipedia](https://en.wikipedia.org/wiki/Keras)
+- [Keras](https://keras.io) (layer over: TensorFlow, theano...) (API: Python) (support: Google). [wikipedia](https://en.wikipedia.org/wiki/Keras)
    - Examples/tutorials: [keras](https://github.com/keras-team/keras/blob/master/examples), [1](https://www.datacamp.com/community/tutorials/deep-learning-python), [2](https://elitedatascience.com/keras-tutorial-deep-learning-in-python)
-- [PyTorch](https://pytorch.org/) (API: Python)
+- [PyTorch](https://pytorch.org/) (API: Python) (support: Facebook AI Research).
    - Used internally by http://www.fast.ai/
-- [Torch](http://torch.ch/) (API: Lua)
+- [Torch](http://torch.ch/) (API: Lua) (support: Facebook AI Research).
    - https://github.com/junyanz/CycleGAN (but links to implementations with theano, etc)
    - https://github.com/karpathy/char-rnn
    - https://github.com/luanfujun/deep-photo-styletransfer
-- [TensorFlow](https://www.tensorflow.org) (low-level)  (API: Python most stable, JavaScript, C++, Java...)
+- [TensorFlow](https://www.tensorflow.org) (low-level) (API: Python most stable, JavaScript, C++, Java...) (support: Google).
    - https://github.com/thtrieu/darkflow (but the original uses Darknet)
    - https://github.com/tkarras/progressive_growing_of_gans
    - https://github.com/mlberkeley/Creative-Adversarial-Networks
    - http://www.subsubroutine.com/sub-subroutine/2016/11/12/painting-like-van-gogh-with-convolutional-neural-networks
    - https://github.com/ckmarkoh/neuralart_tensorflow (looks like Deepdream, but short, and nice)
    - Another NN wrapper: Tensorpack ([GitHub](https://github.com/ppwwyyxx/tensorpack))
-- [Caffe](http://caffe.berkeleyvision.org/) (API: Python, Matlab)
-- [Chainer](http://www.chainer.org) ([GitHub](https://github.com/chainer/chainer)) (API: Python) (Define-by-Run rather than Define-and-Run) (in addition to chainerrl below, there is also a [chainercv](https://github.com/chainer/chainercv))
-- [Sonnet](https://deepmind.com/blog/open-sourcing-sonnet/) ([GitHub](https://github.com/deepmind/sonnet)) (by DeepMind) (layer over: TensorFlow)
-- [MXNet](https://github.com/llSourcell/MXNet) (by Apache)
+- [Caffe](http://caffe.berkeleyvision.org/) (API: Python, Matlab) (support: Berkeley)
+- [Chainer](http://www.chainer.org) ([GitHub](https://github.com/chainer/chainer)) (API: Python) (support: Preferred Networks)
+   - Define-by-Run rather than Define-and-Run. In addition to chainerrl below, there is also a [chainercv](https://github.com/chainer/chainercv))
+- [Sonnet](https://deepmind.com/blog/open-sourcing-sonnet/) ([GitHub](https://github.com/deepmind/sonnet)) (layer over: TensorFlow) (API: Python) (support: DeepMind)
+- [MXNet](https://github.com/llSourcell/MXNet) (support: Apache)
 - [Darknet](https://pjreddie.com/darknet)
    - https://pjreddie.com/darknet/yolo
 - [OpenCV](https://www.opencv.org) now has some DNN: https://docs.opencv.org/3.3.0/d2/d58/tutorial_table_of_content_dnn.html
