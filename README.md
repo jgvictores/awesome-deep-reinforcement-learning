@@ -44,12 +44,8 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
    - Used internally by http://www.fast.ai/
 - [Torch](http://torch.ch/) (API: Lua) (support: Facebook AI Research).
    - Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models: [1](https://github.com/karpathy/char-rnn)
-   - https://github.com/luanfujun/deep-photo-styletransfer
 - [TensorFlow](https://www.tensorflow.org) (low-level) (API: Python most stable, JavaScript, C++, Java...) (support: Google).
-   - Tutorials: [style transfer](http://www.subsubroutine.com/sub-subroutine/2016/11/12/painting-like-van-gogh-with-convolutional-neural-networks)
-   - https://github.com/tkarras/progressive_growing_of_gans
-   - https://github.com/mlberkeley/Creative-Adversarial-Networks
-   - https://github.com/ckmarkoh/neuralart_tensorflow (looks like Deepdream, but short, and nice)
+   - Tutorial: [style transfer](http://www.subsubroutine.com/sub-subroutine/2016/11/12/painting-like-van-gogh-with-convolutional-neural-networks)
    - Another NN wrapper: Tensorpack ([GitHub](https://github.com/ppwwyyxx/tensorpack))
 - [Caffe](http://caffe.berkeleyvision.org/) (API: Python, Matlab) (support: Berkeley)
 - [Chainer](http://www.chainer.org) ([GitHub](https://github.com/chainer/chainer)) (API: Python) (support: Preferred Networks)
@@ -86,8 +82,14 @@ Overviews: [1](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need
       - Recurrent Neural Networks (RNN).
       - Bidirectional RNN.
       - Stateful RNN.
+   - Style transfer:
+      - https://github.com/ckmarkoh/neuralart_tensorflow
+      - https://github.com/luanfujun/deep-photo-styletransfer
    - Generative Networks:
       - [WaveNet](https://deepmind.com/blog/wavenet-generative-model-raw-audio) (2016). Aäron van den Oord et Al; DeepMind; "WaveNet: A Generative Model for Raw Audio"; [arxiv](https://arxiv.org/pdf/1609.03499.pdf). [wikipedia](https://en.wikipedia.org/wiki/WaveNet).
+      - Deep Dream. [caffe](https://github.com/google/deepdream)
+      - https://github.com/mlberkeley/Creative-Adversarial-Networks
+      - https://github.com/tkarras/progressive_growing_of_gans
       - [CycleGAN](https://junyanz.github.io/CycleGAN/) (2017). Jun-Yan Zhu et Al; Berkeley; "Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks". [torch](https://github.com/junyanz/CycleGAN) and migrated to [pytorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix).
       - Auto-Regressive Generative Models: PixelRNN, PixelCNN++... [ref](https://towardsdatascience.com/auto-regressive-generative-models-pixelrnn-pixelcnn-32d192911173)
       - DCGAN (2015). Alec Radford, Luke Metz, Soumith Chintala; Indico Research, Facebook AI Research; "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks"; [arxiv](https://arxiv.org/abs/1511.06434).
@@ -96,7 +98,6 @@ Overviews: [1](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need
       - GloVe (2014). Jeffrey Pennington et Al; Stanford; "GloVe: Global Vectors for Word Representation".
       - [word2vec](https://code.google.com/archive/p/word2vec/).
    - Capsule Networks. Use "Capsules". [wikipedia](https://en.wikipedia.org/wiki/Capsule_neural_network)
-   - Deep Dream. [caffe](https://github.com/google/deepdream)
    - Even more types of Networks: Memory Networks. Echo-state networks. Restricted Boltzmann Machine (RBM).
 
 ## NN/DNN Datasets
