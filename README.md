@@ -94,7 +94,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
       - GloVe (2014). Jeffrey Pennington et Al; Stanford; "GloVe: Global Vectors for Word Representation".
       - [word2vec](https://code.google.com/archive/p/word2vec/).
    - Capsule Networks. Use "Capsules". [wikipedia](https://en.wikipedia.org/wiki/Capsule_neural_network)
-   - Memory Networks
+   - Even more types of Networks: Memory Networks. Echo-state networks. Restricted Boltzmann Machine (RBM).
 - Links to overviews:
    - https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
    - http://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/
@@ -148,7 +148,6 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
    - Logarithm of the hyperbolic cosine of the prediction error (logcosh), kullback leibler divergence, poisson, cosine proximity.
 - Metric functions: usually same type as error/loss functions, but used for evaluationg rather than training. [keras](https://keras.io/metrics)
 - Cross-validation: hold-out, stratified k-fold. [wikipedia](https://en.wikipedia.org/wiki/Cross-validation_(statistics)#Common_types_of_cross-validation).
-- Restricted Boltzmann Machine (RBM). Generative Adversarial Network (GAN). Echo-state networks.
 - Transfer learning.
 
 ## NN/DNN Visualization
