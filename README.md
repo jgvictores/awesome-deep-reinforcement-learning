@@ -46,9 +46,9 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
    - Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models: [1](https://github.com/karpathy/char-rnn)
    - https://github.com/luanfujun/deep-photo-styletransfer
 - [TensorFlow](https://www.tensorflow.org) (low-level) (API: Python most stable, JavaScript, C++, Java...) (support: Google).
+   - Tutorials: [style transfer](http://www.subsubroutine.com/sub-subroutine/2016/11/12/painting-like-van-gogh-with-convolutional-neural-networks)
    - https://github.com/tkarras/progressive_growing_of_gans
    - https://github.com/mlberkeley/Creative-Adversarial-Networks
-   - http://www.subsubroutine.com/sub-subroutine/2016/11/12/painting-like-van-gogh-with-convolutional-neural-networks
    - https://github.com/ckmarkoh/neuralart_tensorflow (looks like Deepdream, but short, and nice)
    - Another NN wrapper: Tensorpack ([GitHub](https://github.com/ppwwyyxx/tensorpack))
 - [Caffe](http://caffe.berkeleyvision.org/) (API: Python, Matlab) (support: Berkeley)
