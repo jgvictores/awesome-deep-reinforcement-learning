@@ -55,7 +55,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - [Caffe](http://caffe.berkeleyvision.org/) (API: Python, Matlab) (support: Berkeley)
 - [Chainer](http://www.chainer.org) ([GitHub](https://github.com/chainer/chainer)) (API: Python) (support: Preferred Networks)
    - Define-by-Run rather than Define-and-Run.
-   - In addition to chainerrl below, there is also a chainercv: [1](https://github.com/chainer/chainercv))
+   - In addition to chainerrl below, there is also a chainercv: [1](https://github.com/chainer/chainercv)
 - [Sonnet](https://deepmind.com/blog/open-sourcing-sonnet/) ([GitHub](https://github.com/deepmind/sonnet)) (layer over: TensorFlow) (API: Python) (support: DeepMind)
 - [MXNet](https://github.com/llSourcell/MXNet) (support: Apache)
 - [Darknet](https://pjreddie.com/darknet)
