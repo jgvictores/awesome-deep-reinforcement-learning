@@ -56,7 +56,8 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
    - Define-by-Run rather than Define-and-Run.
    - In addition to chainerrl below, there is also a chainercv: [1](https://github.com/chainer/chainercv)
 - [Sonnet](https://deepmind.com/blog/open-sourcing-sonnet/) ([GitHub](https://github.com/deepmind/sonnet)) (layer over: TensorFlow) (API: Python) (support: DeepMind)
-- [MXNet](https://github.com/llSourcell/MXNet) (support: Apache)
+- [MXNet](https://mxnet.apache.org/) (support: Apache)
+   - Tutorial: [1](https://github.com/llSourcell/MXNet)
 - [Darknet](https://pjreddie.com/darknet)
 - [OpenCV](https://www.opencv.org) now has some DNN: https://docs.opencv.org/3.3.0/d2/d58/tutorial_table_of_content_dnn.html
 - [OpenNN](http://www.opennn.net)
