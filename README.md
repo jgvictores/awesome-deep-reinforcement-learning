@@ -81,7 +81,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - AlexNet (2012). Alex Krizhevsky et Al; SuperVision (UToronto); "ImageNet Classification with Deep Convolutional Neural Networks"; [doi](https://doi.org/10.1145/3065386). In 224x224 color patches (and their horizontal reflections) from 256x256 color images; 5 conv, maxpool, 3 full; ReLU; SVD with momentum; dropout and data augmentation. 60-61 million parameters, split into 2 pipelines to enable 5-6 day GTX 580 GPU training (while CPU data augmentation).
 - LeNet-5 (1998). Yann LeCun et Al; ATT now at Facebook AI Research; "Gradient-based learning applied to document recognition"; [doi](https://doi.org/10.1109/5.726791). In 32x32 grayscale; 7 layer (conv, pool, full...). 60 thousand parameters.
 - Other types of networks:
-   - Recurrent Networks. Can be trained via Back Propagation Through Time (BPTT). Cells include: SimpleRNN, Gated Recurrent Units (GRU), LSTM, ConvLSTM2D; ([keras](https://keras.io/layers/recurrent/)).
+   - Recurrent Networks. Can be trained via Back Propagation Through Time (BPTT). Cells include: SimpleRNN, Gated Recurrent Units (GRU), Long short-term memory (LSTM), ConvLSTM2D, LSTM with peephole connection; ([keras](https://keras.io/layers/recurrent/)).
       - Recurrent Neural Networks (RNN).
       - Bidirectional RNN.
       - Stateful RNN.
