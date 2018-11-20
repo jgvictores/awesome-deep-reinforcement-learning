@@ -54,8 +54,6 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
    - https://github.com/ckmarkoh/neuralart_tensorflow (looks like Deepdream, but short, and nice)
    - Another NN wrapper: Tensorpack ([GitHub](https://github.com/ppwwyyxx/tensorpack))
 - [Caffe](http://caffe.berkeleyvision.org/) (API: Python, Matlab)
-   - https://github.com/google/deepdream
-   - FCIS, but released [MXNet version](https://github.com/msracver/FCIS), and [chainer re-implementation](https://github.com/knorth55/chainer-fcis) can also be found.
 - [Chainer](http://www.chainer.org) ([GitHub](https://github.com/chainer/chainer)) (API: Python) (Define-by-Run rather than Define-and-Run) (in addition to chainerrl below, there is also a [chainercv](https://github.com/chainer/chainercv))
 - [Sonnet](https://deepmind.com/blog/open-sourcing-sonnet/) ([GitHub](https://github.com/deepmind/sonnet)) (by DeepMind) (layer over: TensorFlow)
 - [MXNet](https://github.com/llSourcell/MXNet) (by Apache)
@@ -72,6 +70,7 @@ Overviews: [1](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need
 
 - Mask R-CNN (2017), Kaiming He et Al; Facebook AI Research (FAIR); "Mask R-CNN"; [arxiv](https://arxiv.org/abs/1703.06870). Refs: [1](https://towardsdatascience.com/r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e), [2](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4).
 - MobileNets (2017). Andrew Howard et Al; Google; "MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications"; [arxiv](https://arxiv.org/abs/1704.04861).
+- FCIS (2017). "Fully Convolutional Instance-aware Semantic Segmentation". [arxiv](https://arxiv.org/abs/1611.07709). Coded in Caffe, released [MXNet](https://github.com/msracver/FCIS), more: [chainer](https://github.com/knorth55/chainer-fcis).
 - DenseNets (2016). Gao Huang et Al; "Densely Connected Convolutional Networks"; [arxiv](https://arxiv.org/abs/1608.06993v1).
 - YOLO9000 (2016). Joseph Redmond and Ali Farhadi; U Washington and Allen AI; "YOLO9000: Better, Faster, Stronger"; [arxiv](https://arxiv.org/abs/1612.08242).
 - SSD (2015). Wei Liu et Al; UNC, Zoox, Google, et Al; "SSD: Single Shot MultiBox Detector"; [arxiv](https://arxiv.org/abs/1512.02325). (orig: [caffe](https://github.com/intel/caffe/wiki/SSD:-Single-Shot-MultiBox-Detector))
@@ -96,6 +95,7 @@ Overviews: [1](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need
       - GloVe (2014). Jeffrey Pennington et Al; Stanford; "GloVe: Global Vectors for Word Representation".
       - [word2vec](https://code.google.com/archive/p/word2vec/).
    - Capsule Networks. Use "Capsules". [wikipedia](https://en.wikipedia.org/wiki/Capsule_neural_network)
+   - Deep Dream. [caffe](https://github.com/google/deepdream)
    - Even more types of Networks: Memory Networks. Echo-state networks. Restricted Boltzmann Machine (RBM).
 
 ## NN/DNN Datasets
