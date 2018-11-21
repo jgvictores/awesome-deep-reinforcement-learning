@@ -52,13 +52,13 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
    - Define-by-Run rather than Define-and-Run.
    - In addition to chainerrl below, there is also a chainercv: [1](https://github.com/chainer/chainercv)
 - [Sonnet](https://deepmind.com/blog/open-sourcing-sonnet/) ([GitHub](https://github.com/deepmind/sonnet)) (layer over: TensorFlow) (API: Python) (support: DeepMind)
-- [MXNet](https://mxnet.apache.org/) (support: Apache)
+- [MXNet](https://mxnet.apache.org/) (API: Python, C++, Clojure, Julia, Perl, R, Scala) (support: Apache)
    - Tutorial: [1](https://github.com/llSourcell/MXNet)
-- [Darknet](https://pjreddie.com/darknet)
+- [Darknet](https://pjreddie.com/darknet) (API: C)
 - [DL4J](https://deeplearning4j.org/) (API: Java)
 - [OpenCV](https://www.opencv.org) now has some DNN: https://docs.opencv.org/3.3.0/d2/d58/tutorial_table_of_content_dnn.html
-- [OpenNN](http://www.opennn.net)
-- [PyBrain](http://www.pybrain.org)
+- [OpenNN](http://www.opennn.net) (API: C++)
+- [PyBrain](http://www.pybrain.org) (API: Python)
 - theano (very used, but down here because [MILA stopped developing](https://groups.google.com/forum/#!msg/theano-users/7Poq8BZutbY/rNCIfvAEAwAJ))
    - Still many tutorials: https://github.com/lisa-lab/DeepLearningTutorials
 
