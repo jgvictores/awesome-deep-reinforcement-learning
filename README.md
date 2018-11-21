@@ -55,6 +55,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - [MXNet](https://mxnet.apache.org/) (support: Apache)
    - Tutorial: [1](https://github.com/llSourcell/MXNet)
 - [Darknet](https://pjreddie.com/darknet)
+- [DL4J](https://deeplearning4j.org/) (API: Java)
 - [OpenCV](https://www.opencv.org) now has some DNN: https://docs.opencv.org/3.3.0/d2/d58/tutorial_table_of_content_dnn.html
 - [OpenNN](http://www.opennn.net)
 - [PyBrain](http://www.pybrain.org)
