@@ -204,7 +204,7 @@ Attempling to order by current popularity:
 - https://github.com/Microsoft/malmo
 - https://github.com/nadavbh12/Retro-Learning-Environment
 - https://github.com/twitter/torch-twrl
-- Atari-net ?
+- https://github.com/thedimlebowski/Trading-Gym
 
 ## RL/DRL Baselines
 - https://github.com/openai/baselines
