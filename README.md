@@ -15,7 +15,7 @@ To accomplish this, includes general Machine Learning (ML), Neural Networks (NN)
    - [NN/DNN Techniques Misc](#nndnn-techniques-misc)
    - [NN/DNN Visualization](#nndnn-visualization)
 - [Reinforcement Learning (RL) and Deep Reinforcement Learning (DRL)](#reinforcement-learning-rl-and-deep-reinforcement-learning-drl)
-   - [RL/DRL Frameworks](#rldrl-frameworks)
+   - [RL/DRL Software Frameworks](#rldrl-software-frameworks)
    - [RL/DRL Books](#rldrl-books)
    - [RL/DRL Gyms](#rldrl-gyms)
    - [RL/DRL Baselines](#rldrl-baselines)
@@ -166,7 +166,7 @@ Overview: http://rodrigob.github.io/are_we_there_yet/build/classification_datase
 
 # Reinforcement Learning (RL) and Deep Reinforcement Learning (DRL)
 
-## RL/DRL Frameworks
+## RL/DRL Software Frameworks
 Attempling to order by current popularity:
 
 - rllab ([GitHub](https://github.com/rll/rllab)) ([readthedocs](http://rllab.readthedocs.io)) (officialy uses theano; in practice has some keras, tensorflow, torch, chainer...)
