@@ -91,7 +91,7 @@ Overviews: [1](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need
 - GAN (2014). Ian J. Goodfellow et Al; Université de Montréal; "Generative Adversarial Nets"; [arxiv](https://arxiv.org/abs/1406.2661).
 
 ### Recurrent Models
-Can be trained via Back Propagation Through Time (BPTT). Cells include: SimpleRNN (commonly has tanh activation as second derivative decays slowly to 0), Gated Recurrent Units (GRU), Long short-term memory (LSTM), ConvLSTM2D, LSTM with peephole connection; [keras](https://keras.io/layers/recurrent/).
+Can be trained via Back Propagation Through Time (BPTT). Cells include: SimpleRNN (commonly has TanH activation as second derivative decays slowly to 0), Gated Recurrent Units (GRU), Long short-term memory (LSTM), ConvLSTM2D, LSTM with peephole connection; [keras](https://keras.io/layers/recurrent/).
 - Recurrent Neural Networks (RNN).
 - Bidirectional RNN.
 - Stateful RNN.
