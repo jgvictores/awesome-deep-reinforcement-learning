@@ -138,6 +138,7 @@ Overview: [wikipedia](https://en.wikipedia.org/wiki/List_of_datasets_for_machine
 - Kaggle: https://www.kaggle.com/datasets
 - MIT: [MIT Places](http://places.csail.mit.edu/), [MIT Moments](http://moments.csail.mit.edu/)...
 - UCI: https://archive.ics.uci.edu/ml/datasets.html
+- KIT Motion-Language: https://motion-annotation.humanoids.kit.edu/dataset
 
 ## NN/DNN Benchmarks
 Overview: http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html
