@@ -110,6 +110,7 @@ Can be trained via Back Propagation Through Time (BPTT). Cells include: SimpleRN
 ### More Models
 - Regression Networks (essentialy same, remove last activation and use some loss such as MSE rather than categorical cross-entropy).
 - Autoencoders (AE), Variational Autoencoders (VAE), Denoising Autoencoders.
+   - Yunchen Pu et Al; "Variational Autoencoder for Deep Learning of Images, Labels and Captions"; [arxiv](https://arxiv.org/abs/1609.08976).
 - Memory Networks. Use "Memory Units".
 - Capsule Networks. Use "Capsules". [wikipedia](https://en.wikipedia.org/wiki/Capsule_neural_network)
 - Echo-state networks.
