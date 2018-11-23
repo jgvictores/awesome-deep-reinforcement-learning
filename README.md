@@ -113,9 +113,14 @@ Can be trained via Back Propagation Through Time (BPTT). Cells include: SimpleRN
 - Restricted Boltzmann Machine (RBM).
 
 ## NN/DNN Datasets
-Overview: [wikipedia](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research)
+Lists of lists before citing the classics:
+- wikipedia: https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research
+- Google: https://ai.google/tools/datasets
+- Kaggle: https://www.kaggle.com/datasets
+- MIT: [MIT Places](http://places.csail.mit.edu/), [MIT Moments](http://moments.csail.mit.edu/)...
+- UCI: https://archive.ics.uci.edu/ml/datasets.html
 
-### Images
+### Image, Sound, Multimedia...
 - [MNIST](http://yann.lecun.com/exdb/mnist/): Handwritten digits, set of 70000 examples, is a subset of a larger set available from NIST.
 - [ImageNet](http://www.image-net.org/): Project organized according to the WordNet hierarchy (22000 categories). Includes SIFT features, bounding boxes, attributes. Currently over 14 million images, 21841 cognitive synonyms (synsets) indexed, goal of +1000 images per synset.
    - ImageNet Large Visual Recognition Challenge (ILSVRC): Goal of 1000 categories using +100000 test images. E.g. LS-LOC
@@ -126,6 +131,7 @@ Overview: [wikipedia](https://en.wikipedia.org/wiki/List_of_datasets_for_machine
 - [SVHN](http://ufldl.stanford.edu/housenumbers/) (Street View House Numbers)
 - [HICO](http://www-personal.umich.edu/~ywchao/hico/) (Humans Interacting with Common Objects)
 - [PCam](https://github.com/basveeling/pcam) (PatchCamelyon)
+- KIT Motion-Language: https://motion-annotation.humanoids.kit.edu/dataset
 - Robotics: [iCubWorld](https://robotology.github.io/iCubWorld/#datasets); where iCWT: 200 domestic objects in 20 categories (11 categories also in ILSVRC, rest in ImageNet).
 
 ### Text
@@ -133,12 +139,6 @@ Overview: [wikipedia](https://en.wikipedia.org/wiki/List_of_datasets_for_machine
 - Sentiment Classification: [UMICH SI650](https://www.kaggle.com/c/si650winter11)
 - Treebanks (text with part-of-speech (POS) tags): [wikipedia](https://en.wikipedia.org/wiki/Treebank), [Penn Treebank](https://web.archive.org/web/19970614160127/http://www.cis.upenn.edu/~treebank/)
 - Facebook bAbI tasks: https://research.fb.com/downloads/babi
-
-### Misc
-- Kaggle: https://www.kaggle.com/datasets
-- MIT: [MIT Places](http://places.csail.mit.edu/), [MIT Moments](http://moments.csail.mit.edu/)...
-- UCI: https://archive.ics.uci.edu/ml/datasets.html
-- KIT Motion-Language: https://motion-annotation.humanoids.kit.edu/dataset
 
 ## NN/DNN Benchmarks
 Overview: http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html
