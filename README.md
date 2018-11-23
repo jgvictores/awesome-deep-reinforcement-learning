@@ -5,7 +5,8 @@ Curated list for Deep Reinforcement Learning (DRL): software frameworks, models,
 To accomplish this, includes general Machine Learning (ML), Neural Networks (NN) and Deep Neural Networks (DNN) with many vision examples, and Reinforcement Learning (RL) with videogames/robotics examples. Some alternative Evolutionary Algorithms (EA) with similar objectives included too.
 
 - [General Machine Learning (ML)](#general-machine-learning-ml)
-   - [General ML Books / Papers](#general-ml-software-frameworks)
+   - [General ML Software Frameworks](#general-ml-software-frameworks)
+   - [General ML Books](#general-ml-books)
 - [Neural Networks (NN) and Deep Neural Networks (DNN)](#neural-networks-nn-and-deep-neural-networks-dnn)
    - [NN/DNN Software Frameworks](#nndnn-software-frameworks)
    - [NN/DNN Models](#nndnn-models)
@@ -30,9 +31,8 @@ To accomplish this, includes general Machine Learning (ML), Neural Networks (NN)
 - [scikit-learn](http://scikit-learn.org) (API: Python)
 - [scikit-image](http://scikit-image.org) (API: Python)
 
-## General ML Books / Papers
-- Jake VanderPlas, "Python Data Science Handbook", 2017. ([Safari](http://proquest.safaribooksonline.com/book/programming/python/9781491912126)) (API: Python)
-- https://github.com/terryum/awesome-deep-learning-papers#new-papers
+## General ML Books
+- Jake VanderPlas, "Python Data Science Handbook", 2017. ([safari](http://proquest.safaribooksonline.com/book/programming/python/9781491912126)) (API: Python)
 
 # Neural Networks (NN) and Deep Neural Networks (DNN) 
 
@@ -40,7 +40,7 @@ To accomplish this, includes general Machine Learning (ML), Neural Networks (NN)
 Here's a good overview [presentation](https://project.inria.fr/deeplearning/files/2016/05/DLFrameworks.pdf) ([permalink](https://github.com/jgvictores/awesome-deep-reinforcement-learning/blob/143a885cc10b4331b9b3fa3e1a9436d5325676af/doc/inria2017DLFrameworks.pdf)). There are several Docker images with several pre-installed software frameworks: [1](https://github.com/ufoym/deepo), [2](https://github.com/floydhub/dl-docker). Attempling to order software frameworks by current popularity:
 - [Keras](https://keras.io) (layer over: TensorFlow, theano...) (API: Python) (support: Google). [wikipedia](https://en.wikipedia.org/wiki/Keras)
    - Examples/tutorials: [keras](https://github.com/keras-team/keras/blob/master/examples), [1](https://www.datacamp.com/community/tutorials/deep-learning-python), [2](https://elitedatascience.com/keras-tutorial-deep-learning-in-python)
-   - Antonio Gulli and Sujit Pal, "Deep Learning with Keras", 2017. ([Safari](https://proquest.safaribooksonline.com/book/programming/machine-learning/9781787128422))
+   - Antonio Gulli and Sujit Pal, "Deep Learning with Keras", 2017. ([safari](https://proquest.safaribooksonline.com/book/programming/machine-learning/9781787128422))
 - [PyTorch](https://pytorch.org/) (API: Python) (support: Facebook AI Research).
    - Used internally by http://www.fast.ai/
 - [Torch](http://torch.ch/) (API: Lua) (support: Facebook AI Research).
@@ -249,3 +249,4 @@ Only accounting those with same objective as RL.
 # Similar pages
 - https://github.com/tigerneil/awesome-deep-rl
 - https://github.com/williamd4112/awesome-deep-reinforcement-learning
+- https://github.com/terryum/awesome-deep-learning-papers#new-papers
