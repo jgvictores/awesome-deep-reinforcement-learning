@@ -47,8 +47,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - [Torch](http://torch.ch/) (API: Lua) (support: Facebook AI Research).
    - Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models: [1](https://github.com/karpathy/char-rnn)
 - [TensorFlow](https://www.tensorflow.org) (low-level) (API: Python most stable, JavaScript, C++, Java...) (support: Google).
-   - Tutorial: [style transfer](http://www.subsubroutine.com/sub-subroutine/2016/11/12/painting-like-van-gogh-with-convolutional-neural-networks)
-   - Another NN wrapper: Tensorpack ([GitHub](https://github.com/ppwwyyxx/tensorpack))
+   - Tutorial: [1](https://medium.com/@tifa2up/image-classification-using-deep-neural-networks-a-beginner-friendly-approach-using-tensorflow-94b0a090ccd4), [style transfer](http://www.subsubroutine.com/sub-subroutine/2016/11/12/painting-like-van-gogh-with-convolutional-neural-networks)
 - [Caffe](http://caffe.berkeleyvision.org/) (API: Python, Matlab) (support: Berkeley)
 - [Chainer](http://www.chainer.org) ([GitHub](https://github.com/chainer/chainer)) (API: Python) (support: Preferred Networks)
    - Define-by-Run rather than Define-and-Run.
@@ -59,6 +58,8 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - [Darknet](https://pjreddie.com/darknet) (API: C)
 - [DL4J](https://deeplearning4j.org/) (API: Java)
 - [OpenCV](https://www.opencv.org) now has some DNN: https://docs.opencv.org/3.3.0/d2/d58/tutorial_table_of_content_dnn.html
+- Tensorpack ([GitHub](https://github.com/ppwwyyxx/tensorpack)) (a tensorflow wrapper)
+- Ignite ([GitHub](https://github.com/pytorch/ignite)) (a pytorch wrapper)
 - [OpenNN](http://www.opennn.net) (API: C++)
 - [PyBrain](http://www.pybrain.org) (API: Python)
 - theano (very used, but down here because [MILA stopped developing](https://groups.google.com/forum/#!msg/theano-users/7Poq8BZutbY/rNCIfvAEAwAJ))
