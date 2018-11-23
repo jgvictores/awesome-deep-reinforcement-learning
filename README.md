@@ -114,6 +114,8 @@ Can be trained via Back Propagation Through Time (BPTT). Cells include: SimpleRN
 
 ## NN/DNN Datasets
 Overview: [wikipedia](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research)
+
+### Images
 - [MNIST](http://yann.lecun.com/exdb/mnist/): Handwritten digits, set of 70000 examples, is a subset of a larger set available from NIST.
 - [ImageNet](http://www.image-net.org/): Project organized according to the WordNet hierarchy (22000 categories). Includes SIFT features, bounding boxes, attributes. Currently over 14 million images, 21841 cognitive synonyms (synsets) indexed, goal of +1000 images per synset.
    - ImageNet Large Visual Recognition Challenge (ILSVRC): Goal of 1000 categories using +100000 test images. E.g. LS-LOC
@@ -125,6 +127,8 @@ Overview: [wikipedia](https://en.wikipedia.org/wiki/List_of_datasets_for_machine
 - Many at Kaggle: https://www.kaggle.com/datasets
 - Robotics: [iCubWorld](https://robotology.github.io/iCubWorld/#datasets); where iCWT: 200 domestic objects in 20 categories (11 categories also in ILSVRC, rest in ImageNet).
 - [HICO](http://www-personal.umich.edu/~ywchao/hico/) (Humans Interacting with Common Objects)
+
+### Text
 - [text8](http://mattmahoney.net/dc/textdata.html): [text8.zip](http://mattmahoney.net/dc/text8.zip). more at [word2vec](https://code.google.com/archive/p/word2vec/).
 
 ## NN/DNN Benchmarks
