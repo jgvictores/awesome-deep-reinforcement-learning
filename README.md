@@ -90,15 +90,15 @@ Overviews: [1](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need
 - DCGAN (2015). Alec Radford, Luke Metz, Soumith Chintala; Indico Research, Facebook AI Research; "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks"; [arxiv](https://arxiv.org/abs/1511.06434).
 - GAN (2014). Ian J. Goodfellow et Al; Université de Montréal; "Generative Adversarial Nets"; [arxiv](https://arxiv.org/abs/1406.2661).
 
+### Style Transfer Models
+- https://github.com/ckmarkoh/neuralart_tensorflow
+- https://github.com/luanfujun/deep-photo-styletransfer
+
 ### Recurrent Models
 Can be trained via Back Propagation Through Time (BPTT). Cells include: SimpleRNN (commonly has TanH activation as second derivative decays slowly to 0), Gated Recurrent Units (GRU), Long short-term memory (LSTM), ConvLSTM2D, LSTM with peephole connection; [keras](https://keras.io/layers/recurrent/).
 - Recurrent Neural Networks (RNN).
 - Bidirectional RNN.
 - Stateful RNN.
-
-### Style Transfer Models
-- https://github.com/ckmarkoh/neuralart_tensorflow
-- https://github.com/luanfujun/deep-photo-styletransfer
 
 ### Word Embedding Models
 - GloVe (2014). Jeffrey Pennington et Al; Stanford; "GloVe: Global Vectors for Word Representation".
