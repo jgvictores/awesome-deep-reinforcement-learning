@@ -183,6 +183,7 @@ Overview: http://rodrigob.github.io/are_we_there_yet/build/classification_datase
 - Keras: [keras](https://keras.io/visualization/), [1](https://machinelearningmastery.com/visualize-deep-learning-neural-network-model-keras/)
 - Tensorflow: [tensorflow online demo](http://playground.tensorflow.org)
 - Caffe: [Netscope](http://ethereon.github.io/netscope) / [cnnvisualizer](https://github.com/metalbubble/cnnvisualizer)
+- SHAP (SHapley Additive exPlanations): https://github.com/slundberg/shap
 
 # Reinforcement Learning (RL) and Deep Reinforcement Learning (DRL)
 
