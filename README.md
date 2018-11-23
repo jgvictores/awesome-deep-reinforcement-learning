@@ -5,7 +5,7 @@ Curated list for Deep Reinforcement Learning (DRL): software frameworks, models,
 To accomplish this, includes general Machine Learning (ML), Neural Networks (NN) and Deep Neural Networks (DNN) with many vision examples, and Reinforcement Learning (RL) with videogames/robotics examples. Some alternative Evolutionary Algorithms (EA) with similar objectives included too.
 
 - [General Machine Learning (ML)](#general-machine-learning-ml)
-   - [General ML Books / Papers](#general-ml-frameworks)
+   - [General ML Books / Papers](#general-ml-software-frameworks)
 - [Neural Networks (NN) and Deep Neural Networks (DNN)](#neural-networks-nn-and-deep-neural-networks-dnn)
    - [NN/DNN Software Frameworks](#nndnn-software-frameworks)
    - [NN/DNN Models](#nndnn-models)
@@ -26,7 +26,7 @@ To accomplish this, includes general Machine Learning (ML), Neural Networks (NN)
 
 # General Machine Learning (ML)
 
-## General ML Frameworks
+## General ML Software Frameworks
 - [scikit-learn](http://scikit-learn.org) (API: Python)
 - [scikit-image](http://scikit-image.org) (API: Python)
 
