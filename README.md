@@ -107,7 +107,7 @@ Can be trained via Back Propagation Through Time (BPTT). Cells include: SimpleRN
 ### More Models
 - Regression Networks (essentialy same, remove last activation and use some loss such as MSE rather than categorical cross-entropy).
 - Autoencoders (AE), Variational Autoencoders (VAE), Denoising Autoencoders.
-- Memory Networks. Use "Memory Cells".
+- Memory Networks. Use "Memory Units".
 - Capsule Networks. Use "Capsules". [wikipedia](https://en.wikipedia.org/wiki/Capsule_neural_network)
 - Echo-state networks.
 - Restricted Boltzmann Machine (RBM).
