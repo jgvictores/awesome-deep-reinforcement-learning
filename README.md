@@ -131,6 +131,7 @@ Overview: [wikipedia](https://en.wikipedia.org/wiki/List_of_datasets_for_machine
 ### Text
 - [text8](http://mattmahoney.net/dc/textdata.html): [text8.zip](http://mattmahoney.net/dc/text8.zip). more at [word2vec](https://code.google.com/archive/p/word2vec/).
 - Sentiment Classification: [UMICH SI650](https://www.kaggle.com/c/si650winter11)
+- Treebanks (text with part-of-speech (POS) tags): [wikipedia](https://en.wikipedia.org/wiki/Treebank), [Penn Treebank](https://web.archive.org/web/19970614160127/http://www.cis.upenn.edu/~treebank/)
 
 ## NN/DNN Benchmarks
 Overview: http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html
