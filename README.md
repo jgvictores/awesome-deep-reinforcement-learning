@@ -41,6 +41,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - [Keras](https://keras.io) (layer over: TensorFlow, theano...) (API: Python) (support: Google). [wikipedia](https://en.wikipedia.org/wiki/Keras)
    - Examples/tutorials: [keras](https://github.com/keras-team/keras/blob/master/examples), [1](https://www.datacamp.com/community/tutorials/deep-learning-python), [2](https://elitedatascience.com/keras-tutorial-deep-learning-in-python)
    - Book: Antonio Gulli and Sujit Pal, "Deep Learning with Keras", 2017. [safari](https://proquest.safaribooksonline.com/book/programming/machine-learning/9781787128422)
+   - Book: Mike Bernico, "Deep Learning Quick Reference", 2018. [safari](https://proquest.safaribooksonline.com/book/programming/machine-learning/9781788837996)
 - [PyTorch](https://pytorch.org/) (API: Python) (support: Facebook AI Research).
    - Used internally by http://www.fast.ai/
 - [Torch](http://torch.ch/) (API: Lua) (support: Facebook AI Research).
