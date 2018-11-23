@@ -114,7 +114,7 @@ Can be trained via Back Propagation Through Time (BPTT). Cells include: SimpleRN
 
 ## NN/DNN Datasets
 Lists of lists before citing the classics:
-- wikipedia: https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research
+- Wikipedia: https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research
 - Google: https://ai.google/tools/datasets
 - Kaggle: https://www.kaggle.com/datasets
 - MIT: [MIT Places](http://places.csail.mit.edu/), [MIT Moments](http://moments.csail.mit.edu/)...
