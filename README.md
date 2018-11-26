@@ -136,7 +136,6 @@ Lists of lists before citing the classics:
 - [CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html): 60000 32x32 colour images (selected from MIT TinyImages) in 100 classes containing 600 images per class, grouped into 20 superclasses
 - [SVHN](http://ufldl.stanford.edu/housenumbers/) (Street View House Numbers)
 - [HICO](http://www-personal.umich.edu/~ywchao/hico/) (Humans Interacting with Common Objects)
-- [PCam](https://github.com/basveeling/pcam) (PatchCamelyon)
 - KIT Motion-Language: https://motion-annotation.humanoids.kit.edu/dataset
 - Robotics: [iCubWorld](https://robotology.github.io/iCubWorld/#datasets); where iCWT: 200 domestic objects in 20 categories (11 categories also in ILSVRC, rest in ImageNet).
 
