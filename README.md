@@ -19,7 +19,7 @@ To accomplish this, includes general Machine Learning (ML), Neural Networks (NN)
    - [RL/DRL Software Frameworks](#rldrl-software-frameworks)
    - [RL/DRL Books](#rldrl-books)
    - [RL/DRL Gyms](#rldrl-gyms)
-   - [RL/DRL Baselines](#rldrl-baselines)
+   - [RL/DRL Baselines and Benchmarks](#rldrl-baselines-and-benchmarks)
    - [RL/DRL Techniques Misc](#rldrl-techniques-misc)
 - [Evolutionary Algorithms (EA)](#evolutionary-algorithms-ea)
 - [Misc tools](#misc-tools)
@@ -148,6 +148,7 @@ Lists of lists before citing the classics:
 ## NN/DNN Benchmarks
 - https://benchmarks.ai
 - http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html
+- https://martin-thoma.com/sota/#computer-vision
 
 ## NN/DNN Pretrained Models
 - Several pre-trained models: [keras web](https://keras.io/applications), [keras 1](https://github.com/keras-team/keras/tree/master/keras/applications), [keras 2](https://github.com/keras-team/keras-applications), [pytorch](https://pytorch.org/docs/stable/torchvision/models.html), [caffe](https://github.com/BVLC/caffe/wiki/Model-Zoo)
@@ -231,8 +232,9 @@ Attempling to order by current popularity:
 - https://github.com/twitter/torch-twrl
 - https://github.com/thedimlebowski/Trading-Gym
 
-## RL/DRL Baselines
+## RL/DRL Baselines and Benchmarks
 - https://github.com/openai/baselines
+- https://martin-thoma.com/sota/#reinforcment-learning
 
 ## RL/DRL Techniques Misc
 - Batch: REINFORCE, Deep Q-Network (DQN),  Expected-SARSA, True Online Temporal-Difference (TD), Double DQN, Truncated Natural Policy Gradient (TNPG), Trust Region Policy Optimization (TRPO), Reward-Weighted Regression, Relative Entropy Policy Search (REPS), Cross Entropy Method (CEM), Advantage-Actor-Critic (A2C), Asynchronous Advantage Actor-Critic (A3C), Actor-critic with Experience Replay (ACER), Actor Critic using Kronecker-Factored Trust Region (ACKTR), Generative Adversarial Imitation Learning (GAIL), Hindsight Experience Replay (HER), Proximal Policy Optimization (PPO, PPO1, PPO2), Ape-X Distributed Prioritized Experience Replay, Continuous DQN (CDQN or NAF), Dueling network DQN (Dueling DQN), Deep SARSA, Multi-Agent Deep Deterministic Policy Gradient (MADDPG).
