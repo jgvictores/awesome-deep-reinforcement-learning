@@ -186,6 +186,7 @@ Lists of lists before citing the classics:
 ## NN/DNN Visualization
 - Keras: [keras](https://keras.io/visualization/), [1](https://machinelearningmastery.com/visualize-deep-learning-neural-network-model-keras/), [2](https://github.com/keplr-io/quiver), [3](https://raghakot.github.io/keras-vis/), [4](https://www.kaggle.com/amarjeet007/visualize-cnn-with-keras)
 - Tensorflow: [tensorflow online demo](http://playground.tensorflow.org)
+- Pytorch: [1](https://github.com/CSAILVision/gandissect)
 - Caffe: [Netscope](http://ethereon.github.io/netscope) / [cnnvisualizer](https://github.com/metalbubble/cnnvisualizer)
 - SHAP (SHapley Additive exPlanations): https://github.com/slundberg/shap
 
