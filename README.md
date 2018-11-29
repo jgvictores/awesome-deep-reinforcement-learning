@@ -39,7 +39,7 @@ To accomplish this, includes general Machine Learning (ML), Neural Networks (NN)
 ## NN/DNN Software Frameworks
 Here's a good overview [presentation](https://project.inria.fr/deeplearning/files/2016/05/DLFrameworks.pdf) ([permalink](https://github.com/jgvictores/awesome-deep-reinforcement-learning/blob/143a885cc10b4331b9b3fa3e1a9436d5325676af/doc/inria2017DLFrameworks.pdf)). There are several Docker images with several pre-installed software frameworks: [1](https://github.com/ufoym/deepo), [2](https://github.com/floydhub/dl-docker). Attempling to order software frameworks by current popularity:
 - [Keras](https://keras.io) (layer over: TensorFlow, theano...) (API: Python) (support: Google). [wikipedia](https://en.wikipedia.org/wiki/Keras)
-   - Examples/tutorials: [keras](https://github.com/keras-team/keras/blob/master/examples), [1](https://www.datacamp.com/community/tutorials/deep-learning-python), [2](https://elitedatascience.com/keras-tutorial-deep-learning-in-python), [autoencoders](https://github.com/Puayny/Autoencoder-image-similarity)
+   - Examples/tutorials: [keras](https://github.com/keras-team/keras/blob/master/examples), [1](https://www.datacamp.com/community/tutorials/deep-learning-python), [2](https://elitedatascience.com/keras-tutorial-deep-learning-in-python)
    - Book: Antonio Gulli and Sujit Pal, "Deep Learning with Keras", 2017. [safari](https://proquest.safaribooksonline.com/book/programming/machine-learning/9781787128422)
    - Book: Mike Bernico, "Deep Learning Quick Reference", 2018. [safari](https://proquest.safaribooksonline.com/book/programming/machine-learning/9781788837996)
 - [PyTorch](https://pytorch.org/) (API: Python) (support: Facebook AI Research).
@@ -47,7 +47,7 @@ Here's a good overview [presentation](https://project.inria.fr/deeplearning/file
 - [Torch](http://torch.ch/) (API: Lua) (support: Facebook AI Research).
    - Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models: [1](https://github.com/karpathy/char-rnn)
 - [TensorFlow](https://www.tensorflow.org) (low-level) (API: Python most stable, JavaScript, C++, Java...) (support: Google).
-   - Tutorials: [1](https://medium.com/@tifa2up/image-classification-using-deep-neural-networks-a-beginner-friendly-approach-using-tensorflow-94b0a090ccd4), [transfer learning](https://github.com/mluogh/transfer-learning), [style transfer](http://www.subsubroutine.com/sub-subroutine/2016/11/12/painting-like-van-gogh-with-convolutional-neural-networks)
+   - Tutorials: [1](https://medium.com/@tifa2up/image-classification-using-deep-neural-networks-a-beginner-friendly-approach-using-tensorflow-94b0a090ccd4), [transfer learning](https://github.com/mluogh/transfer-learning)
 - [Caffe](http://caffe.berkeleyvision.org/) (API: Python, Matlab) (support: Berkeley)
 - [Chainer](http://www.chainer.org) ([GitHub](https://github.com/chainer/chainer)) (API: Python) (support: Preferred Networks)
    - Define-by-Run rather than Define-and-Run.
@@ -88,6 +88,7 @@ Overviews: [1](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need
 - Auto-Regressive Generative Models: PixelRNN, PixelCNN++... [ref](https://towardsdatascience.com/auto-regressive-generative-models-pixelrnn-pixelcnn-32d192911173)
 - Deep Dream. [caffe](https://github.com/google/deepdream)
 - Style Transfer
+   - Tutorial: [tensorflow](http://www.subsubroutine.com/sub-subroutine/2016/11/12/painting-like-van-gogh-with-convolutional-neural-networks)
    - Deep Photo Style Transfer (2017). Fujun Luan et Al, "Deep Photo Style Transfer"; [arxiv](https://arxiv.org/abs/1703.07511). [torch+matlab](https://github.com/luanfujun/deep-photo-styletransfer)
    - Neuralart (2015). Leon A. Gatys et Al; "A Neural Algorithm of Artistic Style"; [arxiv](https://arxiv.org/abs/1508.06576). [tensorflow](https://github.com/ckmarkoh/neuralart_tensorflow), [torch](https://github.com/jcjohnson/neural-style)
 - GANs:
@@ -110,6 +111,7 @@ Can be trained via Back Propagation Through Time (BPTT). Cells include: SimpleRN
 ### More Models
 - Regression Networks (essentialy same, remove last activation and use some loss such as MSE rather than categorical cross-entropy).
 - Autoencoders (AE), Variational Autoencoders (VAE), Denoising Autoencoders.
+   - Tutorials: [keras](https://blog.keras.io/building-autoencoders-in-keras.html), [keras](https://github.com/Puayny/Autoencoder-image-similarity)
    - Yunchen Pu et Al; "Variational Autoencoder for Deep Learning of Images, Labels and Captions"; [arxiv](https://arxiv.org/abs/1609.08976).
 - Memory Networks. Use "Memory Units".
 - Capsule Networks. Use "Capsules". [wikipedia](https://en.wikipedia.org/wiki/Capsule_neural_network)
