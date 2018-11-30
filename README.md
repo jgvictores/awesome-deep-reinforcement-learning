@@ -193,6 +193,7 @@ Lists of lists before citing the classics:
 - Pytorch: [1](https://github.com/CSAILVision/gandissect)
 - Caffe: [Netscope](http://ethereon.github.io/netscope) / [cnnvisualizer](https://github.com/metalbubble/cnnvisualizer)
 - SHAP (SHapley Additive exPlanations): https://github.com/slundberg/shap
+- [tensorboardX](https://github.com/lanpa/tensorboardX): tensorboard for pytorch, chainer, mxnet, numpy...
 
 # Reinforcement Learning (RL) and Deep Reinforcement Learning (DRL)
 
