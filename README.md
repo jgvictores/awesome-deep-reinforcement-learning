@@ -84,7 +84,6 @@ Overviews: [1](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need
 - LeNet-5 (1998). Yann LeCun et Al; ATT now at Facebook AI Research; "Gradient-based learning applied to document recognition"; [doi](https://doi.org/10.1109/5.726791). In 32x32 grayscale; 7 layer (conv, pool, full...). 60 thousand parameters.
 
 ### Generative Models
-- [WaveNet](https://deepmind.com/blog/wavenet-generative-model-raw-audio) (2016). Aäron van den Oord et Al; DeepMind; "WaveNet: A Generative Model for Raw Audio"; [arxiv](https://arxiv.org/pdf/1609.03499.pdf). [wikipedia](https://en.wikipedia.org/wiki/WaveNet).
 - Auto-Regressive Generative Models: PixelRNN, PixelCNN++... [ref](https://towardsdatascience.com/auto-regressive-generative-models-pixelrnn-pixelcnn-32d192911173)
 - Deep Dream. [caffe](https://github.com/google/deepdream)
 - Style Transfer
@@ -97,6 +96,9 @@ Overviews: [1](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need
    - [CycleGAN](https://junyanz.github.io/CycleGAN/) (2017). Jun-Yan Zhu et Al; Berkeley; "Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks". [torch](https://github.com/junyanz/CycleGAN) and migrated to [pytorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix).
    - DCGAN (2015). Alec Radford, Luke Metz, Soumith Chintala; Indico Research, Facebook AI Research; "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks"; [arxiv](https://arxiv.org/abs/1511.06434).
    - GAN (2014). Ian J. Goodfellow et Al; Université de Montréal; "Generative Adversarial Nets"; [arxiv](https://arxiv.org/abs/1406.2661).
+- Audio synthesis
+   - [FTTNet](https://gfx.cs.princeton.edu/pubs/Jin_2018_FAR/) (2018). Zeyu Jin et Al; "FFTNet: a Real-Time Speaker-Dependent Neural Vocoder". [pytorch](https://github.com/mozilla/FFTNet)
+   - [WaveNet](https://deepmind.com/blog/wavenet-generative-model-raw-audio) (2016). Aäron van den Oord et Al; DeepMind; "WaveNet: A Generative Model for Raw Audio"; [arxiv](https://arxiv.org/pdf/1609.03499.pdf). [wikipedia](https://en.wikipedia.org/wiki/WaveNet).
 
 ### Recurrent Models
 Can be trained via Back Propagation Through Time (BPTT). Cells include: SimpleRNN (commonly has TanH activation as second derivative decays slowly to 0), Gated Recurrent Units (GRU), Long short-term memory (LSTM), ConvLSTM2D, LSTM with peephole connection; [keras](https://keras.io/layers/recurrent/).
