@@ -111,7 +111,7 @@ Can be trained via Back Propagation Through Time (BPTT). Cells include: SimpleRN
 - [word2vec](https://code.google.com/archive/p/word2vec/).
 
 ### More Models
-- Regression Networks (essentialy same, remove last activation and use some loss such as MSE rather than categorical cross-entropy).
+- Regression Networks (essentialy same, remove last activation and use some loss such as MSE rather than binary/categorical cross-entropy).
 - Autoencoders (AE), Variational Autoencoders (VAE), Denoising Autoencoders.
    - Tutorials: [keras](https://blog.keras.io/building-autoencoders-in-keras.html), [keras](https://github.com/Puayny/Autoencoder-image-similarity)
    - Yunchen Pu et Al; "Variational Autoencoder for Deep Learning of Images, Labels and Captions"; [arxiv](https://arxiv.org/abs/1609.08976).
