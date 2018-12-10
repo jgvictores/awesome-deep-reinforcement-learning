@@ -90,6 +90,7 @@ Overviews: [1](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need
 ### Graph/Manifold/Network Convolutional Models
 - [Geometric deep learning](http://geometricdeeplearning.com)
 - https://github.com/chihming/awesome-network-embedding
+- [DLG](http://dgl.ai/): [github](https://github.com/dmlc/dgl)
 
 ### Generative Models
 - Auto-Regressive Generative Models: PixelRNN, PixelCNN++... [ref](https://towardsdatascience.com/auto-regressive-generative-models-pixelrnn-pixelcnn-32d192911173)
