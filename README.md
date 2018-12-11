@@ -93,6 +93,7 @@ Overviews: [1](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need
 - [DLG](http://dgl.ai/): [github](https://github.com/dmlc/dgl)
 
 ### Generative Models
+Tutorial: [pytorch](https://github.com/leongatys/GenerativeImageModellingWithDNNs)
 - Auto-Regressive Generative Models: PixelRNN, PixelCNN++... [ref](https://towardsdatascience.com/auto-regressive-generative-models-pixelrnn-pixelcnn-32d192911173)
 - Deep Dream. [caffe](https://github.com/google/deepdream)
 - Style Transfer
