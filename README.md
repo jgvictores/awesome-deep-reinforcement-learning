@@ -98,7 +98,7 @@ Overviews: [1](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need
 - Style Transfer
    - Tutorial: [tensorflow](http://www.subsubroutine.com/sub-subroutine/2016/11/12/painting-like-van-gogh-with-convolutional-neural-networks)
    - Deep Photo Style Transfer (2017). Fujun Luan et Al, "Deep Photo Style Transfer"; [arxiv](https://arxiv.org/abs/1703.07511). [torch+matlab](https://github.com/luanfujun/deep-photo-styletransfer)
-   - Neuralart (2015). Leon A. Gatys et Al; "A Neural Algorithm of Artistic Style"; [arxiv](https://arxiv.org/abs/1508.06576). [tensorflow](https://github.com/ckmarkoh/neuralart_tensorflow), [torch](https://github.com/jcjohnson/neural-style)
+   - Neuralart (2015). Leon A. Gatys et Al; "A Neural Algorithm of Artistic Style"; [arxiv](https://arxiv.org/abs/1508.06576). [tensorflow](https://github.com/ckmarkoh/neuralart_tensorflow), [torch](https://github.com/jcjohnson/neural-style), [keras](https://github.com/keras-team/keras/blob/master/examples/neural_style_transfer.py), [keras](https://github.com/titu1994/Neural-Style-Transfer)
 - GANs:
    - BigGAN (2018); "Large Scale GAN Training for High Fidelity Natural Image Synthesis"; [arxiv](https://arxiv.org/abs/1809.11096). [pytorch](https://github.com/AaronLeong/BigGAN-pytorch)
    - Terro Karas et Al (2018); NVIDIA; "Progressive Growing of GANs for Improved Quality, Stability, and Variation"; [arxiv](https://arxiv.org/abs/1710.10196). [tensorflow](https://github.com/tkarras/progressive_growing_of_gans)
