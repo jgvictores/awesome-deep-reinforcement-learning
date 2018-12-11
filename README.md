@@ -38,7 +38,7 @@ To accomplish this, includes general Machine Learning (ML), Neural Networks (NN)
 
 ## NN/DNN Software Frameworks
 - Overview: [presentation](https://project.inria.fr/deeplearning/files/2016/05/DLFrameworks.pdf) ([permalink](https://github.com/jgvictores/awesome-deep-reinforcement-learning/blob/143a885cc10b4331b9b3fa3e1a9436d5325676af/doc/inria2017DLFrameworks.pdf)).
-- Docker images with several pre-installed software frameworks: [1](https://github.com/ufoym/deepo), [2](https://github.com/floydhub/dl-docker).
+- Docker images with several pre-installed software frameworks: [1](https://github.com/ufoym/deepo), [2](https://github.com/floydhub/dl-docker), [3](https://github.com/bethgelab/docker-deeplearning).
 - Projects to port trained models from one software framework to another: [1](https://github.com/ysh329/deep-learning-model-convertor)
 
 Attempling to order software frameworks by current popularity:
