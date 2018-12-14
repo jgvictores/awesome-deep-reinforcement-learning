@@ -91,6 +91,7 @@ Overviews: [1](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need
 - [Geometric deep learning](http://geometricdeeplearning.com)
 - https://github.com/chihming/awesome-network-embedding
 - [DLG](http://dgl.ai/): [github](https://github.com/dmlc/dgl)
+- "Signed Graph Convolutional Network" (ICDM 2018); [pytorch](https://github.com/benedekrozemberczki/SGCN)
 
 ### Generative Models
 Tutorial: [pytorch](https://github.com/leongatys/GenerativeImageModellingWithDNNs)
