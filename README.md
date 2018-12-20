@@ -97,11 +97,11 @@ Overviews: [1](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need
 Tutorial: [pytorch](https://github.com/leongatys/GenerativeImageModellingWithDNNs)
 - Auto-Regressive Generative Models: PixelRNN, PixelCNN++... [ref](https://towardsdatascience.com/auto-regressive-generative-models-pixelrnn-pixelcnn-32d192911173)
 - Deep Dream. [caffe](https://github.com/google/deepdream)
-- Style Transfer
+- Style Transfer:
    - Tutorial: [tensorflow](http://www.subsubroutine.com/sub-subroutine/2016/11/12/painting-like-van-gogh-with-convolutional-neural-networks)
    - Fujun Luan et Al (2018), "Deep Painterly Harmonization"; [arxiv](https://arxiv.org/abs/1804.03189). [torch+matlab](https://github.com/luanfujun/deep-painterly-harmonization)
    - Deep Photo Style Transfer (2017). Fujun Luan et Al, "Deep Photo Style Transfer"; [arxiv](https://arxiv.org/abs/1703.07511). [torch+matlab](https://github.com/luanfujun/deep-photo-styletransfer)
-   - Neuralart (2015). Leon A. Gatys et Al; "A Neural Algorithm of Artistic Style"; [arxiv](https://arxiv.org/abs/1508.06576). [tensorflow](https://github.com/ckmarkoh/neuralart_tensorflow), [torch](https://github.com/jcjohnson/neural-style), keras [1](https://github.com/keras-team/keras/blob/master/examples/neural_style_transfer.py) [2](https://github.com/titu1994/Neural-Style-Transfer) [3](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-fun-with-deep-learning.md) [4](https://medium.com/mlreview/making-ai-art-with-style-transfer-using-keras-8bb5fa44b216)
+   - Neuralart (2015). Leon A. Gatys et Al; "A Neural Algorithm of Artistic Style"; [arxiv](https://arxiv.org/abs/1508.06576). Uses base+style+target as inputs and optimizes for target via BFGS. [tensorflow](https://github.com/ckmarkoh/neuralart_tensorflow), [torch](https://github.com/jcjohnson/neural-style), keras [1](https://github.com/keras-team/keras/blob/master/examples/neural_style_transfer.py) [2](https://github.com/titu1994/Neural-Style-Transfer) [3](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-fun-with-deep-learning.md) [4](https://medium.com/mlreview/making-ai-art-with-style-transfer-using-keras-8bb5fa44b216)
 - GANs:
    - BigGAN (2018); "Large Scale GAN Training for High Fidelity Natural Image Synthesis"; [arxiv](https://arxiv.org/abs/1809.11096). [pytorch](https://github.com/AaronLeong/BigGAN-pytorch)
    - Terro Karas et Al (2018); NVIDIA; "Progressive Growing of GANs for Improved Quality, Stability, and Variation"; [arxiv](https://arxiv.org/abs/1710.10196). [tensorflow](https://github.com/tkarras/progressive_growing_of_gans)
@@ -191,6 +191,7 @@ Lists of lists before citing the classics:
    - Gradient descent optimization algorithms: Momentum, Nesterov accelerated gradient, Adagrad, Adadelta, RMSprop, Adam, AdaMax, Nadam, AMSGrad, Eve.
    - Parallelizing and distributing SGD: Hogwild!, Downpour SGD, Delay-tolerant Algorithms for SGD, TensorFlow, Elastic Averaging SGD.
    - Additional strategies for optimizing SGD: Shuffling and Curriculum Learning, Batch normalization, Early Stopping, Gradient noise.
+   - Broyden-Fletcher-Goldfarb-Shanno (BFGS)
 - Error/loss functions: [keras](https://keras.io/losses)
    - Accuracy used for classification problems: binary accuracy (mean accuracy rate across all predictions for binary classification problems), categorical accuracy (mean accuracy rate across all predictions for multiclass classification problems), sparse categorical accuracy (useful for sparse targets), top k categorical accuracy (success when the target class is within the top k predictions provided).
    - Error loss (measures the difference between the values predicted and the values actually observed, can be used for regression): mean square error (MSE), root square error (RMSE), mean absolute error (MAE), mean absolute percentage error (MAPE), mean squared logarithmic error (MSLE).
