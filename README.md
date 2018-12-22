@@ -167,6 +167,7 @@ Lists of lists before citing the classics:
 - http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html
 - https://martin-thoma.com/sota/#computer-vision
 - https://robust.vision/benchmark
+- https://github.com/brain-research/realistic-ssl-evaluation
 
 ## NN/DNN Pretrained Models
 - Several pre-trained models: [keras web](https://keras.io/applications), [keras 1](https://github.com/keras-team/keras/tree/master/keras/applications), [keras 2](https://github.com/keras-team/keras-applications), [pytorch](https://pytorch.org/docs/stable/torchvision/models.html), [caffe](https://github.com/BVLC/caffe/wiki/Model-Zoo)
