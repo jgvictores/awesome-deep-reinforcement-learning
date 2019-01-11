@@ -88,6 +88,7 @@ Overviews: [1](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need
 - LeNet-5 (1998). Yann LeCun et Al; ATT now at Facebook AI Research; "Gradient-based learning applied to document recognition"; [doi](https://doi.org/10.1109/5.726791). In 32x32 grayscale; 7 layer (conv, pool, full...). 60 thousand parameters.
 
 ### Graph/Manifold/Network Convolutional Models
+- https://github.com/thunlp/GNNPapers
 - [Geometric deep learning](http://geometricdeeplearning.com)
 - https://github.com/chihming/awesome-network-embedding
 - [DLG](http://dgl.ai/): [github](https://github.com/dmlc/dgl)
