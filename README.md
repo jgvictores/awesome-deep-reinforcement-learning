@@ -60,6 +60,7 @@ Attempling to order software frameworks by current popularity:
 - [MXNet](https://mxnet.apache.org/) (API: Python, C++, Clojure, Julia, Perl, R, Scala) (support: Apache)
    - Tutorial: [1](https://github.com/llSourcell/MXNet)
 - [Darknet](https://pjreddie.com/darknet) (API: C)
+- [ml5](https://ml5js.org/) (API: JavaScript) (a tensorflow.js wrapper)
 - [DL4J](https://deeplearning4j.org/) (API: Java)
 - [OpenCV](https://www.opencv.org) now has some DNN: https://docs.opencv.org/3.3.0/d2/d58/tutorial_table_of_content_dnn.html
 - Tensorpack ([GitHub](https://github.com/ppwwyyxx/tensorpack)) (a tensorflow wrapper)
