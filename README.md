@@ -157,6 +157,7 @@ Lists of lists before citing the classics:
 - [SVHN](http://ufldl.stanford.edu/housenumbers/) (Street View House Numbers)
 - [HICO](http://www-personal.umich.edu/~ywchao/hico/) (Humans Interacting with Common Objects)
 - KIT Motion-Language: https://motion-annotation.humanoids.kit.edu/dataset
+- Sketches: [Quick Draw](https://github.com/googlecreativelab/quickdraw-dataset)
 - Robotics: [iCubWorld](https://robotology.github.io/iCubWorld/#datasets); where iCWT: 200 domestic objects in 20 categories (11 categories also in ILSVRC, rest in ImageNet). Also [muratkrty/iCub-camera-dataset](https://github.com/muratkrty/iCub-camera-dataset).
 
 ### Text
