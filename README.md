@@ -139,6 +139,7 @@ Can be trained via Back Propagation Through Time (BPTT). Also see Connectionist 
 - Capsule Networks. Use "Capsules". [wikipedia](https://en.wikipedia.org/wiki/Capsule_neural_network)
 - Echo-state networks.
 - Restricted Boltzmann Machine (RBM).
+- AutoML.
 
 ## NN/DNN Datasets
 Lists of lists before citing the classics:
