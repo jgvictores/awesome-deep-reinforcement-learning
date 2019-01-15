@@ -71,7 +71,7 @@ Attempling to order software frameworks by current popularity:
    - Still many tutorials: https://github.com/lisa-lab/DeepLearningTutorials
 
 ## NN/DNN Models
-### Object Segmentation, Localization, Detection Models
+### Image Object Segmentation, Localization, Detection Models
 Overviews: [1](https://towardsdatascience.com/r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e), [2](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4). Taxonomy: [1](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture11.pdf).
 - Mask R-CNN (2017), Kaiming He et Al; Facebook AI Research (FAIR); "Mask R-CNN"; [arxiv](https://arxiv.org/abs/1703.06870). [keras](https://github.com/matterport/Mask_RCNN).
 - FCIS (2017). "Fully Convolutional Instance-aware Semantic Segmentation". [arxiv](https://arxiv.org/abs/1611.07709). Coded in caffe but released in [mxnet](https://github.com/msracver/FCIS), port: [chainer](https://github.com/knorth55/chainer-fcis).
