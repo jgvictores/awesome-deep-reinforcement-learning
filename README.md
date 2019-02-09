@@ -14,7 +14,7 @@ To accomplish this, includes general Machine Learning (ML), Neural Networks (NN)
    - [NN/DNN Benchmarks](#nndnn-benchmarks)
    - [NN/DNN Pretrained Models](#nndnn-pretrained-models)
    - [NN/DNN Techniques Misc](#nndnn-techniques-misc)
-   - [NN/DNN Visualization](#nndnn-visualization)
+   - [NN/DNN Visualization and Explanation](#nndnn-visualization-and-explanation)
 - [Reinforcement Learning (RL) and Deep Reinforcement Learning (DRL)](#reinforcement-learning-rl-and-deep-reinforcement-learning-drl)
    - [RL/DRL Software Frameworks](#rldrl-software-frameworks)
    - [RL/DRL Books](#rldrl-books)
@@ -213,13 +213,14 @@ Lists of lists before citing the classics:
 - Cross-validation: hold-out, stratified k-fold. [wikipedia](https://en.wikipedia.org/wiki/Cross-validation_(statistics)#Common_types_of_cross-validation).
 - Transfer learning. [tensorflow](https://github.com/mluogh/transfer-learning), [keras](https://www.learnopencv.com/keras-tutorial-fine-tuning-using-pre-trained-models/)
 
-## NN/DNN Visualization
+## NN/DNN Visualization and Explanation
 - Keras: [keras](https://keras.io/visualization/), [1](https://machinelearningmastery.com/visualize-deep-learning-neural-network-model-keras/), [2](https://github.com/keplr-io/quiver), [3](https://raghakot.github.io/keras-vis/), [4](https://www.kaggle.com/amarjeet007/visualize-cnn-with-keras)
 - Tensorflow: [tensorflow online demo](http://playground.tensorflow.org)
 - Pytorch: [loss-landscape](https://github.com/tomgoldstein/loss-landscape), [gandissect](https://github.com/CSAILVision/gandissect)
 - Caffe: [netscope](http://ethereon.github.io/netscope) / [cnnvisualizer](https://github.com/metalbubble/cnnvisualizer)
-- SHAP (SHapley Additive exPlanations): https://github.com/slundberg/shap
 - [tensorboardX](https://github.com/lanpa/tensorboardX): tensorboard for pytorch, chainer, mxnet, numpy...
+- SHAP (SHapley Additive exPlanations): https://github.com/slundberg/shap
+- XAI (An eXplainability toolbox for machine learning): https://github.com/EthicalML/xai
 
 # Reinforcement Learning (RL) and Deep Reinforcement Learning (DRL)
 
