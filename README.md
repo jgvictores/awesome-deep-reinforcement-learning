@@ -52,7 +52,6 @@ Attempling to order software frameworks by current popularity:
    - Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models: [1](https://github.com/karpathy/char-rnn)
 - [TensorFlow](https://www.tensorflow.org) (low-level) (API: Python most stable, JavaScript, C++, Java...) (support: Google).
    - Tutorials: [1](https://medium.com/@tifa2up/image-classification-using-deep-neural-networks-a-beginner-friendly-approach-using-tensorflow-94b0a090ccd4)
-- [Caffe](http://caffe.berkeleyvision.org/) (API: Python, Matlab) (support: Berkeley)
 - [Chainer](http://www.chainer.org) ([GitHub](https://github.com/chainer/chainer)) (API: Python) (support: Preferred Networks)
    - Define-by-Run rather than Define-and-Run.
    - In addition to chainerrl below, there is also a chainercv: [1](https://github.com/chainer/chainercv)
@@ -67,6 +66,7 @@ Attempling to order software frameworks by current popularity:
 - Ignite ([GitHub](https://github.com/pytorch/ignite)) (a pytorch wrapper)
 - [OpenNN](http://www.opennn.net) (API: C++)
 - [PyBrain](http://www.pybrain.org) (API: Python)
+- [Caffe](http://caffe.berkeleyvision.org/) (very used, but down here because [caffe2 merged into pytorch](https://caffe2.ai/blog/2018/05/02/Caffe2_PyTorch_1_0.html))
 - theano (very used, but down here because [MILA stopped developing](https://groups.google.com/forum/#!msg/theano-users/7Poq8BZutbY/rNCIfvAEAwAJ))
    - Still many tutorials: https://github.com/lisa-lab/DeepLearningTutorials
 
