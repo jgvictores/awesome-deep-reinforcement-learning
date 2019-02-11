@@ -239,6 +239,7 @@ Attempling to order by current popularity:
    - https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner
    - https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752 (originally in tensorflow)
 - ChainerRL ([GitHub](https://github.com/chainer/chainerrl)) (API: Python)
+- Surreal [GitHub](https://github.com/SurrealAI/surreal)  (API: Python) (support: Stanford Vision and Learning Lab).
 - TensorForce ([GitHub](https://github.com/reinforceio/tensorforce)) (uses tensorflow)
 - keras-rl ([GitHub](https://github.com/keras-rl/keras-rl)) (uses keras)
 - https://github.com/geek-ai/MAgent (uses tensorflow)
