@@ -163,6 +163,7 @@ Lists of lists before citing the classics:
 - [HICO](http://www-personal.umich.edu/~ywchao/hico/) (Humans Interacting with Common Objects)
 - KIT Motion-Language: https://motion-annotation.humanoids.kit.edu/dataset
 - Sketches: [Quick Draw](https://github.com/googlecreativelab/quickdraw-dataset)
+- Driving: https://robotcar-dataset.robots.ox.ac.uk/datasets/
 - Robotics: [iCubWorld](https://robotology.github.io/iCubWorld/#datasets); where iCWT: 200 domestic objects in 20 categories (11 categories also in ILSVRC, rest in ImageNet). Also [muratkrty/iCub-camera-dataset](https://github.com/muratkrty/iCub-camera-dataset).
 
 ### Text
