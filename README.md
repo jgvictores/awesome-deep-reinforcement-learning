@@ -64,7 +64,7 @@ Attempling to order software frameworks by current popularity:
 - [OpenCV](https://www.opencv.org) now has some DNN: https://docs.opencv.org/3.3.0/d2/d58/tutorial_table_of_content_dnn.html
 - Tensorpack ([GitHub](https://github.com/ppwwyyxx/tensorpack)) (a tensorflow wrapper)
 - Ignite ([GitHub](https://github.com/pytorch/ignite)) (a pytorch wrapper)
-- TransmogrifAI [GitHub](https://github.com/salesforce/TransmogrifAI) (API: Scala)
+- TransmogrifAI ([GitHub](https://github.com/salesforce/TransmogrifAI)) (API: Scala)
 - [OpenNN](http://www.opennn.net) (API: C++)
 - [PyBrain](http://www.pybrain.org) (API: Python)
 - [Caffe](http://caffe.berkeleyvision.org/) (very used, but down here because [caffe2 merged into pytorch](https://caffe2.ai/blog/2018/05/02/Caffe2_PyTorch_1_0.html))
