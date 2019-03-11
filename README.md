@@ -264,6 +264,7 @@ Attempling to order by current popularity:
    - https://github.com/benelot/pybullet-gym
    - https://github.com/erlerobot/gym-gazebo
    - https://github.com/openai/gym-soccer
+   - https://github.com/openai/retro
 - https://github.com/mwydmuch/ViZDoom
 - PySC2 ([GitHub](https://github.com/deepmind/pysc2)) (by DeepMind) (API: Python) (Blizzard StarCraft II Learning Environment (SC2LE) component)
 - https://github.com/Microsoft/malmo
