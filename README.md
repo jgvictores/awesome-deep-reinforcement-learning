@@ -263,6 +263,7 @@ Attempling to order by current popularity:
    - https://github.com/ppaquette/gym-doom
    - https://github.com/benelot/pybullet-gym
    - https://github.com/erlerobot/gym-gazebo
+   - https://github.com/robotology/gym-ignition
    - https://github.com/openai/gym-soccer
    - https://github.com/openai/retro
 - https://github.com/mwydmuch/ViZDoom
