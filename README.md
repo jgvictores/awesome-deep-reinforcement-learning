@@ -61,6 +61,7 @@ Attempling to order software frameworks by current popularity:
 - [Darknet](https://pjreddie.com/darknet) (API: C)
 - [ml5](https://ml5js.org/) (API: JavaScript) (a tensorflow.js wrapper)
 - [DL4J](https://deeplearning4j.org/) (API: Java)
+- [CoreML](https://developer.apple.com/documentation/coreml) (API: Objective-C) (support: Apple)
 - [OpenCV](https://www.opencv.org) now has some DNN: https://docs.opencv.org/3.3.0/d2/d58/tutorial_table_of_content_dnn.html
 - Tensorpack ([GitHub](https://github.com/ppwwyyxx/tensorpack)) (a tensorflow wrapper)
 - Ignite ([GitHub](https://github.com/pytorch/ignite)) (a pytorch wrapper)
