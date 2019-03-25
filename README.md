@@ -255,20 +255,20 @@ Attempting to order by current popularity:
 ## RL/DRL Gyms
 Should be compatible with OpenAI Gym and also rllab (both mentioned [above](#rldrl-software-frameworks)).
 - [roboschool](https://blog.openai.com/roboschool/): similar to mujoco [robotics environments](https://gym.openai.com/envs/#robotics), re-implemented with MIT License.
-   - https://github.com/duckietown/gym-duckietown
-   - https://github.com/arex18/rocket-lander
-   - https://github.com/ppaquette/gym-doom
-   - https://github.com/benelot/pybullet-gym
-   - https://github.com/erlerobot/gym-gazebo
-   - https://github.com/robotology/gym-ignition
-   - https://github.com/Roboy/gym-roboy
-   - https://github.com/openai/gym-soccer
-   - https://github.com/openai/retro
+- https://github.com/openai/gym-soccer
+- https://github.com/erlerobot/gym-gazebo
+- https://github.com/robotology/gym-ignition
+- https://github.com/Roboy/gym-roboy
+- https://github.com/openai/retro
 - https://github.com/mwydmuch/ViZDoom
-- PySC2 ([GitHub](https://github.com/deepmind/pysc2)) (by DeepMind) (API: Python) (Blizzard StarCraft II Learning Environment (SC2LE) component)
+- https://github.com/deepmind/pysc2 (by DeepMind) (Blizzard StarCraft II Learning Environment (SC2LE) component)
+- https://github.com/benelot/pybullet-gym
 - https://github.com/Microsoft/malmo
 - https://github.com/nadavbh12/Retro-Learning-Environment
 - https://github.com/twitter/torch-twrl
+- https://github.com/duckietown/gym-duckietown
+- https://github.com/arex18/rocket-lander
+- https://github.com/ppaquette/gym-doom
 - https://github.com/thedimlebowski/Trading-Gym
 
 ## RL/DRL Baselines and Benchmarks
