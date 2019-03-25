@@ -253,7 +253,7 @@ Attempting to order by current popularity:
 - http://burlap.cs.brown.edu/ (API: Java)
 
 ## RL/DRL Gyms
-- [OpenAI Gym](https://gym.openai.com) ([GitHub](https://github.com/openai/gym)) ([docs](https://gym.openai.com/docs/))
+Should be compatible with OpenAI Gym and also rllab (both mentioned [above](#rldrl-software-frameworks)).
    - Most recent [robotics environments](https://gym.openai.com/envs/#robotics) use MuJoCo, but old examples have been re-implemented in [roboschool](https://blog.openai.com/roboschool/) which is visually the same but MIT License.
    - https://github.com/duckietown/gym-duckietown
    - https://github.com/arex18/rocket-lander
