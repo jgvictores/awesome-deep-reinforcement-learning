@@ -254,7 +254,7 @@ Attempting to order by current popularity:
 
 ## RL/DRL Gyms
 Should be compatible with OpenAI Gym and also rllab (both mentioned [above](#rldrl-software-frameworks)).
-   - Most recent [robotics environments](https://gym.openai.com/envs/#robotics) use MuJoCo, but old examples have been re-implemented in [roboschool](https://blog.openai.com/roboschool/) which is visually the same but MIT License.
+- [roboschool](https://blog.openai.com/roboschool/): similar to mujoco [robotics environments](https://gym.openai.com/envs/#robotics), re-implemented with MIT License.
    - https://github.com/duckietown/gym-duckietown
    - https://github.com/arex18/rocket-lander
    - https://github.com/ppaquette/gym-doom
