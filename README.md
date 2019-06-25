@@ -131,6 +131,8 @@ Can be trained via Back Propagation Through Time (BPTT). Also see Connectionist 
 - Stateful RNN.
 
 ### Word Embedding Models
+- BERT
+- ELMo
 - GloVe (2014). Jeffrey Pennington et Al; Stanford; "GloVe: Global Vectors for Word Representation".
 - [word2vec](https://code.google.com/archive/p/word2vec/).
 
