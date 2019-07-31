@@ -135,7 +135,7 @@ Can be trained via Back Propagation Through Time (BPTT). Also see Connectionist 
 - BERT
 - ELMo
 - GloVe (2014). Jeffrey Pennington et Al; Stanford; "GloVe: Global Vectors for Word Representation".
-- [word2vec](https://code.google.com/archive/p/word2vec/).
+- [word2vec](https://code.google.com/archive/p/word2vec/) (2013). Tomas Mikolov et Al; Google; "Distributed Representations of Words and Phrases and their Compositionality".
 
 ### More Models
 - Regression Networks (essentialy same, remove last activation and use some loss such as MSE rather than binary/categorical cross-entropy).
