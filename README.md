@@ -266,6 +266,7 @@ Should be compatible with OpenAI Gym and also rllab (both mentioned [above](#rld
 - https://github.com/openai/gym-soccer
 - https://github.com/erlerobot/gym-gazebo
 - https://github.com/robotology/gym-ignition
+- https://github.com/dartsim/gym-dart
 - https://github.com/Roboy/gym-roboy
 - https://github.com/openai/retro
 - https://github.com/mwydmuch/ViZDoom
