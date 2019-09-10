@@ -244,6 +244,7 @@ Attempting to order by current popularity:
    - https://github.com/haarnoja/sac
    - https://github.com/SoyGema/Startcraft_pysc2_minigames
 - PyTorch
+   - https://github.com/astooke/rlpyt
    - https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
    - https://github.com/ikostrikov/pytorch-a2c-ppo-acktr
 - Torch
