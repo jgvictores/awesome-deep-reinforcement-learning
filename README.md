@@ -67,6 +67,7 @@ Attempling to order software frameworks by current popularity:
 - Tensorpack ([GitHub](https://github.com/ppwwyyxx/tensorpack)) (a tensorflow wrapper)
 - Ignite ([GitHub](https://github.com/pytorch/ignite)) (a pytorch wrapper)
 - TransmogrifAI ([GitHub](https://github.com/salesforce/TransmogrifAI)) (API: Scala)
+- tiny-dnn ([GitHub](https://github.com/tiny-dnn/tiny-dnn)) (API: C++ (C++14))
 - [OpenNN](http://www.opennn.net) (API: C++)
 - [PyBrain](http://www.pybrain.org) (API: Python)
 - [Caffe](http://caffe.berkeleyvision.org/) (very used, but down here because [caffe2 merged into pytorch](https://caffe2.ai/blog/2018/05/02/Caffe2_PyTorch_1_0.html))
