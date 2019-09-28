@@ -240,6 +240,7 @@ Attempting to order by current popularity:
 - rllab ([GitHub](https://github.com/rll/rllab)) ([readthedocs](http://rllab.readthedocs.io)) (officialy uses theano; in practice has some keras, tensorflow, torch, chainer...)
 - https://github.com/google/dopamine (uses some tensorflow)
 - https://github.com/deepmind/trfl (uses tensorflow)
+- [RLBench](https://sites.google.com/view/rlbench) ([GitHub](https://github.com/stepjam/RLBench))
 - Keras
    - https://becominghuman.ai/lets-build-an-atari-ai-part-0-intro-to-rl-9b2c5336e0ec
    - https://github.com/haarnoja/sac
