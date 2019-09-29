@@ -240,7 +240,6 @@ Attempting to order by current popularity:
 - rllab ([GitHub](https://github.com/rll/rllab)) ([readthedocs](http://rllab.readthedocs.io)) (officialy uses theano; in practice has some keras, tensorflow, torch, chainer...)
 - https://github.com/google/dopamine (uses some tensorflow)
 - https://github.com/deepmind/trfl (uses tensorflow)
-- [RLBench](https://sites.google.com/view/rlbench) ([GitHub](https://github.com/stepjam/RLBench))
 - Keras
    - https://becominghuman.ai/lets-build-an-atari-ai-part-0-intro-to-rl-9b2c5336e0ec
    - https://github.com/haarnoja/sac
@@ -284,6 +283,8 @@ Should be compatible with OpenAI Gym and also rllab (both mentioned [above](#rld
 - https://github.com/thedimlebowski/Trading-Gym
 
 ## RL/DRL Baselines and Benchmarks
+- [ROBEL](https://sites.google.com/view/roboticsbenchmarks) ([google-research/robel](https://github.com/google-research/robel/))
+- [RLBench](https://sites.google.com/view/rlbench) ([stepjam/RLBench](https://github.com/stepjam/RLBench))
 - https://github.com/openai/baselines
 - https://martin-thoma.com/sota/#reinforcment-learning
 - https://github.com/rlworkgroup/garage
