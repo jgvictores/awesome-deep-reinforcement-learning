@@ -287,6 +287,7 @@ Should be compatible with OpenAI Gym and also rllab (both mentioned [above](#rld
 - [ROBEL](https://sites.google.com/view/roboticsbenchmarks) ([google-research/robel](https://github.com/google-research/robel/))
 - [RLBench](https://sites.google.com/view/rlbench) ([stepjam/RLBench](https://github.com/stepjam/RLBench))
 - https://github.com/openai/baselines
+   - https://github.com/hill-a/stable-baselines
 - https://martin-thoma.com/sota/#reinforcment-learning
 - https://github.com/rlworkgroup/garage
 
