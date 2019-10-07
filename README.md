@@ -173,7 +173,7 @@ Lists of lists before citing the classics:
 - [COCO](http://cocodataset.org) (Common Objects in Context): 2014, 2015, 2017. Includes classes and annotations.
 ### Motion
 - KIT Motion-Language: <https://motion-annotation.humanoids.kit.edu/dataset>
-- Sketches: [Quick Draw](https://github.com/googlecreativelab/quickdraw-dataset)
+- Sketches: [Quick Draw (Google)](https://github.com/googlecreativelab/quickdraw-dataset)
 - Driving: <https://robotcar-dataset.robots.ox.ac.uk/datasets/>
 - Robotics: [iCubWorld](https://robotology.github.io/iCubWorld/#datasets); where iCWT: 200 domestic objects in 20 categories (11 categories also in ILSVRC, rest in ImageNet). Also [muratkrty/iCub-camera-dataset](https://github.com/muratkrty/iCub-camera-dataset).
 
