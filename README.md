@@ -167,13 +167,14 @@ Lists of lists before citing the classics:
 - [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html): 60000 32x32 colour images (selected from MIT TinyImages) in 10 classes, with 6000 images per class
 - [CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html): 60000 32x32 colour images (selected from MIT TinyImages) in 100 classes containing 600 images per class, grouped into 20 superclasses
 ### Image Detection
-- [COCO](http://cocodataset.org) (Common Objects in Context): 2014, 2015, 2017. Includes classes and annotations.
 - [SVHN](http://ufldl.stanford.edu/housenumbers/) (Street View House Numbers)
 - [HICO](http://www-personal.umich.edu/~ywchao/hico/) (Humans Interacting with Common Objects)
+### Image Segmentation
+- [COCO](http://cocodataset.org) (Common Objects in Context): 2014, 2015, 2017. Includes classes and annotations.
 ### Motion
-- KIT Motion-Language: https://motion-annotation.humanoids.kit.edu/dataset
+- KIT Motion-Language: <https://motion-annotation.humanoids.kit.edu/dataset>
 - Sketches: [Quick Draw](https://github.com/googlecreativelab/quickdraw-dataset)
-- Driving: https://robotcar-dataset.robots.ox.ac.uk/datasets/
+- Driving: <https://robotcar-dataset.robots.ox.ac.uk/datasets/>
 - Robotics: [iCubWorld](https://robotology.github.io/iCubWorld/#datasets); where iCWT: 200 domestic objects in 20 categories (11 categories also in ILSVRC, rest in ImageNet). Also [muratkrty/iCub-camera-dataset](https://github.com/muratkrty/iCub-camera-dataset).
 
 ### Text
