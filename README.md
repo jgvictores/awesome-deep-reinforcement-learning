@@ -159,16 +159,18 @@ Lists of lists before citing the classics:
 - UCI: https://archive.ics.uci.edu/ml/datasets.html
 - Zillow: https://www.zillow.com/research/data
 
-### Image, Sound, Multimedia...
+### Image Classification
 - [MNIST](http://yann.lecun.com/exdb/mnist/): Handwritten digits, set of 70000 28x28 images, is a subset of a larger set available from NIST (and centered from its 32x32). Also see 2018's [Kuzushiji-MNIST](https://github.com/rois-codh/kmnist).
 - [ImageNet](http://www.image-net.org/): Project organized according to the WordNet hierarchy (22000 categories). Includes SIFT features, bounding boxes, attributes. Currently over 14 million images, 21841 cognitive synonyms (synsets) indexed, goal of +1000 images per synset.
    - ImageNet Large Visual Recognition Challenge (ILSVRC): Goal of 1000 categories using +100000 test images. E.g. LS-LOC
 - [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/) (Visual Object Classes)
-- [COCO](http://cocodataset.org) (Common Objects in Context): 2014, 2015, 2017. Includes classes and annotations.
 - [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html): 60000 32x32 colour images (selected from MIT TinyImages) in 10 classes, with 6000 images per class
 - [CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html): 60000 32x32 colour images (selected from MIT TinyImages) in 100 classes containing 600 images per class, grouped into 20 superclasses
+### Image Detection
+- [COCO](http://cocodataset.org) (Common Objects in Context): 2014, 2015, 2017. Includes classes and annotations.
 - [SVHN](http://ufldl.stanford.edu/housenumbers/) (Street View House Numbers)
 - [HICO](http://www-personal.umich.edu/~ywchao/hico/) (Humans Interacting with Common Objects)
+### Motion
 - KIT Motion-Language: https://motion-annotation.humanoids.kit.edu/dataset
 - Sketches: [Quick Draw](https://github.com/googlecreativelab/quickdraw-dataset)
 - Driving: https://robotcar-dataset.robots.ox.ac.uk/datasets/
