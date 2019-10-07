@@ -177,6 +177,7 @@ Lists of lists before citing the classics:
 - Driving: <https://robotcar-dataset.robots.ox.ac.uk/datasets/>
 - Robotics: [iCubWorld](https://robotology.github.io/iCubWorld/#datasets); where iCWT: 200 domestic objects in 20 categories (11 categories also in ILSVRC, rest in ImageNet). Also [muratkrty/iCub-camera-dataset](https://github.com/muratkrty/iCub-camera-dataset).
 - [Kinetics (DeepMind)](https://deepmind.com/research/open-source/kinetics)
+- [HowTo100M](https://www.di.ens.fr/willow/research/howto100m/)
 
 ### Text
 - [text8](http://mattmahoney.net/dc/textdata.html): [text8.zip](http://mattmahoney.net/dc/text8.zip). more at [word2vec](https://code.google.com/archive/p/word2vec/).
