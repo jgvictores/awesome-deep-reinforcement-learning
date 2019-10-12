@@ -166,9 +166,11 @@ Lists of lists before citing the classics:
 - [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/) (Visual Object Classes)
 - [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html): 60000 32x32 colour images (selected from MIT TinyImages) in 10 classes, with 6000 images per class
 - [CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html): 60000 32x32 colour images (selected from MIT TinyImages) in 100 classes containing 600 images per class, grouped into 20 superclasses
+- [MIT MM Stimuli](http://cvcl.mit.edu/MM/stimuli.html): Massive Memory (MM) Stimuli contains Unique Objects, State Pairs, State x Color Pairs...
 ### Image Detection
 - [SVHN](http://ufldl.stanford.edu/housenumbers/) (Street View House Numbers)
 - [HICO](http://www-personal.umich.edu/~ywchao/hico/) (Humans Interacting with Common Objects)
+- [Visual Genome](http://visualgenome.org/): Includes structured image concepts to language
 ### Image Segmentation
 - [COCO](http://cocodataset.org) (Common Objects in Context): 2014, 2015, 2017. Includes classes and annotations.
 ### Motion
