@@ -283,6 +283,7 @@ Should be compatible with OpenAI Gym and also rllab (both mentioned [above](#rld
 - https://github.com/mwydmuch/ViZDoom
 - https://github.com/deepmind/pysc2 (by DeepMind) (Blizzard StarCraft II Learning Environment (SC2LE) component)
 - https://github.com/benelot/pybullet-gym
+- https://github.com/Healthcare-Robotics/assistive-gym
 - https://github.com/Microsoft/malmo
 - https://github.com/nadavbh12/Retro-Learning-Environment
 - https://github.com/twitter/torch-twrl
