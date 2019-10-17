@@ -291,6 +291,7 @@ Should be compatible with OpenAI Gym and also rllab (both mentioned [above](#rld
 - https://github.com/arex18/rocket-lander
 - https://github.com/ppaquette/gym-doom
 - https://github.com/thedimlebowski/Trading-Gym
+- Even more: https://github.com/Phylliade/awesome-openai-gym-environments
 
 ## RL/DRL Baselines and Benchmarks
 - [ROBEL](https://sites.google.com/view/roboticsbenchmarks) ([google-research/robel](https://github.com/google-research/robel/))
