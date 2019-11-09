@@ -79,7 +79,7 @@ Attempling to order software frameworks by current popularity:
 Overviews: [1](https://towardsdatascience.com/r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e). Taxonomy: [1](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture11.pdf).
 
 ### Image Segmentation Models
-- Detectron (2018). Ross Girshick et Al; FAIR. [facebookresearch/Detectron/](https://github.com/facebookresearch/Detectron/) and [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2)
+- Detectron (2018). Ross Girshick et Al; FAIR. [facebookresearch/Detectron](https://github.com/facebookresearch/Detectron/) and [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2)
 - FCIS (2017). "Fully Convolutional Instance-aware Semantic Segmentation". [arxiv](https://arxiv.org/abs/1611.07709). Coded in caffe but released in [mxnet](https://github.com/msracver/FCIS), port: [chainer](https://github.com/knorth55/chainer-fcis).
 - U-Net (2015); Olaf Ronneberger et Al; "Convolutional Networks for Biomedical Image Segmentation"; [arxiv](https://arxiv.org/abs/1505.04597). [caffe](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/).
 
@@ -104,10 +104,10 @@ Overviews: [1](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need
 - LeNet-5 (1998). Yann LeCun et Al; ATT now at Facebook AI Research; "Gradient-based learning applied to document recognition"; [doi](https://doi.org/10.1109/5.726791). In 32x32 grayscale; 7 layer (conv, pool, full...). 60 thousand parameters.
 
 ### Graph/Manifold/Network Convolutional Models
-- https://github.com/thunlp/GNNPapers
+- [thunlp/GNNPapers](https://github.com/thunlp/GNNPapers)
 - [Geometric deep learning](http://geometricdeeplearning.com)
 - https://github.com/chihming/awesome-network-embedding
-- [DLG](http://dgl.ai/): [github](https://github.com/dmlc/dgl)
+- [DLG](http://dgl.ai/): [dmlc/dgl](https://github.com/dmlc/dgl)
 - "Signed Graph Convolutional Network" (ICDM 2018); [pytorch](https://github.com/benedekrozemberczki/SGCN)
 
 ### Generative Models
