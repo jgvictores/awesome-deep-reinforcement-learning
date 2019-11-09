@@ -77,10 +77,15 @@ Attempling to order software frameworks by current popularity:
 ## NN/DNN Models
 ### Image Object Segmentation, Localization, Detection Models
 Overviews: [1](https://towardsdatascience.com/r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e). Taxonomy: [1](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture11.pdf).
+
+### Image Segmentation Models
+- Detectron (2018). Ross Girshick et Al; FAIR. [facebookresearch/Detectron/](https://github.com/facebookresearch/Detectron/) and [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2)
 - FCIS (2017). "Fully Convolutional Instance-aware Semantic Segmentation". [arxiv](https://arxiv.org/abs/1611.07709). Coded in caffe but released in [mxnet](https://github.com/msracver/FCIS), port: [chainer](https://github.com/knorth55/chainer-fcis).
+- U-Net (2015); Olaf Ronneberger et Al; "Convolutional Networks for Biomedical Image Segmentation"; [arxiv](https://arxiv.org/abs/1505.04597). [caffe](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/).
+
+### Image Detection Models
 - YOLO (2015). Joseph Redmond et Al; U Washington, Allen AI, FAIR; "You Only Look Once: Unified, Real-Time Object Detection"; [arxiv](https://arxiv.org/abs/1506.02640). Variants: YOLO9000, YOLO v3... [Darknet](https://pjreddie.com/darknet/yolo), ports: [tensorflow](https://github.com/thtrieu/darkflow).
 - SSD (2015). Wei Liu et Al; UNC, Zoox, Google, et Al; "SSD: Single Shot MultiBox Detector"; [arxiv](https://arxiv.org/abs/1512.02325). [caffe](https://github.com/intel/caffe/wiki/SSD:-Single-Shot-MultiBox-Detector)
-- U-Net (2015); Olaf Ronneberger et Al; "Convolutional Networks for Biomedical Image Segmentation"; [arxiv](https://arxiv.org/abs/1505.04597). [caffe](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/).
 - OverFeat (2015). Pierre Sermanet, David Eigen, Xiang Zhang, Michael Mathieu, Rob Fergus, and Yann LeCun; NYU; "OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks"; [arxiv](https://arxiv.org/abs/1312.6229).
 - R-CNN (2013). Ross Girshick et Al; Berkeley; "Rich feature hierarchies for accurate object detection and semantic segmentation"; [arxiv](https://arxiv.org/abs/1311.2524). Variants ([summary](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)): Fast R-CNN, Faster R-CNN, Mask R-CNN.
 
