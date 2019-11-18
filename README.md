@@ -247,11 +247,12 @@ Lists of lists before citing the classics:
 
 ## RL/DRL Software Frameworks
 Attempting to order by current popularity:
-- [OpenAI Gym](https://gym.openai.com) ([GitHub](https://github.com/openai/gym)) ([docs](https://gym.openai.com/docs/))
+- [OpenAI Gym](https://gym.openai.com) ([openai/gym](https://github.com/openai/gym)) ([docs](https://gym.openai.com/docs/))
     - https://www.oreilly.com/learning/introduction-to-reinforcement-learning-and-openai-gym
-- rllab ([GitHub](https://github.com/rll/rllab)) ([readthedocs](http://rllab.readthedocs.io)) (officialy uses theano; in practice has some keras, tensorflow, torch, chainer...)
-- https://github.com/google/dopamine (uses some tensorflow)
-- https://github.com/deepmind/trfl (uses tensorflow)
+- [rll/rllab](https://github.com/rll/rllab) ([readthedocs](http://rllab.readthedocs.io)) (officialy uses theano; in practice has some keras, tensorflow, torch, chainer...)
+- [google/dopamine](https://github.com/google/dopamine) (uses some tensorflow)
+- [deepmind/trfl](https://github.com/deepmind/trfl) (uses tensorflow)
+- [deepmind/open_spiel](https://github.com/deepmind/open_spiel) (uses some tensorflow)
 - Keras
    - https://becominghuman.ai/lets-build-an-atari-ai-part-0-intro-to-rl-9b2c5336e0ec
    - https://github.com/haarnoja/sac
