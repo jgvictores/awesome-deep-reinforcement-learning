@@ -285,6 +285,7 @@ Should be compatible with OpenAI Gym and also rllab (both mentioned [above](#rld
 - https://github.com/dartsim/gym-dart
 - https://github.com/Roboy/gym-roboy
 - https://github.com/ucuapps/modelicagym
+- https://github.com/openai/safety-gym
 - https://github.com/openai/retro
 - https://github.com/mwydmuch/ViZDoom
 - https://github.com/deepmind/pysc2 (by DeepMind) (Blizzard StarCraft II Learning Environment (SC2LE) component)
