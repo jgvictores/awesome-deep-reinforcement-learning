@@ -265,6 +265,8 @@ Attempting to order by current popularity:
    - https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner
    - https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752 (originally in tensorflow)
 - ChainerRL ([GitHub](https://github.com/chainer/chainerrl)) (API: Python)
+- [learnables/cherry](https://github.com/learnables/cherry) (API: Python) (layer over pytorch)
+- [medipixel/rl_algorithms](https://github.com/medipixel/rl_algorithms)
 - Surreal [GitHub](https://github.com/SurrealAI/surreal)  (API: Python) (support: Stanford Vision and Learning Lab).
 - PyMARL [GitHub](https://github.com/oxwhirl/pymarl) (support: http://whirl.cs.ox.ac.uk/)
 - TF-Agents: https://github.com/tensorflow/agents (uses tensorflow)
