@@ -258,9 +258,10 @@ Attempting to order by current popularity:
    - https://github.com/haarnoja/sac
    - https://github.com/SoyGema/Startcraft_pysc2_minigames
 - PyTorch
-   - https://github.com/astooke/rlpyt
-   - https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
-   - https://github.com/ikostrikov/pytorch-a2c-ppo-acktr
+   - [qfettes/DeepRL-Tutorials](https://github.com/qfettes/DeepRL-Tutorials)
+   - [https://github.com/astooke/rlpyt](https://github.com/astooke/rlpyt)
+   - <https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html>
+   - [ikostrikov/pytorch-a2c-ppo-acktr](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr)
 - Torch
    - https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner
    - https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752 (originally in tensorflow)
