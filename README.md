@@ -249,6 +249,7 @@ Lists of lists before citing the classics:
 Attempting to order by current popularity:
 - [OpenAI Gym](https://gym.openai.com) ([openai/gym](https://github.com/openai/gym)) ([docs](https://gym.openai.com/docs/))
     - https://www.oreilly.com/learning/introduction-to-reinforcement-learning-and-openai-gym
+    - See [dedicated section](#rldrl-gyms)
 - [rll/rllab](https://github.com/rll/rllab) ([readthedocs](http://rllab.readthedocs.io)) (officialy uses theano; in practice has some keras, tensorflow, torch, chainer...)
 - [google/dopamine](https://github.com/google/dopamine) (uses some tensorflow)
 - [deepmind/trfl](https://github.com/deepmind/trfl) (uses tensorflow)
