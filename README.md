@@ -336,5 +336,6 @@ Only accounting those with same objective as RL.
 
 # Similar pages
 - https://github.com/tigerneil/awesome-deep-rl
+- https://github.com/kengz/awesome-deep-rl
 - https://github.com/williamd4112/awesome-deep-reinforcement-learning
 - https://github.com/terryum/awesome-deep-learning-papers#new-papers
