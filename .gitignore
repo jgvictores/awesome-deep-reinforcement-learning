@@ -1,0 +1,10 @@
+# .gitignore
+## Files we want to have locally, but do not want to push to remote
+
+## Editor swap files
+*~
+*.swp
+*.orig
+
+## gitbook generated
+/_book/
