@@ -281,6 +281,7 @@ Attempting to order by current popularity:
 
 ## RL/DRL Gyms
 Should be compatible with OpenAI Gym and also rllab (both mentioned [above](#rldrl-software-frameworks)).
+- https://github.com/openai/gym/blob/master/docs/environments.md#third-party-environments
 - ~https://github.com/openai/roboschool~ (DEPRECATED)
 - https://github.com/koulanurag/ma-gym (multiagent)
 - https://github.com/openai/gym-soccer
