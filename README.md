@@ -34,7 +34,7 @@ To accomplish this, includes general Machine Learning (ML), Neural Networks (NN)
 ## General ML Books
 - Jake VanderPlas, "Python Data Science Handbook", 2017. [safari](http://proquest.safaribooksonline.com/book/programming/python/9781491912126)
 
-# Neural Networks (NN) and Deep Neural Networks (DNN) 
+# Neural Networks (NN) and Deep Neural Networks (DNN)
 
 ## NN/DNN Software Frameworks
 - Overview: [presentation](https://project.inria.fr/deeplearning/files/2016/05/DLFrameworks.pdf) ([permalink](https://github.com/jgvictores/awesome-deep-reinforcement-learning/blob/143a885cc10b4331b9b3fa3e1a9436d5325676af/doc/inria2017DLFrameworks.pdf)).
@@ -106,7 +106,7 @@ Overviews: [1](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need
 ### Graph/Manifold/Network Convolutional Models
 - [thunlp/GNNPapers](https://github.com/thunlp/GNNPapers)
 - [Geometric deep learning](http://geometricdeeplearning.com)
-- https://github.com/chihming/awesome-network-embedding
+- [chihming/awesome-network-embedding](https://github.com/chihming/awesome-network-embedding)
 - [DLG](http://dgl.ai/): [dmlc/dgl](https://github.com/dmlc/dgl)
 - "Signed Graph Convolutional Network" (ICDM 2018); [pytorch](https://github.com/benedekrozemberczki/SGCN)
 
@@ -120,7 +120,7 @@ Tutorial: [pytorch](https://github.com/leongatys/GenerativeImageModellingWithDNN
    - Deep Photo Style Transfer (2017). Fujun Luan et Al, "Deep Photo Style Transfer"; [arxiv](https://arxiv.org/abs/1703.07511). [torch+matlab](https://github.com/luanfujun/deep-photo-styletransfer)
    - Neuralart (2015). Leon A. Gatys et Al; "A Neural Algorithm of Artistic Style"; [arxiv](https://arxiv.org/abs/1508.06576). Uses base+style+target as inputs and optimizes for target via BFGS. [tensorflow](https://github.com/ckmarkoh/neuralart_tensorflow), [torch](https://github.com/jcjohnson/neural-style), keras [1](https://github.com/keras-team/keras/blob/master/examples/neural_style_transfer.py) [2](https://github.com/titu1994/Neural-Style-Transfer) [3](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-fun-with-deep-learning.md) [4](https://medium.com/mlreview/making-ai-art-with-style-transfer-using-keras-8bb5fa44b216)
 - GANs:
-   - https://github.com/hindupuravinash/the-gan-zoo
+   - [hindupuravinash/the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo)
    - BigGAN (2018); "Large Scale GAN Training for High Fidelity Natural Image Synthesis"; [arxiv](https://arxiv.org/abs/1809.11096). [pytorch](https://github.com/AaronLeong/BigGAN-pytorch)
    - Terro Karas et Al (2018); NVIDIA; "Progressive Growing of GANs for Improved Quality, Stability, and Variation"; [arxiv](https://arxiv.org/abs/1710.10196). [tensorflow](https://github.com/tkarras/progressive_growing_of_gans)
    - CANs (2017). Ahmed Elgammal et Al; Berkeley; "CAN: Creative Adversarial Networks, Generating "Art" by Learning About Styles and Deviating from Style Norms"; [arxiv](https://arxiv.org/abs/1706.07068). [tensorflow](https://github.com/mlberkeley/Creative-Adversarial-Networks)
@@ -156,7 +156,7 @@ Can be trained via Back Propagation Through Time (BPTT). Also see Connectionist 
 
 ## NN/DNN Datasets
 Lists of lists before citing the classics:
-- https://github.com/awesomedata/awesome-public-datasets
+- [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
 - Wikipedia: https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research
 - Google: https://ai.google/tools/datasets
 - Kaggle: https://www.kaggle.com/datasets
@@ -197,7 +197,7 @@ Lists of lists before citing the classics:
 - http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html
 - https://martin-thoma.com/sota/#computer-vision
 - https://robust.vision/benchmark
-- https://github.com/brain-research/realistic-ssl-evaluation
+- [brain-research/realistic-ssl-evaluation](https://github.com/brain-research/realistic-ssl-evaluation)
 
 ## NN/DNN Pretrained Models
 - Several pre-trained models: [keras web](https://keras.io/applications), [keras 1](https://github.com/keras-team/keras/tree/master/keras/applications), [keras 2](https://github.com/keras-team/keras-applications), [pytorch](https://pytorch.org/docs/stable/torchvision/models.html), [caffe](https://github.com/BVLC/caffe/wiki/Model-Zoo), [ONNX](https://github.com/onnx/models) (pytorch/caffe2).
@@ -256,15 +256,15 @@ Attempting to order by current popularity:
 - [deepmind/open_spiel](https://github.com/deepmind/open_spiel) (uses some tensorflow)
 - Keras
    - https://becominghuman.ai/lets-build-an-atari-ai-part-0-intro-to-rl-9b2c5336e0ec
-   - https://github.com/haarnoja/sac
-   - https://github.com/SoyGema/Startcraft_pysc2_minigames
+   - [haarnoja/sac](https://github.com/haarnoja/sac)
+   - [SoyGema/Startcraft_pysc2_minigames](https://github.com/SoyGema/Startcraft_pysc2_minigames)
 - PyTorch
    - [qfettes/DeepRL-Tutorials](https://github.com/qfettes/DeepRL-Tutorials)
    - [https://github.com/astooke/rlpyt](https://github.com/astooke/rlpyt)
    - <https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html>
    - [ikostrikov/pytorch-a2c-ppo-acktr](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr)
 - Torch
-   - https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner
+   - [kuz/DeepMind-Atari-Deep-Q-Learner](https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner)
    - https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752 (originally in tensorflow)
 - ChainerRL ([GitHub](https://github.com/chainer/chainerrl)) (API: Python)
 - [learnables/cherry](https://github.com/learnables/cherry) (API: Python) (layer over pytorch)
@@ -275,48 +275,48 @@ Attempting to order by current popularity:
 - TensorForce ([GitHub](https://github.com/reinforceio/tensorforce)) (uses tensorflow)
 - keras-rl ([GitHub](https://github.com/keras-rl/keras-rl)) (uses keras)
 - [RL-Glue](https://sites.google.com/a/rl-community.org/rl-glue/Home/rl-glue) ([Google Code Archive](https://code.google.com/archive/p/rl-glue-ext/wikis/RLGlueCore.wiki)) (API: C/C++, Java, Matlab, Python, Lisp) (support: Alberta)
-- https://github.com/geek-ai/MAgent (uses tensorflow)
+- [geek-ai/MAgent](https://github.com/geek-ai/MAgent) (uses tensorflow)
 - http://ray.readthedocs.io/en/latest/rllib.html (API: Python)
 - http://burlap.cs.brown.edu/ (API: Java)
 
 ## RL/DRL Gyms
 Should be compatible with OpenAI Gym and also rllab (both mentioned [above](#rldrl-software-frameworks)).
-- https://github.com/openai/gym/blob/master/docs/environments.md#third-party-environments
-- ~https://github.com/openai/roboschool~ (DEPRECATED)
-- https://github.com/koulanurag/ma-gym (multiagent)
-- https://github.com/openai/gym-soccer
-- https://github.com/erlerobot/gym-gazebo
-- https://github.com/robotology/gym-ignition
-- https://github.com/dartsim/gym-dart
-- https://github.com/Roboy/gym-roboy
-- https://github.com/ucuapps/modelicagym
-- https://github.com/openai/safety-gym
-- https://github.com/openai/retro
-- https://github.com/mwydmuch/ViZDoom
-- https://github.com/deepmind/pysc2 (by DeepMind) (Blizzard StarCraft II Learning Environment (SC2LE) component)
-- https://github.com/benelot/pybullet-gym
-- https://github.com/Healthcare-Robotics/assistive-gym
-- https://github.com/Microsoft/malmo
-- https://github.com/nadavbh12/Retro-Learning-Environment
-- https://github.com/twitter/torch-twrl
-- https://github.com/duckietown/gym-duckietown
-- https://github.com/arex18/rocket-lander
-- https://github.com/ppaquette/gym-doom
-- https://github.com/thedimlebowski/Trading-Gym
-- Even more: https://github.com/Phylliade/awesome-openai-gym-environments
+- [openai/gym/blob/master/docs/environments.md#third-party-environments](https://github.com/openai/gym/blob/master/docs/environments.md#third-party-environments)
+- ~[openai/roboschool](https://github.com/openai/roboschool)~ (DEPRECATED)
+- [koulanurag/ma-gym](https://github.com/koulanurag/ma-gym) (multiagent)
+- [openai/gym-soccer](https://github.com/openai/gym-soccer)
+- [erlerobot/gym-gazebo](https://github.com/erlerobot/gym-gazebo)
+- [robotology/gym-ignition](https://github.com/robotology/gym-ignition)
+- [dartsim/gym-dart](https://github.com/dartsim/gym-dart)
+- [Roboy/gym-roboy](https://github.com/Roboy/gym-roboy)
+- [ucuapps/modelicagym](https://github.com/ucuapps/modelicagym)
+- [openai/safety-gym](https://github.com/openai/safety-gym)
+- [openai/retro](https://github.com/openai/retro)
+- [mwydmuch/ViZDoom](https://github.com/mwydmuch/ViZDoom)
+- [deepmind/pysc2](https://github.com/deepmind/pysc2) (by DeepMind) (Blizzard StarCraft II Learning Environment (SC2LE) component)
+- [benelot/pybullet-gym](https://github.com/benelot/pybullet-gym)
+- [Healthcare-Robotics/assistive-gym](https://github.com/Healthcare-Robotics/assistive-gym)
+- [Microsoft/malmo](https://github.com/Microsoft/malmo)
+- [nadavbh12/Retro-Learning-Environment](https://github.com/nadavbh12/Retro-Learning-Environment)
+- [twitter/torch-twrl](https://github.com/twitter/torch-twrl)
+- [duckietown/gym-duckietown](https://github.com/duckietown/gym-duckietown)
+- [arex18/rocket-lander](https://github.com/arex18/rocket-lander)
+- [ppaquette/gym-doom](https://github.com/ppaquette/gym-doom)
+- [thedimlebowski/Trading-Gym](https://github.com/thedimlebowski/Trading-Gym)
+- Even more: [Phylliade/awesome-openai-gym-environments](https://github.com/Phylliade/awesome-openai-gym-environments)
 
 ## RL/DRL Baselines and Benchmarks
 - [ROBEL](https://sites.google.com/view/roboticsbenchmarks) ([google-research/robel](https://github.com/google-research/robel/))
 - [RLBench](https://sites.google.com/view/rlbench) ([stepjam/RLBench](https://github.com/stepjam/RLBench))
-- https://github.com/openai/baselines
-   - https://github.com/hill-a/stable-baselines
+- [openai/baselines](https://github.com/openai/baselines)
+   - [hill-a/stable-baselines](https://github.com/hill-a/stable-baselines)
 - https://martin-thoma.com/sota/#reinforcment-learning
-- https://github.com/rlworkgroup/garage
+- [rlworkgroup/garage](https://github.com/rlworkgroup/garage)
 
 ## RL/DRL Techniques Misc
 - Batch: REINFORCE, Deep Q-Network (DQN),  Expected-SARSA, True Online Temporal-Difference (TD), Double DQN, Truncated Natural Policy Gradient (TNPG), Trust Region Policy Optimization (TRPO), Reward-Weighted Regression, Relative Entropy Policy Search (REPS), Cross Entropy Method (CEM), Advantage-Actor-Critic (A2C), Asynchronous Advantage Actor-Critic (A3C), Actor-critic with Experience Replay (ACER), Actor Critic using Kronecker-Factored Trust Region (ACKTR), Generative Adversarial Imitation Learning (GAIL), Hindsight Experience Replay (HER), Proximal Policy Optimization (PPO, PPO1, PPO2), Ape-X Distributed Prioritized Experience Replay, Continuous DQN (CDQN or NAF), Dueling network DQN (Dueling DQN), Deep SARSA, Multi-Agent Deep Deterministic Policy Gradient (MADDPG).
 - Online: Deep Determisitc Policy Gradient (DDPG).
-- Experience Replay. 
+- Experience Replay.
 
 ## RL/DRL Books
 - Reinforcement Learning: An Introduction: http://incompleteideas.net/book/bookdraft2017nov5.pdf (Richard S. Sutton is father of RL)
@@ -327,8 +327,8 @@ Only accounting those with same objective as RL.
 - https://blog.openai.com/evolution-strategies
 - https://eng.uber.com/deep-neuroevolution/
 - Covariance Matrix Adaptation Evolution Strategy (CMA-ES)
-    - https://github.com/CMA-ES/pycma
-    - https://github.com/hardmaru/estool
+    - [CMA-ES/pycma](https://github.com/CMA-ES/pycma)
+    - [hardmaru/estool](https://github.com/hardmaru/estool)
 
 # Misc Tools
 - DLPaper2Code: Auto-generation of Code from Deep Learning Research Papers: https://arxiv.org/abs/1711.03543
@@ -336,7 +336,7 @@ Only accounting those with same objective as RL.
 - http://www.arxiv-sanity.com/
 
 # Similar pages
-- https://github.com/tigerneil/awesome-deep-rl
-- https://github.com/kengz/awesome-deep-rl
-- https://github.com/williamd4112/awesome-deep-reinforcement-learning
-- https://github.com/terryum/awesome-deep-learning-papers#new-papers
+- [tigerneil/awesome-deep-rl](https://github.com/tigerneil/awesome-deep-rl)
+- [kengz/awesome-deep-rl](https://github.com/kengz/awesome-deep-rl)
+- [williamd4112/awesome-deep-reinforcement-learning](https://github.com/williamd4112/awesome-deep-reinforcement-learning)
+- [terryum/awesome-deep-learning-papers#new-papers](https://github.com/terryum/awesome-deep-learning-papers#new-papers)
