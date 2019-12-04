@@ -260,7 +260,7 @@ Attempting to order by current popularity:
    - [SoyGema/Startcraft_pysc2_minigames](https://github.com/SoyGema/Startcraft_pysc2_minigames)
 - PyTorch
    - [qfettes/DeepRL-Tutorials](https://github.com/qfettes/DeepRL-Tutorials)
-   - [https://github.com/astooke/rlpyt](https://github.com/astooke/rlpyt)
+   - [astooke/rlpyt](https://github.com/astooke/rlpyt)
    - <https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html>
    - [ikostrikov/pytorch-a2c-ppo-acktr](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr)
 - Torch
