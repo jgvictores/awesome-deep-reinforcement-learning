@@ -321,6 +321,7 @@ Should be compatible with OpenAI Gym and also rllab (both mentioned [above](#rld
 ## RL/DRL Books
 - Reinforcement Learning: An Introduction: http://incompleteideas.net/book/bookdraft2017nov5.pdf (Richard S. Sutton is father of RL)
 - Andrew Ng thesis: www.cs.ubc.ca/~nando/550-2006/handouts/andrew-ng.pdf
+- https://medium.com/@jonathan_hui/rl-reinforcement-learning-algorithms-quick-overview-6bf69736694d
 
 # Evolutionary Algorithms (EA)
 Only accounting those with same objective as RL.
