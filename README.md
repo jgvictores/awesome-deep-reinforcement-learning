@@ -305,6 +305,7 @@ Should be compatible with OpenAI Gym and also rllab (both mentioned [above](#rld
 - [arex18/rocket-lander](https://github.com/arex18/rocket-lander)
 - [ppaquette/gym-doom](https://github.com/ppaquette/gym-doom)
 - [thedimlebowski/Trading-Gym](https://github.com/thedimlebowski/Trading-Gym)
+- [denisyarats/dmc2gym](https://github.com/denisyarats/dmc2gym)
 - Even more: [Phylliade/awesome-openai-gym-environments](https://github.com/Phylliade/awesome-openai-gym-environments)
 
 ## RL/DRL Baselines and Benchmarks
