@@ -164,6 +164,7 @@ Lists of lists before citing the classics:
 - MIT: [MIT Places](http://places.csail.mit.edu/), [MIT Moments](http://moments.csail.mit.edu/)...
 - UCI: https://archive.ics.uci.edu/ml/datasets.html
 - Zillow: https://www.zillow.com/research/data
+- Open Graph Benchmark: https://ogb.stanford.edu/
 
 ### Image Classification
 - [MNIST](http://yann.lecun.com/exdb/mnist/): Handwritten digits, set of 70000 28x28 images, is a subset of a larger set available from NIST (and centered from its 32x32). Also see 2018's [Kuzushiji-MNIST](https://github.com/rois-codh/kmnist).
