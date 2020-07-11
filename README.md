@@ -326,7 +326,7 @@ Should be compatible with OpenAI Gym and also rllab (both mentioned [above](#rld
 - Experience Replay.
 
 ## RL/DRL Books
-- Reinforcement Learning: An Introduction: http://incompleteideas.net/book/bookdraft2017nov5.pdf (Richard S. Sutton is father of RL)
+- Reinforcement Learning: An Introduction: http://incompleteideas.net/book/RLbook2020.pdf (Richard S. Sutton is father of RL)
 - Andrew Ng thesis: www.cs.ubc.ca/~nando/550-2006/handouts/andrew-ng.pdf
 - https://medium.com/@jonathan_hui/rl-reinforcement-learning-algorithms-quick-overview-6bf69736694d
 
