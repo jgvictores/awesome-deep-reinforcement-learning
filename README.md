@@ -359,6 +359,7 @@ Only accounting those with same objective as RL.
 - Covariance Matrix Adaptation Evolution Strategy (CMA-ES)
   - [CMA-ES/pycma](https://github.com/CMA-ES/pycma)
   - [hardmaru/estool](https://github.com/hardmaru/estool)
+  - [CyberAgent/cmaes](https://github.com/CyberAgent/cmaes)
 
 ## Misc Tools
 
