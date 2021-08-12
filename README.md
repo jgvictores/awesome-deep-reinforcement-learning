@@ -433,7 +433,7 @@ Classification of RL algorithms adapted from [Reinforcement Learning Specializat
 
 #### DRL algorithm classifaction adapted from CS285 at UC Berkeley
 
-DRL algorithm classifaction adapted from [Deep Reinforcement Learning CS 285 at UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse), Sergey Levine, Fall 2020, Lecture 4.
+DRL algorithm classifaction adapted from [Deep Reinforcement Learning CS 285 at UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse), Sergey Levine, [Fall 2020](http://rail.eecs.berkeley.edu/deeprlcourse-fa20/), Lecture 4.
 
 1. Policy Gradients
 2. Value-based
