@@ -1,5 +1,45 @@
 # awesome-deep-reinforcement-learning
 
+- [awesome-deep-reinforcement-learning](#awesome-deep-reinforcement-learning)
+  - [General Machine Learning (ML)](#general-machine-learning-ml)
+    - [General ML Software Frameworks](#general-ml-software-frameworks)
+    - [General ML Books](#general-ml-books)
+  - [Neural Networks (NN) and Deep Neural Networks (DNN)](#neural-networks-nn-and-deep-neural-networks-dnn)
+    - [NN/DNN Software Frameworks](#nndnn-software-frameworks)
+    - [NN/DNN Models](#nndnn-models)
+      - [Image Object Segmentation, Localization, Detection Models](#image-object-segmentation-localization-detection-models)
+      - [Image Segmentation Models](#image-segmentation-models)
+      - [Image Detection Models](#image-detection-models)
+      - [Image Classification Models](#image-classification-models)
+      - [Graph/Manifold/Network Convolutional Models](#graphmanifoldnetwork-convolutional-models)
+      - [Generative Models](#generative-models)
+      - [Recurrent Models](#recurrent-models)
+      - [Word Embedding Models](#word-embedding-models)
+      - [More Models](#more-models)
+    - [NN/DNN Datasets](#nndnn-datasets)
+      - [Image Classification](#image-classification)
+      - [Image Detection](#image-detection)
+      - [Image Segmentation](#image-segmentation)
+      - [Motion](#motion)
+      - [Text](#text)
+      - [Signal Separation](#signal-separation)
+    - [NN/DNN Benchmarks](#nndnn-benchmarks)
+    - [NN/DNN Pretrained Models](#nndnn-pretrained-models)
+    - [NN/DNN Techniques Misc](#nndnn-techniques-misc)
+    - [NN/DNN Visualization and Explanation](#nndnn-visualization-and-explanation)
+  - [Reinforcement Learning (RL) and Deep Reinforcement Learning (DRL)](#reinforcement-learning-rl-and-deep-reinforcement-learning-drl)
+    - [RL/DRL Software Frameworks](#rldrl-software-frameworks)
+    - [RL/DRL Gyms](#rldrl-gyms)
+    - [RL/DRL Baselines and Benchmarks](#rldrl-baselines-and-benchmarks)
+    - [RL/DRL Algorithms](#rldrl-algorithms)
+      - [RL/DRL algorithm classifaction adapted from Reinforcement Learning Specialization](#rldrl-algorithm-classifaction-adapted-from-reinforcement-learning-specialization)
+      - [DRL algorithm classifaction adapted from CS285 at UC Berkeley](#drl-algorithm-classifaction-adapted-from-cs285-at-uc-berkeley)
+      - [Just a random misc RL/DRL algorithms and techniques](#just-a-random-misc-rldrl-algorithms-and-techniques)
+    - [RL/DRL Books](#rldrl-books)
+  - [Evolutionary Algorithms (EA)](#evolutionary-algorithms-ea)
+  - [Misc Tools](#misc-tools)
+  - [Similar pages](#similar-pages)
+
 Curated list for Deep Reinforcement Learning (DRL): software frameworks, models, datasets, gyms, baselines...
 
 To accomplish this, includes general Machine Learning (ML), Neural Networks (NN) and Deep Neural Networks (DNN) with many vision examples, and Reinforcement Learning (RL) with videogames/robotics examples. Some alternative Evolutionary Algorithms (EA) with similar objectives included too.
@@ -338,11 +378,71 @@ Should be compatible with OpenAI Gym and also rllab (both mentioned [above](#rld
 - <https://martin-thoma.com/sota/#reinforcment-learning>
 - [rlworkgroup/garage](https://github.com/rlworkgroup/garage)
 
-### RL/DRL Techniques Misc
+### RL/DRL Algorithms
 
-- Batch: REINFORCE, Deep Q-Network (DQN), Expected-SARSA, True Online Temporal-Difference (TD), Double DQN, Truncated Natural Policy Gradient (TNPG), Trust Region Policy Optimization (TRPO), Reward-Weighted Regression, Relative Entropy Policy Search (REPS), Cross Entropy Method (CEM), Advantage-Actor-Critic (A2C), Asynchronous Advantage Actor-Critic (A3C), Actor-critic with Experience Replay (ACER), Actor Critic using Kronecker-Factored Trust Region (ACKTR), Generative Adversarial Imitation Learning (GAIL), Hindsight Experience Replay (HER), Proximal Policy Optimization (PPO, PPO1, PPO2), Ape-X Distributed Prioritized Experience Replay, Continuous DQN (CDQN or NAF), Dueling network DQN (Dueling DQN), Deep SARSA, Multi-Agent Deep Deterministic Policy Gradient (MADDPG).
-- Online: Deep Determisitc Policy Gradient (DDPG).
-- Experience Replay.
+#### RL/DRL algorithm classifaction adapted from Reinforcement Learning Specialization
+
+Classification of RL algorithms adapted from [Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning) (Martha & Adam White, from University of Alberta and Alberta Machine Intelligence Institute, on Coursera, 2019-20). Note that another major separation is off/on policy RL algorithms. DRL methods would fit into function approximators.
+
+```text
++-- Tablular Methods
+|   +-- Average Reward (e.g. for Continuing Tasks a.k.a. Infinite Horizon Case)
+|   |   +-- Continuous Action Space
+|   |   |   +-- Gaussian Actor-Critic
+|   |   +-- Discrete Action Space
+|   |       +-- Softmax Actor-Critic
+|   |       +-- Differential Semi-Gradient SARSA
+|   +-- Not using Average Reward (e.g. for Episodic Tasks a.k.a. Finite Horizon Case)
+|       +-- Learn at each time step
+|       |   +-- Control Problem
+|       |   |   +-- Expected SARSA
+|       |   |   +-- Q-Learning
+|       |   |   +-- SARSA
+|       |   +-- Not a Control Problem
+|       |       +-- Semi-Gradient TD
+|       +-- Not learn at each time step
+|           +-- Gradient Monte Carlo
++-- Function Approximator Methods
+    +-- Access to a model (model-based, part 1/2)
+    |   +-- Control Problem
+    |   |   +-- Value Iteration
+    |   |   +-- Policy Iteration
+    |   +-- Not a Control Problem
+    |   |   +-- Iterative Policy Evaluation
+    +-- No access to a model
+        +-- Will learn a model (model-based, part 2/2)
+        |   +-- Q-Planning
+        |   +-- Dyna-Q+
+        |   +-- Dyna-Q
+        +-- Model-free
+            +-- Learn at each time step
+            |   +-- Control Problem
+            |   |   +-- Q-Learning
+            |   |   +-- Expected SARSA
+            |   |   +-- SARSA
+            |   +-- Not a Control Problem
+            |       +-- TD
+            +-- Not learn at each time step
+                +-- Control Problem
+                |   +-- eplsilon-soft Monte Carlo
+                |   +-- Exploring starts Monte Carlo
+                +-- Not a Control Problem
+                    +-- Off-Policy Monte Carlo
+                    +-- Monte Carlo Prediction
+```
+
+#### DRL algorithm classifaction adapted from CS285 at UC Berkeley
+
+DRL algorithm classifaction adapted from [Deep Reinforcement Learning CS 285 at UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse), Sergey Levine, Fall 2020, Lecture 4.
+
+1. Policy Gradients
+2. Value-based
+3. Actor-critic
+4. Model-based RL
+
+#### Just a random misc RL/DRL algorithms and techniques
+
+REINFORCE, Deep Q-Network (DQN), Expected-SARSA, True Online Temporal-Difference (TD), Double DQN, Truncated Natural Policy Gradient (TNPG), Trust Region Policy Optimization (TRPO), Reward-Weighted Regression, Relative Entropy Policy Search (REPS), Cross Entropy Method (CEM), Advantage-Actor-Critic (A2C), Asynchronous Advantage Actor-Critic (A3C), Actor-critic with Experience Replay (ACER), Actor Critic using Kronecker-Factored Trust Region (ACKTR), Generative Adversarial Imitation Learning (GAIL), Hindsight Experience Replay (HER), Proximal Policy Optimization (PPO, PPO1, PPO2), Ape-X Distributed Prioritized Experience Replay, Continuous DQN (CDQN or NAF), Dueling network DQN (Dueling DQN), Deep SARSA, Multi-Agent Deep Deterministic Policy Gradient (MADDPG), Deep Determisitc Policy Gradient (DDPG).
 
 ### RL/DRL Books
 
