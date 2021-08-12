@@ -289,7 +289,7 @@ Attempting to order by popularity:
 - ChainerRL ([GitHub](https://github.com/chainer/chainerrl)) (API: Python)
 - [learnables/cherry](https://github.com/learnables/cherry) (API: Python) (layer over pytorch)
 - [medipixel/rl_algorithms](https://github.com/medipixel/rl_algorithms)
-- Surreal [GitHub](https://github.com/SurrealAI/surreal)  (API: Python) (support: Stanford Vision and Learning Lab).
+- Surreal [GitHub](https://github.com/SurrealAI/surreal) (API: Python) (support: Stanford Vision and Learning Lab).
 - PyMARL [GitHub](https://github.com/oxwhirl/pymarl) (support: <http://whirl.cs.ox.ac.uk>)
 - TF-Agents: [tensorflow/agents](https://github.com/tensorflow/agents) (uses tensorflow)
 - TensorForce ([GitHub](https://github.com/reinforceio/tensorforce)) (uses tensorflow)
@@ -340,7 +340,7 @@ Should be compatible with OpenAI Gym and also rllab (both mentioned [above](#rld
 
 ### RL/DRL Techniques Misc
 
-- Batch: REINFORCE, Deep Q-Network (DQN),  Expected-SARSA, True Online Temporal-Difference (TD), Double DQN, Truncated Natural Policy Gradient (TNPG), Trust Region Policy Optimization (TRPO), Reward-Weighted Regression, Relative Entropy Policy Search (REPS), Cross Entropy Method (CEM), Advantage-Actor-Critic (A2C), Asynchronous Advantage Actor-Critic (A3C), Actor-critic with Experience Replay (ACER), Actor Critic using Kronecker-Factored Trust Region (ACKTR), Generative Adversarial Imitation Learning (GAIL), Hindsight Experience Replay (HER), Proximal Policy Optimization (PPO, PPO1, PPO2), Ape-X Distributed Prioritized Experience Replay, Continuous DQN (CDQN or NAF), Dueling network DQN (Dueling DQN), Deep SARSA, Multi-Agent Deep Deterministic Policy Gradient (MADDPG).
+- Batch: REINFORCE, Deep Q-Network (DQN), Expected-SARSA, True Online Temporal-Difference (TD), Double DQN, Truncated Natural Policy Gradient (TNPG), Trust Region Policy Optimization (TRPO), Reward-Weighted Regression, Relative Entropy Policy Search (REPS), Cross Entropy Method (CEM), Advantage-Actor-Critic (A2C), Asynchronous Advantage Actor-Critic (A3C), Actor-critic with Experience Replay (ACER), Actor Critic using Kronecker-Factored Trust Region (ACKTR), Generative Adversarial Imitation Learning (GAIL), Hindsight Experience Replay (HER), Proximal Policy Optimization (PPO, PPO1, PPO2), Ape-X Distributed Prioritized Experience Replay, Continuous DQN (CDQN or NAF), Dueling network DQN (Dueling DQN), Deep SARSA, Multi-Agent Deep Deterministic Policy Gradient (MADDPG).
 - Online: Deep Determisitc Policy Gradient (DDPG).
 - Experience Replay.
 
