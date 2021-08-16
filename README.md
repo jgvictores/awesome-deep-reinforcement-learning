@@ -202,6 +202,8 @@ Lists of lists before citing the classics:
 - UCI: <https://archive.ics.uci.edu/ml/datasets.html>
 - Zillow: <https://www.zillow.com/research/data>
 - Open Graph Benchmark: <https://ogb.stanford.edu>
+- <https://data.world>
+- <https://mbejda.github.io/>
 
 #### Image Classification
 
