@@ -71,13 +71,15 @@ Attempling to order software frameworks by popularity:
   - Book: Mike Bernico, "Deep Learning Quick Reference", 2018. [safari](https://proquest.safaribooksonline.com/book/programming/machine-learning/9781788837996)
 - [PyTorch](https://pytorch.org/) (API: Python) (support: Facebook AI Research).
   - Used internally by <http://www.fast.ai>
-- [Torch](http://torch.ch/) (API: Lua) (support: Facebook AI Research).
-  - Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models: [1](https://github.com/karpathy/char-rnn)
 - [TensorFlow](https://www.tensorflow.org) (low-level) (API: Python most stable, JavaScript, C++, Java...) (support: Google).
   - Tutorials: [1](https://medium.com/@tifa2up/image-classification-using-deep-neural-networks-a-beginner-friendly-approach-using-tensorflow-94b0a090ccd4)
 - [Chainer](http://www.chainer.org) ([GitHub](https://github.com/chainer/chainer)) (API: Python) (support: Preferred Networks)
   - Define-by-Run rather than Define-and-Run.
   - In addition to chainerrl below, there is also a chainercv: [1](https://github.com/chainer/chainercv)
+- [OpenCV](https://www.opencv.org) has DNN: <https://docs.opencv.org/3.3.0/d2/d58/tutorial_table_of_content_dnn.html>
+- [Torch](http://torch.ch/) (API: Lua) (support: Facebook AI Research).
+  - Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models: [1](https://github.com/karpathy/char-rnn)
+- [DALI](https://docs.nvidia.com/deeplearning/dali/user-guide/docs/index.html) ([NVIDIA/DALI](https://github.com/NVIDIA/DALI)): A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.
 - [Sonnet](https://deepmind.com/blog/open-sourcing-sonnet/) ([GitHub](https://github.com/deepmind/sonnet)) (layer over: TensorFlow) (API: Python) (support: DeepMind)
 - [MXNet](https://mxnet.apache.org/) (API: Python, C++, Clojure, Julia, Perl, R, Scala) (support: Apache)
   - Tutorial: [1](https://github.com/llSourcell/MXNet)
@@ -87,7 +89,6 @@ Attempling to order software frameworks by popularity:
 - [jittor](https://github.com/Jittor/jittor) (API: Python)
 - [PaddlePaddle](https://github.com/PaddlePaddle/Paddle): PArallel Distributed Deep LEarning
 - [CoreML](https://developer.apple.com/documentation/coreml) (API: Objective-C) (support: Apple)
-- [OpenCV](https://www.opencv.org) now has some DNN: <https://docs.opencv.org/3.3.0/d2/d58/tutorial_table_of_content_dnn.html>
 - Tensorpack ([GitHub](https://github.com/ppwwyyxx/tensorpack)) (a tensorflow wrapper)
 - Ignite ([GitHub](https://github.com/pytorch/ignite)) (a pytorch wrapper)
 - TransmogrifAI ([GitHub](https://github.com/salesforce/TransmogrifAI)) (API: Scala)
