@@ -312,6 +312,7 @@ Attempting to order by popularity:
   - See [dedicated section](#rldrl-gyms)
 - [rll/rllab](https://github.com/rll/rllab) ([readthedocs](http://rllab.readthedocs.io)) (officialy uses theano; in practice has some keras, tensorflow, torch, chainer...)
 - [google/dopamine](https://github.com/google/dopamine) (uses some tensorflow)
+- [MushroomRL/mushroom-rl](https://github.com/MushroomRL/mushroom-rl)
 - [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
 - [deepmind/trfl](https://github.com/deepmind/trfl) (uses tensorflow)
 - [deepmind/open_spiel](https://github.com/deepmind/open_spiel) (uses some tensorflow)
