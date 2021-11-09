@@ -340,7 +340,7 @@ Attempting to order by popularity:
 - TensorForce ([GitHub](https://github.com/reinforceio/tensorforce)) (uses tensorflow)
 - keras-rl ([GitHub](https://github.com/keras-rl/keras-rl)) (uses keras)
 - [RL-Glue](https://sites.google.com/a/rl-community.org/rl-glue/Home/rl-glue) ([Google Code Archive](https://code.google.com/archive/p/rl-glue-ext/wikis/RLGlueCore.wiki)) (API: C/C++, Java, Matlab, Python, Lisp) (support: Alberta)
-- [geek-ai/MAgent](https://github.com/geek-ai/MAgent) (uses tensorflow)
+- [geek-ai/MAgent](https://github.com/Farama-Foundation/MAgent) (uses tensorflow)
 - <http://ray.readthedocs.io/en/latest/rllib.html> (API: Python)
 - <http://burlap.cs.brown.edu/> (API: Java)
 
