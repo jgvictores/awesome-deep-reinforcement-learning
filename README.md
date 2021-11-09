@@ -378,7 +378,7 @@ Should be compatible with OpenAI Gym and also rllab (both mentioned [above](#rld
   - [hill-a/stable-baselines](https://github.com/hill-a/stable-baselines)
 - [rll/rllab](https://github.com/rll/rllab) ([readthedocs](http://rllab.readthedocs.io)) (officialy uses theano; in practice has some keras, tensorflow, torch, chainer...)
 - [MushroomRL/mushroom-rl](https://github.com/MushroomRL/mushroom-rl)
-- [ikostrikov/jaxrl](https://github.com/ikostrikov/jaxrl)
+- [ikostrikov/jaxrl](https://github.com/ikostrikov/jaxrl): JAX (Flax) implementation of algorithms for Deep Reinforcement Learning with continuous action spaces.
 
 ### RL/DRL Benchmarks
 
