@@ -51,7 +51,7 @@ To accomplish this, includes general Machine Learning (ML), Neural Networks (NN)
 
 - [scikit-learn](http://scikit-learn.org) (API: Python)
 - [scikit-image](http://scikit-image.org) (API: Python)
-- [microsoft/DirectML](https://github.com/microsoft/DirectML)
+- [microsoft/DirectML](https://github.com/microsoft/DirectML) (API: C++, Python)
 
 ### General ML Books
 
@@ -86,7 +86,8 @@ Attempling to order software frameworks by popularity:
 - [Darknet](https://pjreddie.com/darknet) (API: C)
 - [ml5](https://ml5js.org/) (API: JavaScript) (a tensorflow.js wrapper)
 - [DL4J](https://deeplearning4j.org/) (API: Java)
-- [sony/nnabla](https://github.com/sony/nnabla)
+- [oneapi-src/oneDNN](https://github.com/oneapi-src/oneDNN) (API: C++)
+- [sony/nnabla](https://github.com/sony/nnabla) (API: C++)
 - [Torch](http://torch.ch/) (API: Lua) (support: Facebook AI Research).
   - Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models: [1](https://github.com/karpathy/char-rnn)
 - [jittor](https://github.com/Jittor/jittor) (API: Python)
