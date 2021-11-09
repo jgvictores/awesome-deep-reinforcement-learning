@@ -29,8 +29,9 @@
     - [NN/DNN Visualization and Explanation](#nndnn-visualization-and-explanation)
   - [Reinforcement Learning (RL) and Deep Reinforcement Learning (DRL)](#reinforcement-learning-rl-and-deep-reinforcement-learning-drl)
     - [RL/DRL Software Frameworks](#rldrl-software-frameworks)
-    - [RL/DRL Gyms](#rldrl-gyms)
-    - [RL/DRL Baselines and Benchmarks](#rldrl-baselines-and-benchmarks)
+    - [RL/DRL OpenAI Gym-Compatible Environments](#rldrl-openai-gym-compatible-environments)
+    - [RL/DRL OpenAI Gym-Compatible Algorithm Implementations](#rldrl-openai-gym-compatible-algorithm-implementations)
+    - [RL/DRL Benchmarks](#rldrl-benchmarks)
     - [RL/DRL Algorithms](#rldrl-algorithms)
       - [RL/DRL algorithm classifaction adapted from Reinforcement Learning Specialization](#rldrl-algorithm-classifaction-adapted-from-reinforcement-learning-specialization)
       - [DRL algorithm classifaction adapted from CS285 at UC Berkeley](#drl-algorithm-classifaction-adapted-from-cs285-at-uc-berkeley)
@@ -312,7 +313,6 @@ Attempting to order by popularity:
   - See [dedicated section](#rldrl-gyms)
 - [rll/rllab](https://github.com/rll/rllab) ([readthedocs](http://rllab.readthedocs.io)) (officialy uses theano; in practice has some keras, tensorflow, torch, chainer...)
 - [google/dopamine](https://github.com/google/dopamine) (uses some tensorflow)
-- [MushroomRL/mushroom-rl](https://github.com/MushroomRL/mushroom-rl)
 - [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
 - [deepmind/trfl](https://github.com/deepmind/trfl) (uses tensorflow)
 - [deepmind/open_spiel](https://github.com/deepmind/open_spiel) (uses some tensorflow)
@@ -343,7 +343,7 @@ Attempting to order by popularity:
 - <http://ray.readthedocs.io/en/latest/rllib.html> (API: Python)
 - <http://burlap.cs.brown.edu/> (API: Java)
 
-### RL/DRL Gyms
+### RL/DRL OpenAI Gym-Compatible Environments
 
 Should be compatible with OpenAI Gym and also rllab (both mentioned [above](#rldrl-software-frameworks)).
 
@@ -373,14 +373,19 @@ Should be compatible with OpenAI Gym and also rllab (both mentioned [above](#rld
 - [denisyarats/dmc2gym](https://github.com/denisyarats/dmc2gym)
 - Even more: [Phylliade/awesome-openai-gym-environments](https://github.com/Phylliade/awesome-openai-gym-environments)
 
-### RL/DRL Baselines and Benchmarks
+### RL/DRL OpenAI Gym-Compatible Algorithm Implementations
+
+- [openai/baselines](https://github.com/openai/baselines)
+  - [hill-a/stable-baselines](https://github.com/hill-a/stable-baselines)
+- [MushroomRL/mushroom-rl](https://github.com/MushroomRL/mushroom-rl)
+- [ikostrikov/jaxrl](https://github.com/ikostrikov/jaxrl)
+
+### RL/DRL Benchmarks
 
 - [ROBEL](https://sites.google.com/view/roboticsbenchmarks) ([google-research/robel](https://github.com/google-research/robel/))
 - [google-research/rl-reliability-metrics](https://github.com/google-research/rl-reliability-metrics)
 - [google-research/rliable](https://github.com/google-research/rliable)
 - [RLBench](https://sites.google.com/view/rlbench) ([stepjam/RLBench](https://github.com/stepjam/RLBench))
-- [openai/baselines](https://github.com/openai/baselines)
-  - [hill-a/stable-baselines](https://github.com/hill-a/stable-baselines)
 - <https://martin-thoma.com/sota/#reinforcment-learning>
 - [rlworkgroup/garage](https://github.com/rlworkgroup/garage)
 
