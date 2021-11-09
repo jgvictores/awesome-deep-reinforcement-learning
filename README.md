@@ -311,9 +311,7 @@ Attempting to order by popularity:
 - [OpenAI Gym](https://gym.openai.com) ([openai/gym](https://github.com/openai/gym)) ([docs](https://gym.openai.com/docs/))
   - <https://www.oreilly.com/learning/introduction-to-reinforcement-learning-and-openai-gym>
   - See [dedicated section](#rldrl-gyms)
-- [rll/rllab](https://github.com/rll/rllab) ([readthedocs](http://rllab.readthedocs.io)) (officialy uses theano; in practice has some keras, tensorflow, torch, chainer...)
 - [google/dopamine](https://github.com/google/dopamine) (uses some tensorflow)
-- [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
 - [deepmind/trfl](https://github.com/deepmind/trfl) (uses tensorflow)
 - [deepmind/open_spiel](https://github.com/deepmind/open_spiel) (uses some tensorflow)
 - [deepmind/acme](https://github.com/deepmind/acme)
@@ -349,6 +347,7 @@ Should be compatible with OpenAI Gym and also rllab (both mentioned [above](#rld
 
 - [openai/gym/blob/master/docs/environments.md#third-party-environments](https://github.com/openai/gym/blob/master/docs/environments.md#third-party-environments)
 - ~[openai/roboschool](https://github.com/openai/roboschool)~ (DEPRECATED)
+- [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
 - [koulanurag/ma-gym](https://github.com/koulanurag/ma-gym) (multiagent)
 - [openai/gym-soccer](https://github.com/openai/gym-soccer)
 - [erlerobot/gym-gazebo](https://github.com/erlerobot/gym-gazebo)
@@ -377,6 +376,7 @@ Should be compatible with OpenAI Gym and also rllab (both mentioned [above](#rld
 
 - [openai/baselines](https://github.com/openai/baselines)
   - [hill-a/stable-baselines](https://github.com/hill-a/stable-baselines)
+- [rll/rllab](https://github.com/rll/rllab) ([readthedocs](http://rllab.readthedocs.io)) (officialy uses theano; in practice has some keras, tensorflow, torch, chainer...)
 - [MushroomRL/mushroom-rl](https://github.com/MushroomRL/mushroom-rl)
 - [ikostrikov/jaxrl](https://github.com/ikostrikov/jaxrl)
 
