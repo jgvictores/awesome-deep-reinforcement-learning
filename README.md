@@ -51,6 +51,7 @@ To accomplish this, includes general Machine Learning (ML), Neural Networks (NN)
 
 - [scikit-learn](http://scikit-learn.org) (API: Python)
 - [scikit-image](http://scikit-image.org) (API: Python)
+- [microsoft/DirectML](https://github.com/microsoft/DirectML)
 
 ### General ML Books
 
