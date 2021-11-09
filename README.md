@@ -351,6 +351,7 @@ Should be compatible with OpenAI Gym and also rllab (both mentioned [above](#rld
 - [openai/gym/blob/master/docs/environments.md#third-party-environments](https://github.com/openai/gym/blob/master/docs/environments.md#third-party-environments)
 - ~[openai/roboschool](https://github.com/openai/roboschool)~ (DEPRECATED)
 - [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
+- [deepmind/bsuite](https://github.com/deepmind/bsuite)
 - [koulanurag/ma-gym](https://github.com/koulanurag/ma-gym) (multiagent)
 - [openai/gym-soccer](https://github.com/openai/gym-soccer)
 - [erlerobot/gym-gazebo](https://github.com/erlerobot/gym-gazebo)
@@ -380,6 +381,7 @@ Should be compatible with OpenAI Gym and also rllab (both mentioned [above](#rld
 - [openai/baselines](https://github.com/openai/baselines)
   - [hill-a/stable-baselines](https://github.com/hill-a/stable-baselines)
 - [rll/rllab](https://github.com/rll/rllab) ([readthedocs](http://rllab.readthedocs.io)) (officialy uses theano; in practice has some keras, tensorflow, torch, chainer...)
+- [deepmind/bsuite](https://github.com/deepmind/bsuite)
 - [MushroomRL/mushroom-rl](https://github.com/MushroomRL/mushroom-rl)
 - [ikostrikov/jaxrl](https://github.com/ikostrikov/jaxrl): JAX (Flax) implementation of algorithms for Deep Reinforcement Learning with continuous action spaces.
 
