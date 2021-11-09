@@ -66,20 +66,18 @@ To accomplish this, includes general Machine Learning (ML), Neural Networks (NN)
 
 Attempling to order software frameworks by popularity:
 
+- [PyTorch](https://pytorch.org/) (API: Python) (support: Facebook AI Research).
 - [Keras](https://keras.io) (layer over: TensorFlow, theano...) (API: Python) (support: Google). [wikipedia](https://en.wikipedia.org/wiki/Keras)
   - Examples/tutorials: [keras](https://github.com/keras-team/keras/blob/master/examples), [1](https://www.datacamp.com/community/tutorials/deep-learning-python), [2](https://elitedatascience.com/keras-tutorial-deep-learning-in-python)
   - Book: Antonio Gulli and Sujit Pal, "Deep Learning with Keras", 2017. [safari](https://proquest.safaribooksonline.com/book/programming/machine-learning/9781787128422)
   - Book: Mike Bernico, "Deep Learning Quick Reference", 2018. [safari](https://proquest.safaribooksonline.com/book/programming/machine-learning/9781788837996)
-- [PyTorch](https://pytorch.org/) (API: Python) (support: Facebook AI Research).
   - Used internally by <http://www.fast.ai>
 - [TensorFlow](https://www.tensorflow.org) (low-level) (API: Python most stable, JavaScript, C++, Java...) (support: Google).
   - Tutorials: [1](https://medium.com/@tifa2up/image-classification-using-deep-neural-networks-a-beginner-friendly-approach-using-tensorflow-94b0a090ccd4)
+- [OpenCV](https://www.opencv.org) has DNN: <https://docs.opencv.org/3.3.0/d2/d58/tutorial_table_of_content_dnn.html>
 - [Chainer](http://www.chainer.org) ([GitHub](https://github.com/chainer/chainer)) (API: Python) (support: Preferred Networks)
   - Define-by-Run rather than Define-and-Run.
   - In addition to chainerrl below, there is also a chainercv: [1](https://github.com/chainer/chainercv)
-- [OpenCV](https://www.opencv.org) has DNN: <https://docs.opencv.org/3.3.0/d2/d58/tutorial_table_of_content_dnn.html>
-- [Torch](http://torch.ch/) (API: Lua) (support: Facebook AI Research).
-  - Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models: [1](https://github.com/karpathy/char-rnn)
 - [DALI](https://docs.nvidia.com/deeplearning/dali/user-guide/docs/index.html) ([NVIDIA/DALI](https://github.com/NVIDIA/DALI)): A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.
 - [Sonnet](https://deepmind.com/blog/open-sourcing-sonnet/) ([GitHub](https://github.com/deepmind/sonnet)) (layer over: TensorFlow) (API: Python) (support: DeepMind)
 - [MXNet](https://mxnet.apache.org/) (API: Python, C++, Clojure, Julia, Perl, R, Scala) (support: Apache)
@@ -87,6 +85,9 @@ Attempling to order software frameworks by popularity:
 - [Darknet](https://pjreddie.com/darknet) (API: C)
 - [ml5](https://ml5js.org/) (API: JavaScript) (a tensorflow.js wrapper)
 - [DL4J](https://deeplearning4j.org/) (API: Java)
+- [sony/nnabla](https://github.com/sony/nnabla)
+- [Torch](http://torch.ch/) (API: Lua) (support: Facebook AI Research).
+  - Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models: [1](https://github.com/karpathy/char-rnn)
 - [jittor](https://github.com/Jittor/jittor) (API: Python)
 - [PaddlePaddle](https://github.com/PaddlePaddle/Paddle): PArallel Distributed Deep LEarning
 - [CoreML](https://developer.apple.com/documentation/coreml) (API: Objective-C) (support: Apple)
