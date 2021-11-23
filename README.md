@@ -144,6 +144,7 @@ Overviews: [1](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need
 - [chihming/awesome-network-embedding](https://github.com/chihming/awesome-network-embedding)
 - [DLG](http://dgl.ai/): [dmlc/dgl](https://github.com/dmlc/dgl)
 - "Signed Graph Convolutional Network" (ICDM 2018); [pytorch](https://github.com/benedekrozemberczki/SGCN)
+- [tensorflow/gnn](https://github.com/tensorflow/gnn)
 
 #### Generative Models
 
