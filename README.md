@@ -23,6 +23,7 @@
       - [Motion](#motion)
       - [Text](#text)
       - [Signal Separation](#signal-separation)
+      - [Swiping (mobile text entry gesture typing)](#swiping-mobile-text-entry-gesture-typing)
     - [NN/DNN Benchmarks](#nndnn-benchmarks)
     - [NN/DNN Pretrained Models](#nndnn-pretrained-models)
     - [NN/DNN Techniques Misc](#nndnn-techniques-misc)
@@ -250,6 +251,10 @@ Lists of lists before citing the classics:
 #### Signal Separation
 
 - SigSep: <https://sigsep.github.io/datasets/>
+
+#### Swiping (mobile text entry gesture typing)
+
+- How-We-Swipe Shape-writing Dataset: <https://osf.io/sj67f/>, [DOI: 10.1145/3447526.3472059](https://www.doi.org/10.1145/3447526.3472059)
 
 ### NN/DNN Benchmarks
 
