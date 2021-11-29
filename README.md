@@ -324,6 +324,7 @@ Attempting to order by popularity:
 - [deepmind/trfl](https://github.com/deepmind/trfl) (uses tensorflow)
 - [deepmind/open_spiel](https://github.com/deepmind/open_spiel) (uses some tensorflow)
 - [deepmind/acme](https://github.com/deepmind/acme)
+  - [ethanluoyc/magi](https://github.com/ethanluoyc/magi)
 - Keras
   - <https://becominghuman.ai/lets-build-an-atari-ai-part-0-intro-to-rl-9b2c5336e0ec>
   - [haarnoja/sac](https://github.com/haarnoja/sac)
