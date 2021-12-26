@@ -29,15 +29,15 @@
     - [NN/DNN Techniques Misc](#nndnn-techniques-misc)
     - [NN/DNN Visualization and Explanation](#nndnn-visualization-and-explanation)
   - [Reinforcement Learning (RL) and Deep Reinforcement Learning (DRL)](#reinforcement-learning-rl-and-deep-reinforcement-learning-drl)
+    - [RL/DRL Algorithms](#rldrl-algorithms)
+      - [RL/DRL algorithm classification adapted from Reinforcement Learning Specialization](#rldrl-algorithm-classification-adapted-from-reinforcement-learning-specialization)
+      - [DRL algorithm classification adapted from CS285 at UC Berkeley](#drl-algorithm-classification-adapted-from-cs285-at-uc-berkeley)
+      - [Just a random misc RL/DRL algorithms and techniques](#just-a-random-misc-rldrl-algorithms-and-techniques)
     - [RL/DRL Software Frameworks](#rldrl-software-frameworks)
     - [RL/DRL OpenAI Gym-Compatible Environments](#rldrl-openai-gym-compatible-environments)
     - [RL/DRL OpenAI Gym-Compatible Algorithm Implementations](#rldrl-openai-gym-compatible-algorithm-implementations)
     - [RL/DRL Benchmarks](#rldrl-benchmarks)
     - [RL/DRL Datasets](#rldrl-datasets)
-    - [RL/DRL Algorithms](#rldrl-algorithms)
-      - [RL/DRL algorithm classification adapted from Reinforcement Learning Specialization](#rldrl-algorithm-classification-adapted-from-reinforcement-learning-specialization)
-      - [DRL algorithm classification adapted from CS285 at UC Berkeley](#drl-algorithm-classification-adapted-from-cs285-at-uc-berkeley)
-      - [Just a random misc RL/DRL algorithms and techniques](#just-a-random-misc-rldrl-algorithms-and-techniques)
     - [RL/DRL Books](#rldrl-books)
   - [Evolutionary Algorithms (EA)](#evolutionary-algorithms-ea)
   - [Misc Tools](#misc-tools)
@@ -314,6 +314,72 @@ Lists of lists before citing the classics:
 
 ## Reinforcement Learning (RL) and Deep Reinforcement Learning (DRL)
 
+### RL/DRL Algorithms
+
+#### RL/DRL algorithm classification adapted from Reinforcement Learning Specialization
+
+Classification of RL algorithms adapted from [Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning) (Martha & Adam White, from University of Alberta and Alberta Machine Intelligence Institute, on Coursera, 2019-20). Note that another major separation is off/on policy RL algorithms. DRL methods would fit into function approximators.
+
+```text
++-- Tablular Methods
+|   +-- Average Reward (e.g. for Continuing Tasks a.k.a. Infinite Horizon Case)
+|   |   +-- Continuous Action Space
+|   |   |   +-- Gaussian Actor-Critic
+|   |   +-- Discrete Action Space
+|   |       +-- Softmax Actor-Critic
+|   |       +-- Differential Semi-Gradient SARSA
+|   +-- Not using Average Reward (e.g. for Episodic Tasks a.k.a. Finite Horizon Case)
+|       +-- Learn at each time step
+|       |   +-- Control Problem
+|       |   |   +-- Expected SARSA
+|       |   |   +-- Q-Learning
+|       |   |   +-- SARSA
+|       |   +-- Not a Control Problem
+|       |       +-- Semi-Gradient TD
+|       +-- Not learn at each time step
+|           +-- Gradient Monte Carlo
++-- Function Approximator Methods
+    +-- Access to a model (model-based, part 1/2)
+    |   +-- Control Problem
+    |   |   +-- Value Iteration
+    |   |   +-- Policy Iteration
+    |   +-- Not a Control Problem
+    |   |   +-- Iterative Policy Evaluation
+    +-- No access to a model
+        +-- Will learn a model (model-based, part 2/2)
+        |   +-- Q-Planning
+        |   +-- Dyna-Q+
+        |   +-- Dyna-Q
+        +-- Model-free
+            +-- Learn at each time step
+            |   +-- Control Problem
+            |   |   +-- Q-Learning
+            |   |   +-- Expected SARSA
+            |   |   +-- SARSA
+            |   +-- Not a Control Problem
+            |       +-- TD
+            +-- Not learn at each time step
+                +-- Control Problem
+                |   +-- eplsilon-soft Monte Carlo
+                |   +-- Exploring starts Monte Carlo
+                +-- Not a Control Problem
+                    +-- Off-Policy Monte Carlo
+                    +-- Monte Carlo Prediction
+```
+
+#### DRL algorithm classification adapted from CS285 at UC Berkeley
+
+DRL algorithm classification adapted from [Deep Reinforcement Learning CS 285 at UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse), Sergey Levine, [Fall 2020](http://rail.eecs.berkeley.edu/deeprlcourse-fa20/), Lecture 4.
+
+1. Policy Gradients
+2. Value-based
+3. Actor-critic
+4. Model-based RL
+
+#### Just a random misc RL/DRL algorithms and techniques
+
+REINFORCE (on-policy policy gradient; Williams, 1992), Deep Q-Network (DQN), Expected-SARSA, True Online Temporal-Difference (TD), Double DQN, Truncated Natural Policy Gradient (TNPG), Trust Region Policy Optimization (TRPO), Reward-Weighted Regression, Relative Entropy Policy Search (REPS), Cross Entropy Method (CEM), Advantage-Actor-Critic (A2C), Asynchronous Advantage Actor-Critic (A3C), Actor-critic with Experience Replay (ACER), Actor Critic using Kronecker-Factored Trust Region (ACKTR), Generative Adversarial Imitation Learning (GAIL), Hindsight Experience Replay (HER), Proximal Policy Optimization (PPO, PPO1, PPO2), Ape-X Distributed Prioritized Experience Replay, Continuous DQN (CDQN or NAF), Dueling network DQN (Dueling DQN), Deep SARSA, Multi-Agent Deep Deterministic Policy Gradient (MADDPG), Deep Determisitc Policy Gradient (DDPG).
+
 ### RL/DRL Software Frameworks
 
 Attempting to order by popularity:
@@ -405,72 +471,6 @@ Should be compatible with OpenAI Gym and also rllab (both mentioned [above](#rld
 ### RL/DRL Datasets
 
 - [rail-berkeley/d4rl](https://github.com/rail-berkeley/d4rl)
-
-### RL/DRL Algorithms
-
-#### RL/DRL algorithm classification adapted from Reinforcement Learning Specialization
-
-Classification of RL algorithms adapted from [Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning) (Martha & Adam White, from University of Alberta and Alberta Machine Intelligence Institute, on Coursera, 2019-20). Note that another major separation is off/on policy RL algorithms. DRL methods would fit into function approximators.
-
-```text
-+-- Tablular Methods
-|   +-- Average Reward (e.g. for Continuing Tasks a.k.a. Infinite Horizon Case)
-|   |   +-- Continuous Action Space
-|   |   |   +-- Gaussian Actor-Critic
-|   |   +-- Discrete Action Space
-|   |       +-- Softmax Actor-Critic
-|   |       +-- Differential Semi-Gradient SARSA
-|   +-- Not using Average Reward (e.g. for Episodic Tasks a.k.a. Finite Horizon Case)
-|       +-- Learn at each time step
-|       |   +-- Control Problem
-|       |   |   +-- Expected SARSA
-|       |   |   +-- Q-Learning
-|       |   |   +-- SARSA
-|       |   +-- Not a Control Problem
-|       |       +-- Semi-Gradient TD
-|       +-- Not learn at each time step
-|           +-- Gradient Monte Carlo
-+-- Function Approximator Methods
-    +-- Access to a model (model-based, part 1/2)
-    |   +-- Control Problem
-    |   |   +-- Value Iteration
-    |   |   +-- Policy Iteration
-    |   +-- Not a Control Problem
-    |   |   +-- Iterative Policy Evaluation
-    +-- No access to a model
-        +-- Will learn a model (model-based, part 2/2)
-        |   +-- Q-Planning
-        |   +-- Dyna-Q+
-        |   +-- Dyna-Q
-        +-- Model-free
-            +-- Learn at each time step
-            |   +-- Control Problem
-            |   |   +-- Q-Learning
-            |   |   +-- Expected SARSA
-            |   |   +-- SARSA
-            |   +-- Not a Control Problem
-            |       +-- TD
-            +-- Not learn at each time step
-                +-- Control Problem
-                |   +-- eplsilon-soft Monte Carlo
-                |   +-- Exploring starts Monte Carlo
-                +-- Not a Control Problem
-                    +-- Off-Policy Monte Carlo
-                    +-- Monte Carlo Prediction
-```
-
-#### DRL algorithm classification adapted from CS285 at UC Berkeley
-
-DRL algorithm classification adapted from [Deep Reinforcement Learning CS 285 at UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse), Sergey Levine, [Fall 2020](http://rail.eecs.berkeley.edu/deeprlcourse-fa20/), Lecture 4.
-
-1. Policy Gradients
-2. Value-based
-3. Actor-critic
-4. Model-based RL
-
-#### Just a random misc RL/DRL algorithms and techniques
-
-REINFORCE (on-policy policy gradient; Williams, 1992), Deep Q-Network (DQN), Expected-SARSA, True Online Temporal-Difference (TD), Double DQN, Truncated Natural Policy Gradient (TNPG), Trust Region Policy Optimization (TRPO), Reward-Weighted Regression, Relative Entropy Policy Search (REPS), Cross Entropy Method (CEM), Advantage-Actor-Critic (A2C), Asynchronous Advantage Actor-Critic (A3C), Actor-critic with Experience Replay (ACER), Actor Critic using Kronecker-Factored Trust Region (ACKTR), Generative Adversarial Imitation Learning (GAIL), Hindsight Experience Replay (HER), Proximal Policy Optimization (PPO, PPO1, PPO2), Ape-X Distributed Prioritized Experience Replay, Continuous DQN (CDQN or NAF), Dueling network DQN (Dueling DQN), Deep SARSA, Multi-Agent Deep Deterministic Policy Gradient (MADDPG), Deep Determisitc Policy Gradient (DDPG).
 
 ### RL/DRL Books
 
