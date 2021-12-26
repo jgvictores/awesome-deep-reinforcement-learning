@@ -33,6 +33,7 @@
     - [RL/DRL OpenAI Gym-Compatible Environments](#rldrl-openai-gym-compatible-environments)
     - [RL/DRL OpenAI Gym-Compatible Algorithm Implementations](#rldrl-openai-gym-compatible-algorithm-implementations)
     - [RL/DRL Benchmarks](#rldrl-benchmarks)
+    - [RL/DRL Datasets](#rldrl-datasets)
     - [RL/DRL Algorithms](#rldrl-algorithms)
       - [RL/DRL algorithm classification adapted from Reinforcement Learning Specialization](#rldrl-algorithm-classification-adapted-from-reinforcement-learning-specialization)
       - [DRL algorithm classification adapted from CS285 at UC Berkeley](#drl-algorithm-classification-adapted-from-cs285-at-uc-berkeley)
@@ -400,6 +401,10 @@ Should be compatible with OpenAI Gym and also rllab (both mentioned [above](#rld
 - [RLBench](https://sites.google.com/view/rlbench) ([stepjam/RLBench](https://github.com/stepjam/RLBench))
 - <https://martin-thoma.com/sota/#reinforcment-learning>
 - [rlworkgroup/garage](https://github.com/rlworkgroup/garage)
+
+### RL/DRL Datasets
+
+- [rail-berkeley/d4rl](https://github.com/rail-berkeley/d4rl)
 
 ### RL/DRL Algorithms
 
