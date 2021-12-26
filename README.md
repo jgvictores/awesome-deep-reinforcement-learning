@@ -34,8 +34,8 @@
     - [RL/DRL OpenAI Gym-Compatible Algorithm Implementations](#rldrl-openai-gym-compatible-algorithm-implementations)
     - [RL/DRL Benchmarks](#rldrl-benchmarks)
     - [RL/DRL Algorithms](#rldrl-algorithms)
-      - [RL/DRL algorithm classifaction adapted from Reinforcement Learning Specialization](#rldrl-algorithm-classifaction-adapted-from-reinforcement-learning-specialization)
-      - [DRL algorithm classifaction adapted from CS285 at UC Berkeley](#drl-algorithm-classifaction-adapted-from-cs285-at-uc-berkeley)
+      - [RL/DRL algorithm classification adapted from Reinforcement Learning Specialization](#rldrl-algorithm-classification-adapted-from-reinforcement-learning-specialization)
+      - [DRL algorithm classification adapted from CS285 at UC Berkeley](#drl-algorithm-classification-adapted-from-cs285-at-uc-berkeley)
       - [Just a random misc RL/DRL algorithms and techniques](#just-a-random-misc-rldrl-algorithms-and-techniques)
     - [RL/DRL Books](#rldrl-books)
   - [Evolutionary Algorithms (EA)](#evolutionary-algorithms-ea)
@@ -403,7 +403,7 @@ Should be compatible with OpenAI Gym and also rllab (both mentioned [above](#rld
 
 ### RL/DRL Algorithms
 
-#### RL/DRL algorithm classifaction adapted from Reinforcement Learning Specialization
+#### RL/DRL algorithm classification adapted from Reinforcement Learning Specialization
 
 Classification of RL algorithms adapted from [Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning) (Martha & Adam White, from University of Alberta and Alberta Machine Intelligence Institute, on Coursera, 2019-20). Note that another major separation is off/on policy RL algorithms. DRL methods would fit into function approximators.
 
@@ -454,9 +454,9 @@ Classification of RL algorithms adapted from [Reinforcement Learning Specializat
                     +-- Monte Carlo Prediction
 ```
 
-#### DRL algorithm classifaction adapted from CS285 at UC Berkeley
+#### DRL algorithm classification adapted from CS285 at UC Berkeley
 
-DRL algorithm classifaction adapted from [Deep Reinforcement Learning CS 285 at UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse), Sergey Levine, [Fall 2020](http://rail.eecs.berkeley.edu/deeprlcourse-fa20/), Lecture 4.
+DRL algorithm classification adapted from [Deep Reinforcement Learning CS 285 at UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse), Sergey Levine, [Fall 2020](http://rail.eecs.berkeley.edu/deeprlcourse-fa20/), Lecture 4.
 
 1. Policy Gradients
 2. Value-based
