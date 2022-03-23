@@ -424,6 +424,7 @@ Should be compatible with OpenAI Gym and also rllab (both mentioned [above](#rld
 
 - [openai/gym/blob/master/docs/environments.md#third-party-environments](https://github.com/openai/gym/blob/master/docs/environments.md#third-party-environments)
 - ~[openai/roboschool](https://github.com/openai/roboschool)~ (DEPRECATED)
+- [NVIDIA-Omniverse/IsaacGymEnvs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)
 - [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
 - [deepmind/bsuite](https://github.com/deepmind/bsuite)
 - [koulanurag/ma-gym](https://github.com/koulanurag/ma-gym) (multiagent)
