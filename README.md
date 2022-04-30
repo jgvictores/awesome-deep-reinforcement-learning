@@ -304,11 +304,12 @@ Lists of lists before citing the classics:
 
 ### NN/DNN Visualization and Explanation
 
+- [tensorboard](https://www.tensorflow.org/tensorboard)
+- [tensorboardX](https://github.com/lanpa/tensorboardX): tensorboard for pytorch, chainer, mxnet, numpy...
 - Keras: [keras](https://keras.io/visualization/), [1](https://machinelearningmastery.com/visualize-deep-learning-neural-network-model-keras/), [2](https://github.com/keplr-io/quiver), [3](https://raghakot.github.io/keras-vis/), [4](https://www.kaggle.com/amarjeet007/visualize-cnn-with-keras)
 - Tensorflow: [tensorflow online demo](http://playground.tensorflow.org)
 - Pytorch: [loss-landscape](https://github.com/tomgoldstein/loss-landscape), [gandissect](https://github.com/CSAILVision/gandissect)
 - Caffe: [netscope](http://ethereon.github.io/netscope) / [cnnvisualizer](https://github.com/metalbubble/cnnvisualizer)
-- [tensorboardX](https://github.com/lanpa/tensorboardX): tensorboard for pytorch, chainer, mxnet, numpy...
 - SHAP (SHapley Additive exPlanations): [slundberg/shap](https://github.com/slundberg/shap)
 - XAI (An eXplainability toolbox for machine learning): [EthicalML/xai](https://github.com/EthicalML/xai)
 
