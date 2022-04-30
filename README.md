@@ -36,7 +36,7 @@
     - [RL/DRL Software Frameworks](#rldrl-software-frameworks)
     - [RL/DRL OpenAI Gym-Compatible Environments](#rldrl-openai-gym-compatible-environments)
     - [RL/DRL OpenAI Gym-Compatible Algorithm Implementations](#rldrl-openai-gym-compatible-algorithm-implementations)
-    - [RL/DRL Benchmarks](#rldrl-benchmarks)
+    - [RL/DRL Benchmarking](#rldrl-benchmarking)
     - [RL/DRL Datasets](#rldrl-datasets)
     - [RL/DRL Books](#rldrl-books)
   - [Evolutionary Algorithms (EA)](#evolutionary-algorithms-ea)
@@ -427,7 +427,8 @@ Should be compatible with OpenAI Gym and also rllab (both mentioned [above](#rld
 - ~[openai/roboschool](https://github.com/openai/roboschool)~ (DEPRECATED)
 - [NVIDIA-Omniverse/IsaacGymEnvs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)
 - [leggedrobotics/legged_gym](https://github.com/leggedrobotics/legged_gym)
-- [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) (includes design of environments, and algorithm implementations)
+- [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) (Environments, Algorithms) (includes design of environments)
+- [deepmind/bsuite](https://github.com/deepmind/bsuite) (Environments, Algorithms, Benchmarking)
 - [koulanurag/ma-gym](https://github.com/koulanurag/ma-gym) (multiagent)
 - [openai/gym-soccer](https://github.com/openai/gym-soccer)
 - [erlerobot/gym-gazebo](https://github.com/erlerobot/gym-gazebo)
@@ -458,11 +459,12 @@ Should be compatible with OpenAI Gym and also rllab (both mentioned [above](#rld
 - [openai/baselines](https://github.com/openai/baselines)
   - [hill-a/stable-baselines](https://github.com/hill-a/stable-baselines)
 - [rll/rllab](https://github.com/rll/rllab) ([readthedocs](http://rllab.readthedocs.io)) (officialy uses theano; in practice has some keras, tensorflow, torch, chainer...)
-- [deepmind/bsuite](https://github.com/deepmind/bsuite)
+- [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) (Environments, Algorithms) (includes design of environments)
+- [deepmind/bsuite](https://github.com/deepmind/bsuite) (Environments, Algorithm Implementations, Benchmarking)
 - [MushroomRL/mushroom-rl](https://github.com/MushroomRL/mushroom-rl)
 - [ikostrikov/jaxrl](https://github.com/ikostrikov/jaxrl): JAX (Flax) implementation of algorithms for Deep Reinforcement Learning with continuous action spaces.
 
-### RL/DRL Benchmarks
+### RL/DRL Benchmarking
 
 - [ROBEL](https://sites.google.com/view/roboticsbenchmarks) ([google-research/robel](https://github.com/google-research/robel/))
 - [google-research/rl-reliability-metrics](https://github.com/google-research/rl-reliability-metrics)
@@ -470,7 +472,7 @@ Should be compatible with OpenAI Gym and also rllab (both mentioned [above](#rld
 - [RLBench](https://sites.google.com/view/rlbench) ([stepjam/RLBench](https://github.com/stepjam/RLBench))
 - <https://martin-thoma.com/sota/#reinforcment-learning>
 - [rlworkgroup/garage](https://github.com/rlworkgroup/garage)
-- [deepmind/bsuite](https://github.com/deepmind/bsuite)
+- [deepmind/bsuite](https://github.com/deepmind/bsuite) (Environments, Algorithm Implementations, Benchmarking)
 
 ### RL/DRL Datasets
 
