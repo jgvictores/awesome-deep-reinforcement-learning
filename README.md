@@ -426,14 +426,14 @@ Should be compatible with OpenAI Gym and also rllab (both mentioned [above](#rld
 - ~[openai/roboschool](https://github.com/openai/roboschool)~ (DEPRECATED)
 - [NVIDIA-Omniverse/IsaacGymEnvs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)
 - [leggedrobotics/legged_gym](https://github.com/leggedrobotics/legged_gym)
-- [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
-- [deepmind/bsuite](https://github.com/deepmind/bsuite)
+- [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) (includes design of environments, and algorithm implementations)
 - [koulanurag/ma-gym](https://github.com/koulanurag/ma-gym) (multiagent)
 - [openai/gym-soccer](https://github.com/openai/gym-soccer)
 - [erlerobot/gym-gazebo](https://github.com/erlerobot/gym-gazebo)
 - [robotology/gym-ignition](https://github.com/robotology/gym-ignition)
 - [dartsim/gym-dart](https://github.com/dartsim/gym-dart)
 - [Roboy/gym-roboy](https://github.com/Roboy/gym-roboy)
+- [kngwyu/mujoco-maze](https://github.com/kngwyu/mujoco-maze)
 - [ucuapps/modelicagym](https://github.com/ucuapps/modelicagym)
 - [openai/safety-gym](https://github.com/openai/safety-gym)
 - [openai/retro](https://github.com/openai/retro)
@@ -469,6 +469,7 @@ Should be compatible with OpenAI Gym and also rllab (both mentioned [above](#rld
 - [RLBench](https://sites.google.com/view/rlbench) ([stepjam/RLBench](https://github.com/stepjam/RLBench))
 - <https://martin-thoma.com/sota/#reinforcment-learning>
 - [rlworkgroup/garage](https://github.com/rlworkgroup/garage)
+- [deepmind/bsuite](https://github.com/deepmind/bsuite)
 
 ### RL/DRL Datasets
 
