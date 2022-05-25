@@ -507,3 +507,4 @@ Only accounting those with same objective as RL.
 - [kengz/awesome-deep-rl](https://github.com/kengz/awesome-deep-rl)
 - [williamd4112/awesome-deep-reinforcement-learning](https://github.com/williamd4112/awesome-deep-reinforcement-learning)
 - [terryum/awesome-deep-learning-papers#new-papers](https://github.com/terryum/awesome-deep-learning-papers#new-papers)
+- [hanjuku-kaso/awesome-offline-rl](https://github.com/hanjuku-kaso/awesome-offline-rl)
