@@ -398,6 +398,7 @@ Attempting to order by popularity:
   - [haarnoja/sac](https://github.com/haarnoja/sac)
   - [SoyGema/Startcraft_pysc2_minigames](https://github.com/SoyGema/Startcraft_pysc2_minigames)
 - PyTorch
+  - [facebookresearch/rl](https://github.com/facebookresearch/rl)
   - [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl)
   - [qfettes/DeepRL-Tutorials](https://github.com/qfettes/DeepRL-Tutorials)
   - [astooke/rlpyt](https://github.com/astooke/rlpyt)
