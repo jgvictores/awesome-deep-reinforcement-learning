@@ -477,6 +477,7 @@ Should be compatible with OpenAI Gym and also rllab (both mentioned [above](#rld
 
 ### RL/DRL Datasets
 
+- [google-research/rlds](https://github.com/google-research/rlds)
 - [rail-berkeley/d4rl](https://github.com/rail-berkeley/d4rl)
 
 ### RL/DRL Books
