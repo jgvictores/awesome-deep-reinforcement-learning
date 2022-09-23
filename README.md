@@ -425,7 +425,7 @@ Attempting to order by popularity:
 
 Should be compatible with OpenAI Gym and also rllab (both mentioned [above](#rldrl-software-frameworks)).
 
-- [openai/gym/blob/master/docs/environments.md#third-party-environments](https://github.com/openai/gym/blob/master/docs/environments.md#third-party-environments)
+- [https://www.gymlibrary.dev/environments/third_party_environments](https://www.gymlibrary.dev/environments/third_party_environments)
 - ~[openai/roboschool](https://github.com/openai/roboschool)~ (DEPRECATED)
 - [NVIDIA-Omniverse/IsaacGymEnvs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)
 - [leggedrobotics/legged_gym](https://github.com/leggedrobotics/legged_gym)
