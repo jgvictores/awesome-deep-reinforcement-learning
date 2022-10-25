@@ -32,6 +32,7 @@
     - [RL/DRL Algorithms](#rldrl-algorithms)
       - [RL/DRL algorithm classification adapted from Reinforcement Learning Specialization](#rldrl-algorithm-classification-adapted-from-reinforcement-learning-specialization)
       - [DRL algorithm classification adapted from CS285 at UC Berkeley](#drl-algorithm-classification-adapted-from-cs285-at-uc-berkeley)
+      - [RL/DRL algorithm classification from OpenAI Spinning Up](#rldrl-algorithm-classification-from-openai-spinning-up)
       - [Just a random misc RL/DRL algorithms and techniques](#just-a-random-misc-rldrl-algorithms-and-techniques)
     - [RL/DRL Software Frameworks](#rldrl-software-frameworks)
     - [RL/DRL OpenAI Gym-Compatible Environments](#rldrl-openai-gym-compatible-environments)
@@ -377,6 +378,10 @@ DRL algorithm classification adapted from [Deep Reinforcement Learning CS 285 at
 2. Value-based
 3. Actor-critic
 4. Model-based RL
+
+#### RL/DRL algorithm classification from OpenAI Spinning Up
+
+- [Part 2: Kinds of RL Algorithms](https://spinningup.openai.com/en/latest/spinningup/rl_intro2.html) <- Rendered from <https://github.com/openai/spinningup/blob/038665d62d569055401d91856abb287263096178/docs/spinningup/rl_intro2.rst>
 
 #### Just a random misc RL/DRL algorithms and techniques
 
