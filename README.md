@@ -402,6 +402,7 @@ Attempting to order by popularity (in practice should look at more aspects such 
 - [deepmind/acme](https://github.com/deepmind/acme) (2.9k stars on 2022/10/29)
 - [rll/rllab](https://github.com/rll/rllab) ([readthedocs](http://rllab.readthedocs.io)) (officialy uses theano; in practice has some keras, tensorflow, torch, chainer...) (2.7k stars on 2022/10/29)
 - TF-Agents: [tensorflow/agents](https://github.com/tensorflow/agents) (uses tensorflow) (2.4k stars on 2022/10/29)
+- [astooke/rlpyt](https://github.com/astooke/rlpyt) (uses pytorch) (2.1k stars on 2022/10/29)
 - [rail-berkeley/rlkit](https://github.com/rail-berkeley/rlkit) (2k stars on 2022/10/29)
 - [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) (1.5k stars on 2022/10/29)
 - [oxwhirl/pymarl](https://github.com/oxwhirl/pymarl) (support: <http://whirl.cs.ox.ac.uk>): deep multi-agent reinforcement learning (1.3k stars on 2022/10/29)
@@ -417,17 +418,20 @@ Attempting to order by popularity (in practice should look at more aspects such 
 - [RL-Glue](https://sites.google.com/a/rl-community.org/rl-glue/Home/rl-glue) ([Google Code Archive](https://code.google.com/archive/p/rl-glue-ext/wikis/RLGlueCore.wiki)) (API: C/C++, Java, Matlab, Python, Lisp) (support: Alberta)
 - <http://burlap.cs.brown.edu/> (API: Java)
 
-Lower level and raw/algorithm-specific:
+Lower level:
 
 - Keras
-  - <https://becominghuman.ai/lets-build-an-atari-ai-part-0-intro-to-rl-9b2c5336e0ec>
-  - [haarnoja/sac](https://github.com/haarnoja/sac)
+  - <https://becominghuman.ai/lets-build-an-atari-ai-part-0-intro-to-rl-9b2c5336e0ec>  
 - PyTorch
   - [qfettes/DeepRL-Tutorials](https://github.com/qfettes/DeepRL-Tutorials)
-  - [astooke/rlpyt](https://github.com/astooke/rlpyt)
   - <https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html>
-  - [ikostrikov/pytorch-a2c-ppo-acktr](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr)
 - [google/jax](https://github.com/google/jax): Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.
+
+Algorithm-specific:
+
+- [haarnoja/sac](https://github.com/haarnoja/sac)
+- [Asap7772/PTR](https://github.com/Asap7772/PTR) Pre-Training for Robots: Leveraging Diverse Multitask Data via Offline Reinforcement Learning
+- [ikostrikov/pytorch-a2c-ppo-acktr](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr)
 
 ### RL/DRL Environments
 
