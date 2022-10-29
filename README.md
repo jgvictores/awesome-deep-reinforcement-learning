@@ -395,38 +395,38 @@ Attempting to order by popularity (in practice should look at more aspects such 
 - [google/dopamine](https://github.com/google/dopamine) (uses some tensorflow) (9.9k stars on 2022/10/29)
 - [DLR-RM/stable-baselines3](https://github.com/DLR-RM/stable-baselines3) (advanced from [hill-a/stable-baselines](https://github.com/hill-a/stable-baselines) fork of [openai/baselines](https://github.com/openai/baselines)) (4.4k stars on 2022/10/29)
 - [keras-rl/keras-rl](https://github.com/keras-rl/keras-rl) (uses keras) (5.3k stars on 2022/10/29)
+  - [SoyGema/Startcraft_pysc2_minigames](https://github.com/SoyGema/Startcraft_pysc2_minigames)
 - [deepmind/open_spiel](https://github.com/deepmind/open_spiel) (uses some tensorflow) (3.4k stars on 2022/10/29)
+- [reinforceio/tensorforce](https://github.com/reinforceio/tensorforce) (uses tensorflow) (3.2k stars on 2022/10/29)
 - [deepmind/trfl](https://github.com/deepmind/trfl) (uses tensorflow) (3.1k stars on 2022/10/29)
+- [deepmind/acme](https://github.com/deepmind/acme) (2.9k stars on 2022/10/29)
 - [rll/rllab](https://github.com/rll/rllab) ([readthedocs](http://rllab.readthedocs.io)) (officialy uses theano; in practice has some keras, tensorflow, torch, chainer...) (2.7k stars on 2022/10/29)
 - TF-Agents: [tensorflow/agents](https://github.com/tensorflow/agents) (uses tensorflow) (2.4k stars on 2022/10/29)
+- [rail-berkeley/rlkit](https://github.com/rail-berkeley/rlkit) (2k stars on 2022/10/29)
+- [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) (1.5k stars on 2022/10/29)
+- [oxwhirl/pymarl](https://github.com/oxwhirl/pymarl) (support: <http://whirl.cs.ox.ac.uk>): deep multi-agent reinforcement learning (1.3k stars on 2022/10/29)
 - [deepmind/bsuite](https://github.com/deepmind/bsuite) (Environments, Algorithm Implementations, Benchmarking) (1.3k stars on 2022/10/29)
+- [chainer/chainerrl](https://github.com/chainer/chainerrl) (API: Python) (1.1k stars on 2022/10/29)
+- [facebookresearch/rl](https://github.com/facebookresearch/rl) (uses pytorch) (763 stars on 2022/10/29)
 - [MushroomRL/mushroom-rl](https://github.com/MushroomRL/mushroom-rl) (618 stars on 2022/10/29)
+- [SurrealAI/surreal](https://github.com/SurrealAI/surreal) (API: Python) (support: Stanford Vision and Learning Lab). (473 stars on 2022/10/29)
+- [medipixel/rl_algorithms](https://github.com/medipixel/rl_algorithms) (462 stars on 2022/10/29)
 - [ikostrikov/jaxrl2](https://github.com/ikostrikov/jaxrl2) and [ikostrikov/jaxrl](https://github.com/ikostrikov/jaxrl) (uses JAX) (15 + 389 stars on 2022/10/29)
-- [deepmind/acme](https://github.com/deepmind/acme)
-  - [ethanluoyc/magi](https://github.com/ethanluoyc/magi)
+- [learnables/cherry](https://github.com/learnables/cherry) (API: Python) (layer over pytorch) (180 stars on 2022/10/29)
+- [ethanluoyc/magi](https://github.com/ethanluoyc/magi) (uses JAX) (91 stars on 2022/10/29)
+- [RL-Glue](https://sites.google.com/a/rl-community.org/rl-glue/Home/rl-glue) ([Google Code Archive](https://code.google.com/archive/p/rl-glue-ext/wikis/RLGlueCore.wiki)) (API: C/C++, Java, Matlab, Python, Lisp) (support: Alberta)
+- <http://burlap.cs.brown.edu/> (API: Java)
+
+Lower level and raw/algorithm-specific:
+
 - Keras
   - <https://becominghuman.ai/lets-build-an-atari-ai-part-0-intro-to-rl-9b2c5336e0ec>
   - [haarnoja/sac](https://github.com/haarnoja/sac)
-  - [SoyGema/Startcraft_pysc2_minigames](https://github.com/SoyGema/Startcraft_pysc2_minigames)
 - PyTorch
-  - [facebookresearch/rl](https://github.com/facebookresearch/rl)
-  - [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl)
   - [qfettes/DeepRL-Tutorials](https://github.com/qfettes/DeepRL-Tutorials)
   - [astooke/rlpyt](https://github.com/astooke/rlpyt)
   - <https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html>
   - [ikostrikov/pytorch-a2c-ppo-acktr](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr)
-- Torch
-  - [kuz/DeepMind-Atari-Deep-Q-Learner](https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner)
-  - <https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752> (originally in tensorflow)
-- ChainerRL ([GitHub](https://github.com/chainer/chainerrl)) (API: Python)
-- [learnables/cherry](https://github.com/learnables/cherry) (API: Python) (layer over pytorch)
-- [medipixel/rl_algorithms](https://github.com/medipixel/rl_algorithms)
-- Surreal [GitHub](https://github.com/SurrealAI/surreal) (API: Python) (support: Stanford Vision and Learning Lab).
-- PyMARL [GitHub](https://github.com/oxwhirl/pymarl) (support: <http://whirl.cs.ox.ac.uk>)
-- TensorForce ([GitHub](https://github.com/reinforceio/tensorforce)) (uses tensorflow)
-- [RL-Glue](https://sites.google.com/a/rl-community.org/rl-glue/Home/rl-glue) ([Google Code Archive](https://code.google.com/archive/p/rl-glue-ext/wikis/RLGlueCore.wiki)) (API: C/C++, Java, Matlab, Python, Lisp) (support: Alberta)
-- [geek-ai/MAgent](https://github.com/Farama-Foundation/MAgent) (uses tensorflow)
-- <http://burlap.cs.brown.edu/> (API: Java)
 - [google/jax](https://github.com/google/jax): Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.
 
 ### RL/DRL Environments
@@ -462,6 +462,7 @@ Attempting to order by popularity (in practice should look at more aspects such 
   - [thedimlebowski/Trading-Gym](https://github.com/thedimlebowski/Trading-Gym)
   - [denisyarats/dmc2gym](https://github.com/denisyarats/dmc2gym)
   - Even more: [Phylliade/awesome-openai-gym-environments](https://github.com/Phylliade/awesome-openai-gym-environments)
+- [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
 
 ### RL/DRL Benchmarking
 
