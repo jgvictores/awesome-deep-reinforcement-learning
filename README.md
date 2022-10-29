@@ -388,21 +388,20 @@ REINFORCE (on-policy policy gradient; Williams, 1992), Deep Q-Network (DQN), Exp
 
 ### RL/DRL Algorithm Implementations and Software Frameworks
 
-Attempting to order by popularity:
+Attempting to order by popularity (in practice should look at more aspects such as last updates, forks, etc):
 
-- [openai/baselines](https://github.com/openai/baselines)
-  - [hill-a/stable-baselines](https://github.com/hill-a/stable-baselines)
-- [rll/rllab](https://github.com/rll/rllab) ([readthedocs](http://rllab.readthedocs.io)) (officialy uses theano; in practice has some keras, tensorflow, torch, chainer...)
-- RLlib (part of Ray): [ray-project/ray](https://github.com/ray-project/ray) ([readthedocs](http://ray.readthedocs.io/en/latest/rllib.html))
-- [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) (Environments, Algorithms) (includes design of environments)
-- [ikostrikov/jaxrl2](https://github.com/ikostrikov/jaxrl2) and [ikostrikov/jaxrl](https://github.com/ikostrikov/jaxrl) (uses JAX)
-- [keras-rl/keras-rl](https://github.com/keras-rl/keras-rl) (uses keras)
-- TF-Agents: [tensorflow/agents](https://github.com/tensorflow/agents) (uses tensorflow)
-- [deepmind/bsuite](https://github.com/deepmind/bsuite) (Environments, Algorithm Implementations, Benchmarking)
-- [MushroomRL/mushroom-rl](https://github.com/MushroomRL/mushroom-rl)
-- [google/dopamine](https://github.com/google/dopamine) (uses some tensorflow)
-- [deepmind/trfl](https://github.com/deepmind/trfl) (uses tensorflow)
-- [deepmind/open_spiel](https://github.com/deepmind/open_spiel) (uses some tensorflow)
+- RLlib (part of Ray): [ray-project/ray](https://github.com/ray-project/ray) ([readthedocs](http://ray.readthedocs.io/en/latest/rllib.html)) (22.5k stars (Ray total))
+- [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)(Environments, Algorithms) (includes design of environments) (13.5k stars)
+- [google/dopamine](https://github.com/google/dopamine) (uses some tensorflow) (9.9k stars)
+- [DLR-RM/stable-baselines3](https://github.com/DLR-RM/stable-baselines3) (advanced from [hill-a/stable-baselines](https://github.com/hill-a/stable-baselines) fork of [openai/baselines](https://github.com/openai/baselines)) (4.4k stars)
+- [keras-rl/keras-rl](https://github.com/keras-rl/keras-rl) (uses keras) (5.3k stars)
+- [deepmind/open_spiel](https://github.com/deepmind/open_spiel) (uses some tensorflow) (3.4k stars)
+- [deepmind/trfl](https://github.com/deepmind/trfl) (uses tensorflow) (3.1k stars)
+- [rll/rllab](https://github.com/rll/rllab) ([readthedocs](http://rllab.readthedocs.io)) (officialy uses theano; in practice has some keras, tensorflow, torch, chainer...) (2.7k stars)
+- TF-Agents: [tensorflow/agents](https://github.com/tensorflow/agents) (uses tensorflow) (2.4k stars)
+- [deepmind/bsuite](https://github.com/deepmind/bsuite) (Environments, Algorithm Implementations, Benchmarking) (1.3k stars)
+- [MushroomRL/mushroom-rl](https://github.com/MushroomRL/mushroom-rl) (618 stars)
+- [ikostrikov/jaxrl2](https://github.com/ikostrikov/jaxrl2) and [ikostrikov/jaxrl](https://github.com/ikostrikov/jaxrl) (uses JAX) (15 + 389 stars)
 - [deepmind/acme](https://github.com/deepmind/acme)
   - [ethanluoyc/magi](https://github.com/ethanluoyc/magi)
 - Keras
