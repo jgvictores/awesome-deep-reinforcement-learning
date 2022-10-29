@@ -469,7 +469,7 @@ Should be compatible with OpenAI Gym and also rllab (both mentioned [above](#rld
 - [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) (Environments, Algorithms) (includes design of environments)
 - [deepmind/bsuite](https://github.com/deepmind/bsuite) (Environments, Algorithm Implementations, Benchmarking)
 - [MushroomRL/mushroom-rl](https://github.com/MushroomRL/mushroom-rl)
-- [ikostrikov/jaxrl](https://github.com/ikostrikov/jaxrl): JAX (Flax) implementation of algorithms for Deep Reinforcement Learning with continuous action spaces.
+- JAXRL: Implementations of Reinforcement Learning algorithms in JAX [ikostrikov/jaxrl2](https://github.com/ikostrikov/jaxrl2) and [ikostrikov/jaxrl](https://github.com/ikostrikov/jaxrl)
 
 ### RL/DRL Benchmarking
 
