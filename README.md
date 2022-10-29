@@ -428,6 +428,7 @@ Attempting to order by popularity:
 - [RL-Glue](https://sites.google.com/a/rl-community.org/rl-glue/Home/rl-glue) ([Google Code Archive](https://code.google.com/archive/p/rl-glue-ext/wikis/RLGlueCore.wiki)) (API: C/C++, Java, Matlab, Python, Lisp) (support: Alberta)
 - [geek-ai/MAgent](https://github.com/Farama-Foundation/MAgent) (uses tensorflow)
 - <http://burlap.cs.brown.edu/> (API: Java)
+- [google/jax](https://github.com/google/jax)
 
 ### RL/DRL Environments
 
