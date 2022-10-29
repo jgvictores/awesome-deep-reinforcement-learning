@@ -34,9 +34,8 @@
       - [DRL algorithm classification adapted from CS285 at UC Berkeley](#drl-algorithm-classification-adapted-from-cs285-at-uc-berkeley)
       - [RL/DRL algorithm classification from OpenAI Spinning Up](#rldrl-algorithm-classification-from-openai-spinning-up)
       - [Just a random misc RL/DRL algorithms and techniques](#just-a-random-misc-rldrl-algorithms-and-techniques)
-    - [RL/DRL Software Frameworks](#rldrl-software-frameworks)
-    - [RL/DRL OpenAI Gym-Compatible Environments](#rldrl-openai-gym-compatible-environments)
-    - [RL/DRL OpenAI Gym-Compatible Algorithm Implementations](#rldrl-openai-gym-compatible-algorithm-implementations)
+    - [RL/DRL Algorithm Implementations and Software Frameworks](#rldrl-algorithm-implementations-and-software-frameworks)
+    - [RL/DRL Environments](#rldrl-environments)
     - [RL/DRL Benchmarking](#rldrl-benchmarking)
     - [RL/DRL Datasets](#rldrl-datasets)
     - [RL/DRL Books](#rldrl-books)
@@ -387,13 +386,20 @@ DRL algorithm classification adapted from [Deep Reinforcement Learning CS 285 at
 
 REINFORCE (on-policy policy gradient; Williams, 1992), Deep Q-Network (DQN), Expected-SARSA, True Online Temporal-Difference (TD), Double DQN, Truncated Natural Policy Gradient (TNPG), Trust Region Policy Optimization (TRPO), Reward-Weighted Regression, Relative Entropy Policy Search (REPS), Cross Entropy Method (CEM), Advantage-Actor-Critic (A2C), Asynchronous Advantage Actor-Critic (A3C), Actor-critic with Experience Replay (ACER), Actor Critic using Kronecker-Factored Trust Region (ACKTR), Generative Adversarial Imitation Learning (GAIL), Hindsight Experience Replay (HER), Proximal Policy Optimization (PPO, PPO1, PPO2), Ape-X Distributed Prioritized Experience Replay, Continuous DQN (CDQN or NAF), Dueling network DQN (Dueling DQN), Deep SARSA, Multi-Agent Deep Deterministic Policy Gradient (MADDPG), Deep Determisitc Policy Gradient (DDPG).
 
-### RL/DRL Software Frameworks
+### RL/DRL Algorithm Implementations and Software Frameworks
 
 Attempting to order by popularity:
 
-- [OpenAI Gym](https://gym.openai.com) ([openai/gym](https://github.com/openai/gym)) ([docs](https://gym.openai.com/docs/))
-  - <https://www.oreilly.com/learning/introduction-to-reinforcement-learning-and-openai-gym>
-  - See [dedicated section](#rldrl-gyms)
+- [openai/baselines](https://github.com/openai/baselines)
+  - [hill-a/stable-baselines](https://github.com/hill-a/stable-baselines)
+- [rll/rllab](https://github.com/rll/rllab) ([readthedocs](http://rllab.readthedocs.io)) (officialy uses theano; in practice has some keras, tensorflow, torch, chainer...)
+- <http://ray.readthedocs.io/en/latest/rllib.html> ([ray-project/ray](https://github.com/ray-project/ray))
+- [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) (Environments, Algorithms) (includes design of environments)
+- JAXRL [ikostrikov/jaxrl2](https://github.com/ikostrikov/jaxrl2) and [ikostrikov/jaxrl](https://github.com/ikostrikov/jaxrl) (uses JAX)
+- [keras-rl/keras-rl](https://github.com/keras-rl/keras-rl) (uses keras)
+- TF-Agents: [tensorflow/agents](https://github.com/tensorflow/agents) (uses tensorflow)
+- [deepmind/bsuite](https://github.com/deepmind/bsuite) (Environments, Algorithm Implementations, Benchmarking)
+- [MushroomRL/mushroom-rl](https://github.com/MushroomRL/mushroom-rl)
 - [google/dopamine](https://github.com/google/dopamine) (uses some tensorflow)
 - [deepmind/trfl](https://github.com/deepmind/trfl) (uses tensorflow)
 - [deepmind/open_spiel](https://github.com/deepmind/open_spiel) (uses some tensorflow)
@@ -418,58 +424,44 @@ Attempting to order by popularity:
 - [medipixel/rl_algorithms](https://github.com/medipixel/rl_algorithms)
 - Surreal [GitHub](https://github.com/SurrealAI/surreal) (API: Python) (support: Stanford Vision and Learning Lab).
 - PyMARL [GitHub](https://github.com/oxwhirl/pymarl) (support: <http://whirl.cs.ox.ac.uk>)
-- TF-Agents: [tensorflow/agents](https://github.com/tensorflow/agents) (uses tensorflow)
 - TensorForce ([GitHub](https://github.com/reinforceio/tensorforce)) (uses tensorflow)
-- keras-rl ([GitHub](https://github.com/keras-rl/keras-rl)) (uses keras)
 - [RL-Glue](https://sites.google.com/a/rl-community.org/rl-glue/Home/rl-glue) ([Google Code Archive](https://code.google.com/archive/p/rl-glue-ext/wikis/RLGlueCore.wiki)) (API: C/C++, Java, Matlab, Python, Lisp) (support: Alberta)
 - [geek-ai/MAgent](https://github.com/Farama-Foundation/MAgent) (uses tensorflow)
-- <http://ray.readthedocs.io/en/latest/rllib.html> ([ray-project/ray](https://github.com/ray-project/ray)) (API: Python)
 - <http://burlap.cs.brown.edu/> (API: Java)
 
-### RL/DRL OpenAI Gym-Compatible Environments
+### RL/DRL Environments
 
-Should be compatible with OpenAI Gym and also rllab (both mentioned [above](#rldrl-software-frameworks)).
-
-- [https://www.gymlibrary.dev/environments/third_party_environments](https://www.gymlibrary.dev/environments/third_party_environments)
-- ~[openai/roboschool](https://github.com/openai/roboschool)~ (DEPRECATED)
-- [NVIDIA-Omniverse/IsaacGymEnvs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)
-- [leggedrobotics/legged_gym](https://github.com/leggedrobotics/legged_gym)
-- [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) (Environments, Algorithms) (includes design of environments)
-- [deepmind/bsuite](https://github.com/deepmind/bsuite) (Environments, Algorithms, Benchmarking)
-- [koulanurag/ma-gym](https://github.com/koulanurag/ma-gym) (multiagent)
-- [openai/gym-soccer](https://github.com/openai/gym-soccer)
-- [erlerobot/gym-gazebo](https://github.com/erlerobot/gym-gazebo)
-- [robotology/gym-ignition](https://github.com/robotology/gym-ignition)
-- [dartsim/gym-dart](https://github.com/dartsim/gym-dart)
-- [Roboy/gym-roboy](https://github.com/Roboy/gym-roboy)
-- [kngwyu/mujoco-maze](https://github.com/kngwyu/mujoco-maze)
-- [ucuapps/modelicagym](https://github.com/ucuapps/modelicagym)
-- [openai/safety-gym](https://github.com/openai/safety-gym)
-- [openai/retro](https://github.com/openai/retro)
-- [mwydmuch/ViZDoom](https://github.com/mwydmuch/ViZDoom)
-- [deepmind/pysc2](https://github.com/deepmind/pysc2) (by DeepMind) (Blizzard StarCraft II Learning Environment (SC2LE) component)
-- [benelot/pybullet-gym](https://github.com/benelot/pybullet-gym)
-- [Healthcare-Robotics/assistive-gym](https://github.com/Healthcare-Robotics/assistive-gym)
-- [Microsoft/malmo](https://github.com/Microsoft/malmo)
-- [nadavbh12/Retro-Learning-Environment](https://github.com/nadavbh12/Retro-Learning-Environment)
-- [twitter/torch-twrl](https://github.com/twitter/torch-twrl)
-- [duckietown/gym-duckietown](https://github.com/duckietown/gym-duckietown)
-- [arex18/rocket-lander](https://github.com/arex18/rocket-lander)
-- [ppaquette/gym-doom](https://github.com/ppaquette/gym-doom)
-- [eleurent/highway-env](https://github.com/eleurent/highway-env)
-- [thedimlebowski/Trading-Gym](https://github.com/thedimlebowski/Trading-Gym)
-- [denisyarats/dmc2gym](https://github.com/denisyarats/dmc2gym)
-- Even more: [Phylliade/awesome-openai-gym-environments](https://github.com/Phylliade/awesome-openai-gym-environments)
-
-### RL/DRL OpenAI Gym-Compatible Algorithm Implementations
-
-- [openai/baselines](https://github.com/openai/baselines)
-  - [hill-a/stable-baselines](https://github.com/hill-a/stable-baselines)
-- [rll/rllab](https://github.com/rll/rllab) ([readthedocs](http://rllab.readthedocs.io)) (officialy uses theano; in practice has some keras, tensorflow, torch, chainer...)
-- [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) (Environments, Algorithms) (includes design of environments)
-- [deepmind/bsuite](https://github.com/deepmind/bsuite) (Environments, Algorithm Implementations, Benchmarking)
-- [MushroomRL/mushroom-rl](https://github.com/MushroomRL/mushroom-rl)
-- JAXRL: Implementations of Reinforcement Learning algorithms in JAX [ikostrikov/jaxrl2](https://github.com/ikostrikov/jaxrl2) and [ikostrikov/jaxrl](https://github.com/ikostrikov/jaxrl)
+- [OpenAI Gym](https://gym.openai.com) ([openai/gym](https://github.com/openai/gym)) ([docs](https://gym.openai.com/docs/)). [book1](https://www.oreilly.com/learning/introduction-to-reinforcement-learning-and-openai-gym)
+  - [https://www.gymlibrary.dev/environments/third_party_environments](https://www.gymlibrary.dev/environments/third_party_environments)
+  - ~[openai/roboschool](https://github.com/openai/roboschool)~ (DEPRECATED)
+  - [NVIDIA-Omniverse/IsaacGymEnvs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)
+  - [leggedrobotics/legged_gym](https://github.com/leggedrobotics/legged_gym)
+  - [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) (Environments, Algorithms) (includes design of environments)
+  - [deepmind/bsuite](https://github.com/deepmind/bsuite) (Environments, Algorithms, Benchmarking)
+  - [koulanurag/ma-gym](https://github.com/koulanurag/ma-gym) (multiagent)
+  - [openai/gym-soccer](https://github.com/openai/gym-soccer)
+  - [erlerobot/gym-gazebo](https://github.com/erlerobot/gym-gazebo)
+  - [robotology/gym-ignition](https://github.com/robotology/gym-ignition)
+  - [dartsim/gym-dart](https://github.com/dartsim/gym-dart)
+  - [Roboy/gym-roboy](https://github.com/Roboy/gym-roboy)
+  - [kngwyu/mujoco-maze](https://github.com/kngwyu/mujoco-maze)
+  - [ucuapps/modelicagym](https://github.com/ucuapps/modelicagym)
+  - [openai/safety-gym](https://github.com/openai/safety-gym)
+  - [openai/retro](https://github.com/openai/retro)
+  - [mwydmuch/ViZDoom](https://github.com/mwydmuch/ViZDoom)
+  - [deepmind/pysc2](https://github.com/deepmind/pysc2) (by DeepMind) (Blizzard StarCraft II Learning Environment (SC2LE) component)
+  - [benelot/pybullet-gym](https://github.com/benelot/pybullet-gym)
+  - [Healthcare-Robotics/assistive-gym](https://github.com/Healthcare-Robotics/assistive-gym)
+  - [Microsoft/malmo](https://github.com/Microsoft/malmo)
+  - [nadavbh12/Retro-Learning-Environment](https://github.com/nadavbh12/Retro-Learning-Environment)
+  - [twitter/torch-twrl](https://github.com/twitter/torch-twrl)
+  - [duckietown/gym-duckietown](https://github.com/duckietown/gym-duckietown)
+  - [arex18/rocket-lander](https://github.com/arex18/rocket-lander)
+  - [ppaquette/gym-doom](https://github.com/ppaquette/gym-doom)
+  - [eleurent/highway-env](https://github.com/eleurent/highway-env)
+  - [thedimlebowski/Trading-Gym](https://github.com/thedimlebowski/Trading-Gym)
+  - [denisyarats/dmc2gym](https://github.com/denisyarats/dmc2gym)
+  - Even more: [Phylliade/awesome-openai-gym-environments](https://github.com/Phylliade/awesome-openai-gym-environments)
 
 ### RL/DRL Benchmarking
 
