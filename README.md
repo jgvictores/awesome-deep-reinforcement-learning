@@ -393,7 +393,7 @@ Attempting to order by popularity:
 - [openai/baselines](https://github.com/openai/baselines)
   - [hill-a/stable-baselines](https://github.com/hill-a/stable-baselines)
 - [rll/rllab](https://github.com/rll/rllab) ([readthedocs](http://rllab.readthedocs.io)) (officialy uses theano; in practice has some keras, tensorflow, torch, chainer...)
-- [ray-project/ray](https://github.com/ray-project/ray) ([readthedocs](http://ray.readthedocs.io/en/latest/rllib.html))
+- RLlib (part of Ray): [ray-project/ray](https://github.com/ray-project/ray) ([readthedocs](http://ray.readthedocs.io/en/latest/rllib.html))
 - [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) (Environments, Algorithms) (includes design of environments)
 - [ikostrikov/jaxrl2](https://github.com/ikostrikov/jaxrl2) and [ikostrikov/jaxrl](https://github.com/ikostrikov/jaxrl) (uses JAX)
 - [keras-rl/keras-rl](https://github.com/keras-rl/keras-rl) (uses keras)
