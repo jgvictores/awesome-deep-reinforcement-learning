@@ -489,6 +489,7 @@ With datasets for offline reinforcement learning:
 
 - [Farama-Foundation/D4RL](https://github.com/Farama-Foundation/D4RL) (was [rail-berkeley/d4rl](https://github.com/rail-berkeley/d4rl)) (727 stars on 2022/10/30)
 - [google-research/rlds](https://github.com/google-research/rlds) (134 stars on 2022/10/30)
+- [Farama-Foundation/Kabuki](https://github.com/Farama-Foundation/Kabuki) (25 stars on 2022/10/30, expected beta on 2022/11-12)
 
 With low-cost robots:
 
