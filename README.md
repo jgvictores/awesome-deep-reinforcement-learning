@@ -437,6 +437,7 @@ Tutorials/education (typically from lower level):
 - [openai/spinningup](https://github.com/openai/spinningup) (<https://spinningup.openai.com>, educational, uses pytorch updated from tensorflow) (7.3k stars on 2022/10/30)
 - [qfettes/DeepRL-Tutorials](https://github.com/qfettes/DeepRL-Tutorials) (uses pytorch) (927 stars on 2022/10/29)
 - <https://becominghuman.ai/lets-build-an-atari-ai-part-0-intro-to-rl-9b2c5336e0ec> (uses keras)
+- <https://medium.com/@jonathan_hui/rl-reinforcement-learning-algorithms-quick-overview-6bf69736694d>
 
 ### RL/DRL Environments
 
@@ -490,15 +491,11 @@ Tutorials/education (typically from lower level):
 
 ### RL/DRL Books
 
-DRL
-
-- <https://www.oreilly.com/learning/introduction-to-reinforcement-learning-and-openai-gym>
-
 RL
 
 - Reinforcement Learning: An Introduction: <http://incompleteideas.net/book/RLbook2020.pdf> (Richard S. Sutton is father of RL)
 - Andrew Ng thesis: <www.cs.ubc.ca/~nando/550-2006/handouts/andrew-ng.pdf>
-- <https://medium.com/@jonathan_hui/rl-reinforcement-learning-algorithms-quick-overview-6bf69736694d>
+- <https://www.oreilly.com/learning/introduction-to-reinforcement-learning-and-openai-gym>
 
 ## Evolutionary Algorithms (EA)
 
