@@ -37,7 +37,6 @@
     - [RL/DRL Algorithm Implementations and Software Frameworks](#rldrl-algorithm-implementations-and-software-frameworks)
     - [RL/DRL Environments](#rldrl-environments)
     - [RL/DRL Benchmarking](#rldrl-benchmarking)
-    - [RL/DRL Datasets](#rldrl-datasets)
     - [RL/DRL Books](#rldrl-books)
   - [Evolutionary Algorithms (EA)](#evolutionary-algorithms-ea)
   - [Misc Tools](#misc-tools)
@@ -473,25 +472,36 @@ Tutorials/education (typically from lower level):
   - [koulanurag/ma-gym](https://github.com/koulanurag/ma-gym) (multiagent)
   - Even more: [Phylliade/awesome-openai-gym-environments](https://github.com/Phylliade/awesome-openai-gym-environments)
 
-Multiagent
+Multiagent:
 
 - [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo) (<https://pettingzoo.farama.org>)
   - [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
 
 ### RL/DRL Benchmarking
 
-- [ROBEL](https://sites.google.com/view/roboticsbenchmarks) ([google-research/robel](https://github.com/google-research/robel/))
-- [google-research/rl-reliability-metrics](https://github.com/google-research/rl-reliability-metrics)
-- [google-research/rliable](https://github.com/google-research/rliable)
-- [RLBench](https://sites.google.com/view/rlbench) ([stepjam/RLBench](https://github.com/stepjam/RLBench))
+With datasets for offline reinforcement learning:
+
+- [Farama-Foundation/D4RL](https://github.com/Farama-Foundation/D4RL) (was [rail-berkeley/d4rl](https://github.com/rail-berkeley/d4rl)) (727 stars on 2022/10/30)
+- [google-research/rlds](https://github.com/google-research/rlds) (134 stars on 2022/10/30)
+
+With low-cost robots:
+
+- [google-research/robel](https://github.com/google-research/robel) (<https://sites.google.com/view/roboticsbenchmarks>) (134 stars on 2022/10/30)
+
+Reproducible:
+
+- [rlworkgroup/garage](https://github.com/rlworkgroup/garage) "A toolkit for reproducible reinforcement learning research." (1.5k stars on 2022/10/30)
+
+Metrics/benchmarks:
+
+- [stepjam/RLBench](https://github.com/stepjam/RLBench) (<https://sites.google.com/view/rlbench>) "A large-scale benchmark and learning environment." (660 stars on 2022/10/30)
+- [google-research/rliable](https://github.com/google-research/rliable) "reliable evaluation on RL and ML benchmarks, even with only a handful of seeds" (504 stars on 2022/10/30)
+- [google-research/rl-reliability-metrics](https://github.com/google-research/rl-reliability-metrics) "provides a set of metrics for measuring the reliability of reinforcement learning (RL) algorithm" (136 stars on 2022/10/30)
 - <https://martin-thoma.com/sota/#reinforcment-learning>
-- [rlworkgroup/garage](https://github.com/rlworkgroup/garage)
-- [deepmind/bsuite](https://github.com/deepmind/bsuite) (Environments, Algorithm Implementations, Benchmarking)
 
-### RL/DRL Datasets
+Other:
 
-- [google-research/rlds](https://github.com/google-research/rlds)
-- [rail-berkeley/d4rl](https://github.com/rail-berkeley/d4rl)
+- [deepmind/bsuite](https://github.com/deepmind/bsuite) "collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent" (1.5k stars on 2022/10/30)
 
 ### RL/DRL Books
 
