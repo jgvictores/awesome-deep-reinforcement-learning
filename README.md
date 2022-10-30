@@ -470,11 +470,13 @@ Tutorials/education (typically from lower level):
   - [eleurent/highway-env](https://github.com/eleurent/highway-env)
   - [thedimlebowski/Trading-Gym](https://github.com/thedimlebowski/Trading-Gym)
   - [denisyarats/dmc2gym](https://github.com/denisyarats/dmc2gym)
-  - Multiagent
-    - [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-    - [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
-    - [koulanurag/ma-gym](https://github.com/koulanurag/ma-gym) (multiagent)
+  - [koulanurag/ma-gym](https://github.com/koulanurag/ma-gym) (multiagent)
   - Even more: [Phylliade/awesome-openai-gym-environments](https://github.com/Phylliade/awesome-openai-gym-environments)
+
+Multiagent
+
+- [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+  - [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
 
 ### RL/DRL Benchmarking
 
