@@ -475,7 +475,7 @@ Tutorials/education (typically from lower level):
 
 Multiagent
 
-- [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+- [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo) (<https://pettingzoo.farama.org>)
   - [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
 
 ### RL/DRL Benchmarking
