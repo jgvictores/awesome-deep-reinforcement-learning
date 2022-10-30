@@ -414,6 +414,7 @@ Attempting to order by popularity (in practice should look at more aspects such 
 - [medipixel/rl_algorithms](https://github.com/medipixel/rl_algorithms) (462 stars on 2022/10/29)
 - [ikostrikov/jaxrl2](https://github.com/ikostrikov/jaxrl2) and [ikostrikov/jaxrl](https://github.com/ikostrikov/jaxrl) (uses JAX) (15 + 389 stars on 2022/10/29)
 - [learnables/cherry](https://github.com/learnables/cherry) (API: Python) (layer over pytorch) (180 stars on 2022/10/29)
+- [trackmania-rl/tmrl](https://github.com/trackmania-rl/tmrl) (165 stars on 2022/10/29)
 - [ethanluoyc/magi](https://github.com/ethanluoyc/magi) (uses JAX) (91 stars on 2022/10/29)
 - [RL-Glue](https://sites.google.com/a/rl-community.org/rl-glue/Home/rl-glue) ([Google Code Archive](https://code.google.com/archive/p/rl-glue-ext/wikis/RLGlueCore.wiki)) (API: C/C++, Java, Matlab, Python, Lisp) (support: Alberta)
 - <http://burlap.cs.brown.edu/> (API: Java)
