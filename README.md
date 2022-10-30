@@ -441,9 +441,9 @@ Tutorials/education (typically from lower level):
 
 ### RL/DRL Environments
 
-- [OpenAI Gym](https://gym.openai.com) ([openai/gym](https://github.com/openai/gym)) ([docs](https://gym.openai.com/docs/)).
-  - [https://www.gymlibrary.dev/environments/third_party_environments](https://www.gymlibrary.dev/environments/third_party_environments)
-  - ~[openai/roboschool](https://github.com/openai/roboschool)~ (DEPRECATED)
+- [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium) (<https://gymnasium.farama.org>). ~~DEPRECATED: [openai/gym](https://github.com/openai/gym), <https://gym.openai.com>, <https://gym.openai.com/docs/>~~
+  - <https://gymnasium.farama.org/environments/third_party_environments>
+  - ~~DEPRECATED: [openai/roboschool](https://github.com/openai/roboschool)~~
   - [NVIDIA-Omniverse/IsaacGymEnvs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)
   - [leggedrobotics/legged_gym](https://github.com/leggedrobotics/legged_gym)
   - [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) (Environments, Algorithms) (includes design of environments)
