@@ -440,7 +440,7 @@ Tutorials/education (typically from lower level):
 
 ### RL/DRL Environments
 
-- [OpenAI Gym](https://gym.openai.com) ([openai/gym](https://github.com/openai/gym)) ([docs](https://gym.openai.com/docs/)). [book1](https://www.oreilly.com/learning/introduction-to-reinforcement-learning-and-openai-gym)
+- [OpenAI Gym](https://gym.openai.com) ([openai/gym](https://github.com/openai/gym)) ([docs](https://gym.openai.com/docs/)).
   - [https://www.gymlibrary.dev/environments/third_party_environments](https://www.gymlibrary.dev/environments/third_party_environments)
   - ~[openai/roboschool](https://github.com/openai/roboschool)~ (DEPRECATED)
   - [NVIDIA-Omniverse/IsaacGymEnvs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)
@@ -489,6 +489,12 @@ Tutorials/education (typically from lower level):
 - [rail-berkeley/d4rl](https://github.com/rail-berkeley/d4rl)
 
 ### RL/DRL Books
+
+DRL
+
+- <https://www.oreilly.com/learning/introduction-to-reinforcement-learning-and-openai-gym>
+
+RL
 
 - Reinforcement Learning: An Introduction: <http://incompleteideas.net/book/RLbook2020.pdf> (Richard S. Sutton is father of RL)
 - Andrew Ng thesis: <www.cs.ubc.ca/~nando/550-2006/handouts/andrew-ng.pdf>
