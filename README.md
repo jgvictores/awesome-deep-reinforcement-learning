@@ -448,7 +448,6 @@ Tutorials/education (typically from lower level):
   - [leggedrobotics/legged_gym](https://github.com/leggedrobotics/legged_gym)
   - [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) (Environments, Algorithms) (includes design of environments)
   - [deepmind/bsuite](https://github.com/deepmind/bsuite) (Environments, Algorithms, Benchmarking)
-  - [koulanurag/ma-gym](https://github.com/koulanurag/ma-gym) (multiagent)
   - [openai/gym-soccer](https://github.com/openai/gym-soccer)
   - [erlerobot/gym-gazebo](https://github.com/erlerobot/gym-gazebo)
   - [robotology/gym-ignition](https://github.com/robotology/gym-ignition)
@@ -471,8 +470,11 @@ Tutorials/education (typically from lower level):
   - [eleurent/highway-env](https://github.com/eleurent/highway-env)
   - [thedimlebowski/Trading-Gym](https://github.com/thedimlebowski/Trading-Gym)
   - [denisyarats/dmc2gym](https://github.com/denisyarats/dmc2gym)
+  - Multiagent
+    - [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+    - [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
+    - [koulanurag/ma-gym](https://github.com/koulanurag/ma-gym) (multiagent)
   - Even more: [Phylliade/awesome-openai-gym-environments](https://github.com/Phylliade/awesome-openai-gym-environments)
-- [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
 
 ### RL/DRL Benchmarking
 
