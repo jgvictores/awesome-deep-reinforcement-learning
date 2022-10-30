@@ -389,7 +389,7 @@ REINFORCE (on-policy policy gradient; Williams, 1992), Deep Q-Network (DQN), Exp
 
 Attempting to order by popularity (in practice should look at more aspects such as last updates, forks, etc):
 
-- RLlib (part of Ray): [ray-project/ray](https://github.com/ray-project/ray) ([readthedocs](http://ray.readthedocs.io/en/latest/rllib.html)) (22.5k stars on 2022/10/29 (Ray total))
+- RLlib (part of Ray): [ray-project/ray](https://github.com/ray-project/ray) ([readthedocs](http://ray.readthedocs.io/en/latest/rllib.html)) ([![GitHub stars](https://img.shields.io/github/stars/ray-project/ray)](https://github.com/ray-project/ray/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/ray-project/ray?label=last%20update) (Ray total))
 - [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) (Environments, Algorithms) (includes design of environments) (13.5k stars on 2022/10/29)
 - [google/dopamine](https://github.com/google/dopamine) (uses jax, tensorflow, keras) (9.9k stars on 2022/10/30)
 - [thu-ml/tianshou](https://github.com/thu-ml/tianshou) (<https://tianshou.readthedocs.io>) (5.2k stars on 2022/10/30)
