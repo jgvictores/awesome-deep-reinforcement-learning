@@ -420,11 +420,10 @@ Attempting to order by popularity (in practice should look at more aspects such 
 
 Lower level:
 
-- Keras
-  - <https://becominghuman.ai/lets-build-an-atari-ai-part-0-intro-to-rl-9b2c5336e0ec>  
-- PyTorch
-  - [qfettes/DeepRL-Tutorials](https://github.com/qfettes/DeepRL-Tutorials)
+- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) (169k stars on 2022/10/30)
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) <https://pytorch.org> (59.9k stars on 2022/10/29)
   - <https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html>
+- [keras-team/keras](https://github.com/keras-team/keras) <https://keras.io/> (56.5k stars on 2022/10/29)
 - [google/jax](https://github.com/google/jax): Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.
 
 Algorithm-specific:
@@ -432,6 +431,12 @@ Algorithm-specific:
 - [haarnoja/sac](https://github.com/haarnoja/sac)
 - [Asap7772/PTR](https://github.com/Asap7772/PTR) Pre-Training for Robots: Leveraging Diverse Multitask Data via Offline Reinforcement Learning
 - [ikostrikov/pytorch-a2c-ppo-acktr](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr)
+
+Tutorials/education (typically from lower level):
+
+- [openai/spinningup](https://github.com/openai/spinningup) (<https://spinningup.openai.com>, educational, uses pytorch updated from tensorflow) (7.3k stars on 2022/10/30)
+- [qfettes/DeepRL-Tutorials](https://github.com/qfettes/DeepRL-Tutorials) (uses pytorch) (927 stars on 2022/10/29)
+- <https://becominghuman.ai/lets-build-an-atari-ai-part-0-intro-to-rl-9b2c5336e0ec> (uses keras)
 
 ### RL/DRL Environments
 
