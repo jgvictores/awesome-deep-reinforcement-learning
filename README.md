@@ -413,6 +413,7 @@ Attempting to order by popularity (in practice should look at more aspects such 
 - [SurrealAI/surreal](https://github.com/SurrealAI/surreal) (API: Python) (support: Stanford Vision and Learning Lab). (473 stars on 2022/10/29)
 - [medipixel/rl_algorithms](https://github.com/medipixel/rl_algorithms) (462 stars on 2022/10/29)
 - [ikostrikov/jaxrl2](https://github.com/ikostrikov/jaxrl2) and [ikostrikov/jaxrl](https://github.com/ikostrikov/jaxrl) (uses JAX) (15 + 389 stars on 2022/10/29)
+- [tinkoff-ai/CORL](https://github.com/tinkoff-ai/CORL) "High-quality single-file implementations of SOTA Offline RL algorithms: AWAC, BC, CQL, DT, EDAC, IQL, SAC-N, TD3+BC" [![GitHub stars](https://img.shields.io/github/stars/tinkoff-ai/CORL)](https://github.com/tinkoff-ai/CORL/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/tinkoff-ai/CORL?label=last%20update)
 - [learnables/cherry](https://github.com/learnables/cherry) (API: Python) (layer over pytorch) (180 stars on 2022/10/29)
 - [trackmania-rl/tmrl](https://github.com/trackmania-rl/tmrl) (165 stars on 2022/10/29)
 - [ethanluoyc/magi](https://github.com/ethanluoyc/magi) (uses JAX) (91 stars on 2022/10/29)
