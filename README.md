@@ -389,7 +389,7 @@ REINFORCE (on-policy policy gradient; Williams, 1992), Deep Q-Network (DQN), Exp
 
 Attempting to order by popularity (in practice should look at more aspects such as last updates, forks, etc):
 
-- RLlib (part of Ray): [ray-project/ray](https://github.com/ray-project/ray) ([readthedocs](http://ray.readthedocs.io/en/latest/rllib.html)) ([![GitHub stars](https://img.shields.io/github/stars/ray-project/ray)](https://github.com/ray-project/ray/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/ray-project/ray?label=last%20update) (Ray total))
+- RLlib (part of Ray): [ray-project/ray](https://github.com/ray-project/ray) ([readthedocs](http://ray.readthedocs.io/en/latest/rllib.html)) [![GitHub stars](https://img.shields.io/github/stars/ray-project/ray)](https://github.com/ray-project/ray/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/ray-project/ray?label=last%20update) (Ray total)
 - [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) (Environments, Algorithms) (includes design of environments) (13.5k stars on 2022/10/29)
 - [google/dopamine](https://github.com/google/dopamine) (uses jax, tensorflow, keras) (9.9k stars on 2022/10/30)
 - [thu-ml/tianshou](https://github.com/thu-ml/tianshou) (<https://tianshou.readthedocs.io>) (5.2k stars on 2022/10/30)
@@ -449,7 +449,7 @@ Comparison:
 - [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium) (<https://gymnasium.farama.org>). ~~DEPRECATED: [openai/gym](https://github.com/openai/gym), <https://gym.openai.com>, <https://gym.openai.com/docs/>~~
   - <https://gymnasium.farama.org/environments/third_party_environments>
   - ~~DEPRECATED: [openai/roboschool](https://github.com/openai/roboschool)~~
-  - [qgallouedec/panda-gym](https://github.com/qgallouedec/panda-gym) "Set of robotic environments based on PyBullet physics engine and gymnasium." ([![GitHub stars](https://img.shields.io/github/stars/qgallouedec/panda-gym)](https://github.com/qgallouedec/panda-gym/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/qgallouedec/panda-gym?label=last%20update)
+  - [qgallouedec/panda-gym](https://github.com/qgallouedec/panda-gym) "Set of robotic environments based on PyBullet physics engine and gymnasium." [![GitHub stars](https://img.shields.io/github/stars/qgallouedec/panda-gym)](https://github.com/qgallouedec/panda-gym/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/qgallouedec/panda-gym?label=last%20update))
   - [NVIDIA-Omniverse/IsaacGymEnvs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)
   - [leggedrobotics/legged_gym](https://github.com/leggedrobotics/legged_gym)
   - [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) (Environments, Algorithms) (includes design of environments)
