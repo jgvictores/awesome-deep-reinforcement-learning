@@ -34,6 +34,7 @@
       - [DRL algorithm classification adapted from CS285 at UC Berkeley](#drl-algorithm-classification-adapted-from-cs285-at-uc-berkeley)
       - [RL/DRL algorithm classification from OpenAI Spinning Up](#rldrl-algorithm-classification-from-openai-spinning-up)
       - [Just a random misc RL/DRL algorithms and techniques](#just-a-random-misc-rldrl-algorithms-and-techniques)
+      - [Cool image](#cool-image)
     - [RL/DRL Algorithm Implementations and Software Frameworks](#rldrl-algorithm-implementations-and-software-frameworks)
     - [RL/DRL Environments](#rldrl-environments)
     - [RL/DRL Benchmarking](#rldrl-benchmarking)
@@ -384,6 +385,10 @@ DRL algorithm classification adapted from [Deep Reinforcement Learning CS 285 at
 #### Just a random misc RL/DRL algorithms and techniques
 
 REINFORCE (on-policy policy gradient; Williams, 1992), Deep Q-Network (DQN), Expected-SARSA, True Online Temporal-Difference (TD), Double DQN, Truncated Natural Policy Gradient (TNPG), Trust Region Policy Optimization (TRPO), Reward-Weighted Regression, Relative Entropy Policy Search (REPS), Cross Entropy Method (CEM), Advantage-Actor-Critic (A2C), Asynchronous Advantage Actor-Critic (A3C), Actor-critic with Experience Replay (ACER), Actor Critic using Kronecker-Factored Trust Region (ACKTR), Generative Adversarial Imitation Learning (GAIL), Hindsight Experience Replay (HER), Proximal Policy Optimization (PPO, PPO1, PPO2), Ape-X Distributed Prioritized Experience Replay, Continuous DQN (CDQN or NAF), Dueling network DQN (Dueling DQN), Deep SARSA, Multi-Agent Deep Deterministic Policy Gradient (MADDPG), Deep Deterministic Policy Gradient (DDPG), Truncated Quantile Critics (TQC), Quantile Regression DQN (QR-DQN).
+
+#### Cool image
+
+![](https://github.com/hijkzzz/deep-reinforcement-learning-notes/blob/603d5d9ba0975df9f164b929627593701404e48f/.gitbook/assets/all-1.png?raw=true)
 
 ### RL/DRL Algorithm Implementations and Software Frameworks
 
