@@ -449,6 +449,7 @@ Comparison:
 - [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium) (<https://gymnasium.farama.org>). ~~DEPRECATED: [openai/gym](https://github.com/openai/gym), <https://gym.openai.com>, <https://gym.openai.com/docs/>~~
   - <https://gymnasium.farama.org/environments/third_party_environments>
   - ~~DEPRECATED: [openai/roboschool](https://github.com/openai/roboschool)~~
+  - [qgallouedec/panda-gym](https://github.com/qgallouedec/panda-gym) "Set of robotic environments based on PyBullet physics engine and gymnasium." ([![GitHub stars](https://img.shields.io/github/stars/qgallouedec/panda-gym)](https://github.com/qgallouedec/panda-gym/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/qgallouedec/panda-gym?label=last%20update)
   - [NVIDIA-Omniverse/IsaacGymEnvs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)
   - [leggedrobotics/legged_gym](https://github.com/leggedrobotics/legged_gym)
   - [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) (Environments, Algorithms) (includes design of environments)
