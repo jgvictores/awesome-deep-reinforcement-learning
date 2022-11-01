@@ -417,21 +417,22 @@ Attempting to order by popularity (in practice should look at more aspects such 
 - [MushroomRL/mushroom-rl](https://github.com/MushroomRL/mushroom-rl) [![GitHub stars](https://img.shields.io/github/stars/MushroomRL/mushroom-rl)](https://github.com/MushroomRL/mushroom-rl/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/MushroomRL/mushroom-rl?label=last%20update)
 - [SurrealAI/surreal](https://github.com/SurrealAI/surreal) (API: Python) (support: Stanford Vision and Learning Lab). [![GitHub stars](https://img.shields.io/github/stars/SurrealAI/surreal)](https://github.com/SurrealAI/surreal/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/SurrealAI/surreal?label=last%20update)
 - [medipixel/rl_algorithms](https://github.com/medipixel/rl_algorithms) [![GitHub stars](https://img.shields.io/github/stars/medipixel/rl_algorithms)](https://github.com/medipixel/rl_algorithms/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/medipixel/rl_algorithms?label=last%20update)
-- [ikostrikov/jaxrl2](https://github.com/ikostrikov/jaxrl2) and [ikostrikov/jaxrl](https://github.com/ikostrikov/jaxrl) (uses JAX) (15 + 389 stars on 2022/10/29)
+- [ikostrikov/jaxrl2](https://github.com/ikostrikov/jaxrl2) [![GitHub stars](https://img.shields.io/github/stars/ikostrikov/jaxrl2)](https://github.com/ikostrikov/jaxrl2/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/ikostrikov/jaxrl2?label=last%20update)
+  - [ikostrikov/jaxrl](https://github.com/ikostrikov/jaxrl) (uses JAX) [![GitHub stars](https://img.shields.io/github/stars/ikostrikov/jaxrl)](https://github.com/ikostrikov/jaxrl/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/ikostrikov/jaxrl?label=last%20update)
 - [tinkoff-ai/CORL](https://github.com/tinkoff-ai/CORL) "High-quality single-file implementations of SOTA Offline RL algorithms: AWAC, BC, CQL, DT, EDAC, IQL, SAC-N, TD3+BC" [![GitHub stars](https://img.shields.io/github/stars/tinkoff-ai/CORL)](https://github.com/tinkoff-ai/CORL/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/tinkoff-ai/CORL?label=last%20update)
-- [learnables/cherry](https://github.com/learnables/cherry) (API: Python) (layer over pytorch) (180 stars on 2022/10/29)
-- [trackmania-rl/tmrl](https://github.com/trackmania-rl/tmrl) (165 stars on 2022/10/29)
-- [ethanluoyc/magi](https://github.com/ethanluoyc/magi) (uses JAX) (91 stars on 2022/10/29)
+- [learnables/cherry](https://github.com/learnables/cherry) (API: Python) (layer over pytorch) [![GitHub stars](https://img.shields.io/github/stars/learnables/cherry)](https://github.com/learnables/cherry/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/learnables/cherry?label=last%20update)
+- [trackmania-rl/tmrl](https://github.com/trackmania-rl/tmrl) [![GitHub stars](https://img.shields.io/github/stars/trackmania-rl/tmrl)](https://github.com/trackmania-rl/tmrl/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/trackmania-rl/tmrl?label=last%20update)
+- [ethanluoyc/magi](https://github.com/ethanluoyc/magi) (uses JAX) [![GitHub stars](https://img.shields.io/github/stars/ethanluoyc/magi)](https://github.com/ethanluoyc/magi/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/ethanluoyc/magi?label=last%20update)
 - [RL-Glue](https://sites.google.com/a/rl-community.org/rl-glue/Home/rl-glue) ([Google Code Archive](https://code.google.com/archive/p/rl-glue-ext/wikis/RLGlueCore.wiki)) (API: C/C++, Java, Matlab, Python, Lisp) (support: Alberta)
 - <http://burlap.cs.brown.edu/> (API: Java)
 
 Lower level:
 
-- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) (169k stars on 2022/10/30)
-- [pytorch/pytorch](https://github.com/pytorch/pytorch) <https://pytorch.org> (59.9k stars on 2022/10/29)
+- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) [![GitHub stars](https://img.shields.io/github/stars/tensorflow/tensorflow)](https://github.com/tensorflow/tensorflow/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/tensorflow/tensorflow?label=last%20update)
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) <https://pytorch.org> [![GitHub stars](https://img.shields.io/github/stars/pytorch/pytorch)](https://github.com/pytorch/pytorch/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/pytorch/pytorch?label=last%20update)
   - <https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html>
-- [keras-team/keras](https://github.com/keras-team/keras) <https://keras.io/> (56.5k stars on 2022/10/29)
-- [google/jax](https://github.com/google/jax): Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.
+- [keras-team/keras](https://github.com/keras-team/keras) <https://keras.io/> [![GitHub stars](https://img.shields.io/github/stars/keras-team/keras)](https://github.com/keras-team/keras/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/keras-team/keras?label=last%20update)
+- [google/jax](https://github.com/google/jax): Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more. [![GitHub stars](https://img.shields.io/github/stars/google/jax)](https://github.com/google/jax/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/google/jax?label=last%20update)
 
 Algorithm-specific:
 
@@ -441,8 +442,8 @@ Algorithm-specific:
 
 Tutorials/education (typically from lower level):
 
-- [openai/spinningup](https://github.com/openai/spinningup) (<https://spinningup.openai.com>, educational, uses pytorch updated from tensorflow) (7.3k stars on 2022/10/30)
-- [qfettes/DeepRL-Tutorials](https://github.com/qfettes/DeepRL-Tutorials) (uses pytorch) (927 stars on 2022/10/29)
+- [openai/spinningup](https://github.com/openai/spinningup) (<https://spinningup.openai.com>, educational, uses pytorch updated from tensorflow) [![GitHub stars](https://img.shields.io/github/stars/openai/spinningup)](https://github.com/openai/spinningup/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/openai/spinningup?label=last%20update)
+- [qfettes/DeepRL-Tutorials](https://github.com/qfettes/DeepRL-Tutorials) (uses pytorch) [![GitHub stars](https://img.shields.io/github/stars/qfettes/DeepRL-Tutorials)](https://github.com/qfettes/DeepRL-Tutorials/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/qfettes/DeepRL-Tutorials?label=last%20update)
 - <https://becominghuman.ai/lets-build-an-atari-ai-part-0-intro-to-rl-9b2c5336e0ec> (uses keras)
 - <https://medium.com/@jonathan_hui/rl-reinforcement-learning-algorithms-quick-overview-6bf69736694d>
 
@@ -509,7 +510,7 @@ Reproducible:
 Metrics/benchmarks:
 
 - [stepjam/RLBench](https://github.com/stepjam/RLBench) (<https://sites.google.com/view/rlbench>) "A large-scale benchmark and learning environment." (660 stars on 2022/10/30)
-- [google-research/rliable](https://github.com/google-research/rliable) "reliable evaluation on RL and ML benchmarks, even with only a handful of seeds" (504 stars on 2022/10/30)
+- [google-research/rliable](https://github.com/google-research/rliable) (<https://agarwl.github.io/rliable>) "reliable evaluation on RL and ML benchmarks, even with only a handful of seeds" (504 stars on 2022/10/30)
 - [google-research/rl-reliability-metrics](https://github.com/google-research/rl-reliability-metrics) "provides a set of metrics for measuring the reliability of reinforcement learning (RL) algorithm" (136 stars on 2022/10/30)
 - <https://martin-thoma.com/sota/#reinforcment-learning>
 
