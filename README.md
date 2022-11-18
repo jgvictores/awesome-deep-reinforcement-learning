@@ -434,7 +434,11 @@ Lower level:
 - [keras-team/keras](https://github.com/keras-team/keras) <https://keras.io/> [![GitHub stars](https://img.shields.io/github/stars/keras-team/keras)](https://github.com/keras-team/keras/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/keras-team/keras?label=last%20update)
 - [google/jax](https://github.com/google/jax): Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more. [![GitHub stars](https://img.shields.io/github/stars/google/jax)](https://github.com/google/jax/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/google/jax?label=last%20update)
 
-Algorithm-specific:
+Specific to Model-based:
+
+- [facebookresearch/mbrl-lib](https://github.com/facebookresearch/mbrl-lib): Library for Model Based RL. [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/mbrl-lib)](https://github.com/facebookresearch/mbrl-lib/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/facebookresearch/mbrl-lib?label=last%20update)
+
+For specific algorithms (e.g. original paper implementations):
 
 - [haarnoja/sac](https://github.com/haarnoja/sac)
 - [Asap7772/PTR](https://github.com/Asap7772/PTR) Pre-Training for Robots: Leveraging Diverse Multitask Data via Offline Reinforcement Learning
