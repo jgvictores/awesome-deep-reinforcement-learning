@@ -499,6 +499,7 @@ Comparison:
     - [magni84/gym_bandits](https://github.com/magni84/gym_bandits)
     - [ThomasLecat/gym-bandit-environments](https://github.com/ThomasLecat/gym-bandit-environments)
     - [JKCooper2/gym-bandits](https://github.com/JKCooper2/gym-bandits)
+    - [diegoalejogm/openai-k-armed-bandits](https://github.com/diegoalejogm/openai-k-armed-bandits)
 
 - Unity ML-Agents
   - [Unity-Technologies/marathon-envs](https://github.com/Unity-Technologies/marathon-envs)
