@@ -493,6 +493,10 @@ Comparison:
   - [denisyarats/dmc2gym](https://github.com/denisyarats/dmc2gym)
   - [koulanurag/ma-gym](https://github.com/koulanurag/ma-gym) (multiagent)
   - Even more: [Phylliade/awesome-openai-gym-environments](https://github.com/Phylliade/awesome-openai-gym-environments)
+  - Multi-armed Bandits:
+    - [magni84/gym_bandits](https://github.com/magni84/gym_bandits)
+    - [ThomasLecat/gym-bandit-environments](https://github.com/ThomasLecat/gym-bandit-environments)
+    - [JKCooper2/gym-bandits](https://github.com/JKCooper2/gym-bandits)
 
 Multi-agent:
 
