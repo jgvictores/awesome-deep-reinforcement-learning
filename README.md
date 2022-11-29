@@ -464,10 +464,10 @@ Comparison:
   - [Farama-Foundation/ViZDoom](https://github.com/Farama-Foundation/ViZDoom) (was [mwydmuch/ViZDoom](https://github.com/mwydmuch/ViZDoom))
   - <https://gymnasium.farama.org/environments/third_party_environments>
   - ~~DEPRECATED: [openai/roboschool](https://github.com/openai/roboschool)~~
+  - [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) (Environments, Algorithms) (includes design of environments)
   - [qgallouedec/panda-gym](https://github.com/qgallouedec/panda-gym)
   - [NVIDIA-Omniverse/IsaacGymEnvs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)
   - [leggedrobotics/legged_gym](https://github.com/leggedrobotics/legged_gym)
-  - [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) (Environments, Algorithms) (includes design of environments)
   - [deepmind/bsuite](https://github.com/deepmind/bsuite) (Environments, Algorithms, Benchmarking)
   - [openai/gym-soccer](https://github.com/openai/gym-soccer)
   - [erlerobot/gym-gazebo](https://github.com/erlerobot/gym-gazebo)
@@ -497,6 +497,7 @@ Multi-agent:
 
 - [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo) (<https://pettingzoo.farama.org>) [![GitHub stars](https://img.shields.io/github/stars/Farama-Foundation/PettingZoo)](https://github.com/Farama-Foundation/PettingZoo/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/Farama-Foundation/PettingZoo?label=last%20update)
   - [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
+  - [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) (Environments, Algorithms) (includes design of environments)
 
 ### RL/DRL Benchmarking
 
