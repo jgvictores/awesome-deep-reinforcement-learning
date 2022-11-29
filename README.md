@@ -522,7 +522,7 @@ Metrics/benchmarks:
 
 Other:
 
-- [deepmind/bsuite](https://github.com/deepmind/bsuite) "collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent" (1.5k stars on 2022/10/30)
+- [deepmind/bsuite](https://github.com/deepmind/bsuite) "collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent" [![GitHub stars](https://img.shields.io/github/stars/deepmind/bsuite)](https://github.com/deepmind/bsuite/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/deepmind/bsuite?label=last%20update)
 
 ### RL/DRL Books
 
