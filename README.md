@@ -464,7 +464,7 @@ Comparison:
   - [Farama-Foundation/ViZDoom](https://github.com/Farama-Foundation/ViZDoom) (was [mwydmuch/ViZDoom](https://github.com/mwydmuch/ViZDoom))
   - <https://gymnasium.farama.org/environments/third_party_environments>
   - ~~DEPRECATED: [openai/roboschool](https://github.com/openai/roboschool)~~
-  - [qgallouedec/panda-gym](https://github.com/qgallouedec/panda-gym) "Set of robotic environments based on PyBullet physics engine and gymnasium." [![GitHub stars](https://img.shields.io/github/stars/qgallouedec/panda-gym)](https://github.com/qgallouedec/panda-gym/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/qgallouedec/panda-gym?label=last%20update)
+  - [qgallouedec/panda-gym](https://github.com/qgallouedec/panda-gym)
   - [NVIDIA-Omniverse/IsaacGymEnvs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)
   - [leggedrobotics/legged_gym](https://github.com/leggedrobotics/legged_gym)
   - [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) (Environments, Algorithms) (includes design of environments)
