@@ -499,9 +499,9 @@ Multiagent:
 
 With datasets for offline reinforcement learning:
 
-- [Farama-Foundation/D4RL](https://github.com/Farama-Foundation/D4RL) (was [rail-berkeley/d4rl](https://github.com/rail-berkeley/d4rl)) (727 stars on 2022/10/30)
-- [google-research/rlds](https://github.com/google-research/rlds) (134 stars on 2022/10/30)
-- [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari) (was [Farama-Foundation/Kabuki](https://github.com/Farama-Foundation/Kabuki)) (25 stars on 2022/10/30, expected beta on 2022/11-12)
+- [Farama-Foundation/D4RL](https://github.com/Farama-Foundation/D4RL) (was [rail-berkeley/d4rl](https://github.com/rail-berkeley/d4rl)) [![GitHub stars](https://img.shields.io/github/stars/Farama-Foundation/D4RL)](https://github.com/Farama-Foundation/D4RL/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/Farama-Foundation/D4RL?label=last%20update)
+- [google-research/rlds](https://github.com/google-research/rlds) [![GitHub stars](https://img.shields.io/github/stars/google-research/rlds)](https://github.com/google-research/rlds/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/google-research/rlds?label=last%20update)
+- [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari) (was [Farama-Foundation/Kabuki](https://github.com/Farama-Foundation/Kabuki)) [![GitHub stars](https://img.shields.io/github/stars/Farama-Foundation/Minari)](https://github.com/Farama-Foundation/Minari/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/Farama-Foundation/Minari?label=last%20update)
 
 With low-cost robots:
 
