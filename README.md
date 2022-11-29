@@ -465,6 +465,7 @@ Comparison:
   - <https://gymnasium.farama.org/environments/third_party_environments>
   - ~~DEPRECATED: [openai/roboschool](https://github.com/openai/roboschool)~~
   - [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) (Environments, Algorithms) (includes design of environments)
+  - [Unity-Technologies/obstacle-tower-env](https://github.com/Unity-Technologies/obstacle-tower-env)
   - [LucasAlegre/sumo-rl](https://github.com/LucasAlegre/sumo-rl)
   - [qgallouedec/panda-gym](https://github.com/qgallouedec/panda-gym)
   - [NVIDIA-Omniverse/IsaacGymEnvs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)
@@ -491,6 +492,7 @@ Comparison:
   - [eleurent/highway-env](https://github.com/eleurent/highway-env)
   - [thedimlebowski/Trading-Gym](https://github.com/thedimlebowski/Trading-Gym)
   - [denisyarats/dmc2gym](https://github.com/denisyarats/dmc2gym)
+  - [minerllabs/minerl](https://github.com/minerllabs/minerl)
   - [koulanurag/ma-gym](https://github.com/koulanurag/ma-gym) (multiagent)
   - Even more: [Phylliade/awesome-openai-gym-environments](https://github.com/Phylliade/awesome-openai-gym-environments)
   - Multi-armed Bandits:
