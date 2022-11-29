@@ -461,6 +461,7 @@ Comparison:
   - [Farama-Foundation/Gymnasium-Robotics](https://github.com/Farama-Foundation/Gymnasium-Robotics)
   - [Farama-Foundation/Minigrid](https://github.com/Farama-Foundation/Minigrid)
   - [Farama-Foundation/MiniWorld](https://github.com/Farama-Foundation/MiniWorld)
+  - [Farama-Foundation/ViZDoom](https://github.com/Farama-Foundation/ViZDoom) (was [mwydmuch/ViZDoom](https://github.com/mwydmuch/ViZDoom))
   - <https://gymnasium.farama.org/environments/third_party_environments>
   - ~~DEPRECATED: [openai/roboschool](https://github.com/openai/roboschool)~~
   - [qgallouedec/panda-gym](https://github.com/qgallouedec/panda-gym) "Set of robotic environments based on PyBullet physics engine and gymnasium." [![GitHub stars](https://img.shields.io/github/stars/qgallouedec/panda-gym)](https://github.com/qgallouedec/panda-gym/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/qgallouedec/panda-gym?label=last%20update)
@@ -477,7 +478,6 @@ Comparison:
   - [ucuapps/modelicagym](https://github.com/ucuapps/modelicagym)
   - [openai/safety-gym](https://github.com/openai/safety-gym)
   - [openai/retro](https://github.com/openai/retro)
-  - [mwydmuch/ViZDoom](https://github.com/mwydmuch/ViZDoom)
   - [deepmind/pysc2](https://github.com/deepmind/pysc2) (by DeepMind) (Blizzard StarCraft II Learning Environment (SC2LE) component)
   - [benelot/pybullet-gym](https://github.com/benelot/pybullet-gym)
   - [Healthcare-Robotics/assistive-gym](https://github.com/Healthcare-Robotics/assistive-gym)
