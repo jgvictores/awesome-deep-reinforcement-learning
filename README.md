@@ -459,6 +459,7 @@ Comparison:
 
 - [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium) (<https://gymnasium.farama.org>) [![GitHub stars](https://img.shields.io/github/stars/Farama-Foundation/Gymnasium)](https://github.com/Farama-Foundation/Gymnasium/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/Farama-Foundation/Gymnasium?label=last%20update). ~~DEPRECATED: [openai/gym](https://github.com/openai/gym), <https://gym.openai.com>, <https://gym.openai.com/docs/>~~
   - [Farama-Foundation/Gymnasium-Robotics](https://github.com/Farama-Foundation/Gymnasium-Robotics)
+  - [Farama-Foundation/Minigrid](https://github.com/Farama-Foundation/Minigrid)
   - <https://gymnasium.farama.org/environments/third_party_environments>
   - ~~DEPRECATED: [openai/roboschool](https://github.com/openai/roboschool)~~
   - [qgallouedec/panda-gym](https://github.com/qgallouedec/panda-gym) "Set of robotic environments based on PyBullet physics engine and gymnasium." [![GitHub stars](https://img.shields.io/github/stars/qgallouedec/panda-gym)](https://github.com/qgallouedec/panda-gym/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/qgallouedec/panda-gym?label=last%20update)
