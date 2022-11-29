@@ -507,17 +507,17 @@ With datasets for offline reinforcement learning:
 
 With low-cost robots:
 
-- [google-research/robel](https://github.com/google-research/robel) (<https://sites.google.com/view/roboticsbenchmarks>) (134 stars on 2022/10/30)
+- [google-research/robel](https://github.com/google-research/robel) (<https://sites.google.com/view/roboticsbenchmarks>) [![GitHub stars](https://img.shields.io/github/stars/google-research/robel)](https://github.com/google-research/robel/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/google-research/robel?label=last%20update)
 
 Reproducible:
 
-- [rlworkgroup/garage](https://github.com/rlworkgroup/garage) "A toolkit for reproducible reinforcement learning research." (1.5k stars on 2022/10/30)
+- [rlworkgroup/garage](https://github.com/rlworkgroup/garage) "A toolkit for reproducible reinforcement learning research." [![GitHub stars](https://img.shields.io/github/stars/rlworkgroup/garage)](https://github.com/rlworkgroup/garage/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/rlworkgroup/garage?label=last%20update)
 
 Metrics/benchmarks:
 
-- [stepjam/RLBench](https://github.com/stepjam/RLBench) (<https://sites.google.com/view/rlbench>) "A large-scale benchmark and learning environment." (660 stars on 2022/10/30)
-- [google-research/rliable](https://github.com/google-research/rliable) (<https://agarwl.github.io/rliable>) "reliable evaluation on RL and ML benchmarks, even with only a handful of seeds" (504 stars on 2022/10/30)
-- [google-research/rl-reliability-metrics](https://github.com/google-research/rl-reliability-metrics) "provides a set of metrics for measuring the reliability of reinforcement learning (RL) algorithm" (136 stars on 2022/10/30)
+- [stepjam/RLBench](https://github.com/stepjam/RLBench) (<https://sites.google.com/view/rlbench>) "A large-scale benchmark and learning environment." [![GitHub stars](https://img.shields.io/github/stars/stepjam/RLBench)](https://github.com/stepjam/RLBench/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/stepjam/RLBench?label=last%20update)
+- [google-research/rliable](https://github.com/google-research/rliable) (<https://agarwl.github.io/rliable>) "reliable evaluation on RL and ML benchmarks, even with only a handful of seeds" [![GitHub stars](https://img.shields.io/github/stars/google-research/rliable)](https://github.com/google-research/rliable/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/google-research/rliable?label=last%20update)
+- [google-research/rl-reliability-metrics](https://github.com/google-research/rl-reliability-metrics) "provides a set of metrics for measuring the reliability of reinforcement learning (RL) algorithm" [![GitHub stars](https://img.shields.io/github/stars/google-research/rl-reliability-metrics)](https://github.com/google-research/rl-reliability-metrics/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/google-research/rl-reliability-metrics?label=last%20update)
 - <https://martin-thoma.com/sota/#reinforcment-learning>
 
 Other:
