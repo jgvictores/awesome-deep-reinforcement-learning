@@ -498,6 +498,9 @@ Comparison:
     - [ThomasLecat/gym-bandit-environments](https://github.com/ThomasLecat/gym-bandit-environments)
     - [JKCooper2/gym-bandits](https://github.com/JKCooper2/gym-bandits)
 
+- Unity ML-Agents
+  - [Unity-Technologies/marathon-envs](https://github.com/Unity-Technologies/marathon-envs)
+
 Multi-agent:
 
 - [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo) (<https://pettingzoo.farama.org>) [![GitHub stars](https://img.shields.io/github/stars/Farama-Foundation/PettingZoo)](https://github.com/Farama-Foundation/PettingZoo/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/Farama-Foundation/PettingZoo?label=last%20update)
