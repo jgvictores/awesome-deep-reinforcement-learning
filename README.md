@@ -465,6 +465,7 @@ Comparison:
   - <https://gymnasium.farama.org/environments/third_party_environments>
   - ~~DEPRECATED: [openai/roboschool](https://github.com/openai/roboschool)~~
   - [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) (Environments, Algorithms) (includes design of environments)
+  - [LucasAlegre/sumo-rl](https://github.com/LucasAlegre/sumo-rl)
   - [qgallouedec/panda-gym](https://github.com/qgallouedec/panda-gym)
   - [NVIDIA-Omniverse/IsaacGymEnvs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)
   - [leggedrobotics/legged_gym](https://github.com/leggedrobotics/legged_gym)
@@ -498,6 +499,7 @@ Multi-agent:
 - [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo) (<https://pettingzoo.farama.org>) [![GitHub stars](https://img.shields.io/github/stars/Farama-Foundation/PettingZoo)](https://github.com/Farama-Foundation/PettingZoo/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/Farama-Foundation/PettingZoo?label=last%20update)
   - [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
   - [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) (Environments, Algorithms) (includes design of environments)
+  - [LucasAlegre/sumo-rl](https://github.com/LucasAlegre/sumo-rl)
 
 ### RL/DRL Benchmarking
 
