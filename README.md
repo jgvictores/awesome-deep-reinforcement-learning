@@ -67,15 +67,15 @@ To accomplish this, includes general Machine Learning (ML), Neural Networks (NN)
 - Docker images with several pre-installed software frameworks: [1](https://github.com/ufoym/deepo), [2](https://github.com/floydhub/dl-docker), [3](https://github.com/bethgelab/docker-deeplearning).
 - Projects to port trained models from one software framework to another: [1](https://github.com/ysh329/deep-learning-model-convertor)
 
-Attempling to order software frameworks by popularity:
+Attempling to order software frameworks by popularity (in practice should look at more aspects such as last updates, forks, etc):
 
-- [PyTorch](https://pytorch.org/) (API: Python) (support: Facebook AI Research).
-- [Keras](https://keras.io) (layer over: TensorFlow, theano...) (API: Python) (support: Google). [wikipedia](https://en.wikipedia.org/wiki/Keras)
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) [PyTorch](https://pytorch.org/) (API: Python) (support: Facebook AI Research). [![GitHub stars](https://img.shields.io/github/stars/pytorch/pytorch)](https://github.com/pytorch/pytorch/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/pytorch/pytorch?label=last%20update)
+- [keras-team/keras](https://github.com/keras-team/keras) [Keras](https://keras.io) (layer over: TensorFlow, theano...) (API: Python) (support: Google). [wikipedia](https://en.wikipedia.org/wiki/Keras) [![GitHub stars](https://img.shields.io/github/stars/keras-team/keras)](https://github.com/keras-team/keras/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/keras-team/keras?label=last%20update)
   - Examples/tutorials: [keras](https://github.com/keras-team/keras/blob/master/examples), [1](https://www.datacamp.com/community/tutorials/deep-learning-python), [2](https://elitedatascience.com/keras-tutorial-deep-learning-in-python)
   - Book: Antonio Gulli and Sujit Pal, "Deep Learning with Keras", 2017. [safari](https://proquest.safaribooksonline.com/book/programming/machine-learning/9781787128422)
   - Book: Mike Bernico, "Deep Learning Quick Reference", 2018. [safari](https://proquest.safaribooksonline.com/book/programming/machine-learning/9781788837996)
   - Used internally by <http://www.fast.ai>
-- [TensorFlow](https://www.tensorflow.org) (low-level) (API: Python most stable, JavaScript, C++, Java...) (support: Google).
+- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) [TensorFlow](https://www.tensorflow.org) (low-level) (API: Python most stable, JavaScript, C++, Java...) (support: Google). [![GitHub stars](https://img.shields.io/github/stars/tensorflow/tensorflow)](https://github.com/tensorflow/tensorflow/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/tensorflow/tensorflow?label=last%20update)
   - Tutorials: [1](https://medium.com/@tifa2up/image-classification-using-deep-neural-networks-a-beginner-friendly-approach-using-tensorflow-94b0a090ccd4)
 - [ONNX](https://onnx.ai)
 - [OpenCV](https://www.opencv.org) has DNN: <https://docs.opencv.org/3.3.0/d2/d58/tutorial_table_of_content_dnn.html>
