@@ -496,18 +496,21 @@ Comparison:
   - [denisyarats/dmc2gym](https://github.com/denisyarats/dmc2gym)
   - [minerllabs/minerl](https://github.com/minerllabs/minerl)
   - [eugenevinitsky/sequential_social_dilemma_games](https://github.com/eugenevinitsky/sequential_social_dilemma_games)
+  - OpenSim
+    - [UtkarshMishra04/bioimitation-gym](https://github.com/UtkarshMishra04/bioimitation-gym)
+    - [stanfordnmbl/osim-rl](https://github.com/stanfordnmbl/osim-rl)
   - Electric Engineering
     - [upb-lea/gym-electric-motor](https://github.com/upb-lea/gym-electric-motor)
     - [upb-lea/openmodelica-microgrid-gym](https://github.com/upb-lea/openmodelica-microgrid-gym)
     - [tobirohrer/building-energy-storage-simulation](https://github.com/tobirohrer/building-energy-storage-simulation)
     - [intelligent-environments-lab/CityLearn](https://github.com/intelligent-environments-lab/CityLearn) (multiagent)
   - [koulanurag/ma-gym](https://github.com/koulanurag/ma-gym) (multiagent)
-  - Even more: [Phylliade/awesome-openai-gym-environments](https://github.com/Phylliade/awesome-openai-gym-environments)
   - Multi-armed Bandits:
     - [magni84/gym_bandits](https://github.com/magni84/gym_bandits)
     - [ThomasLecat/gym-bandit-environments](https://github.com/ThomasLecat/gym-bandit-environments)
     - [JKCooper2/gym-bandits](https://github.com/JKCooper2/gym-bandits)
     - [diegoalejogm/openai-k-armed-bandits](https://github.com/diegoalejogm/openai-k-armed-bandits)
+  - Another awesome list: [Phylliade/awesome-openai-gym-environments](https://github.com/Phylliade/awesome-openai-gym-environments)
 
 - Unity ML-Agents
   - [Unity-Technologies/marathon-envs](https://github.com/Unity-Technologies/marathon-envs)
