@@ -459,6 +459,7 @@ Comparison:
 ### RL/DRL Environments
 
 - [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium) (<https://gymnasium.farama.org>) [![GitHub stars](https://img.shields.io/github/stars/Farama-Foundation/Gymnasium)](https://github.com/Farama-Foundation/Gymnasium/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/Farama-Foundation/Gymnasium?label=last%20update). ~~DEPRECATED: [openai/gym](https://github.com/openai/gym), <https://gym.openai.com>, <https://gym.openai.com/docs/>~~
+  - <https://github.com/Farama-Foundation/Gymnasium/network/dependents>
   - [Farama-Foundation/Gymnasium-Robotics](https://github.com/Farama-Foundation/Gymnasium-Robotics)
   - [Farama-Foundation/Minigrid](https://github.com/Farama-Foundation/Minigrid)
   - [Farama-Foundation/MiniWorld](https://github.com/Farama-Foundation/MiniWorld)
