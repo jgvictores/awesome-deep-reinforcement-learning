@@ -499,6 +499,7 @@ Comparison:
   - [denisyarats/dmc2gym](https://github.com/denisyarats/dmc2gym)
   - [minerllabs/minerl](https://github.com/minerllabs/minerl)
   - [eugenevinitsky/sequential_social_dilemma_games](https://github.com/eugenevinitsky/sequential_social_dilemma_games)
+  - [facebookresearch/minihack](https://github.com/facebookresearch/minihack)
   - OpenSim
     - [UtkarshMishra04/bioimitation-gym](https://github.com/UtkarshMishra04/bioimitation-gym)
     - [stanfordnmbl/osim-rl](https://github.com/stanfordnmbl/osim-rl)
