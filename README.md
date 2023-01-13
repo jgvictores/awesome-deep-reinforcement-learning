@@ -482,6 +482,7 @@ Comparison:
   - [dartsim/gym-dart](https://github.com/dartsim/gym-dart)
   - [Roboy/gym-roboy](https://github.com/Roboy/gym-roboy)
   - [kngwyu/mujoco-maze](https://github.com/kngwyu/mujoco-maze)
+  - [Improbable-AI/walk-these-ways](https://github.com/Improbable-AI/walk-these-ways)
   - [ucuapps/modelicagym](https://github.com/ucuapps/modelicagym)
   - [openai/safety-gym](https://github.com/openai/safety-gym)
   - [openai/retro](https://github.com/openai/retro)
