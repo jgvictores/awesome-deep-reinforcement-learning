@@ -77,6 +77,7 @@ Attempling to order software frameworks by popularity (in practice should look a
   - Used internally by <http://www.fast.ai>
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) [TensorFlow](https://www.tensorflow.org) (low-level) (API: Python most stable, JavaScript, C++, Java...) (support: Google). [![GitHub stars](https://img.shields.io/github/stars/tensorflow/tensorflow)](https://github.com/tensorflow/tensorflow/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/tensorflow/tensorflow?label=last%20update)
   - Tutorials: [1](https://medium.com/@tifa2up/image-classification-using-deep-neural-networks-a-beginner-friendly-approach-using-tensorflow-94b0a090ccd4)
+- [flashlight/flashlight](https://github.com/flashlight/flashlight) [![GitHub stars](https://img.shields.io/github/stars/flashlight/flashlight)](https://github.com/flashlight/flashlight/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/flashlight/flashlight?label=last%20update)
 - [https://github.com/janhuenermann/neurojs](https://github.com/janhuenermann/neurojs) [![GitHub stars](https://img.shields.io/github/stars/janhuenermann/neurojs)](https://github.com/janhuenermann/neurojs/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/janhuenermann/neurojs?label=last%20update)
 - [ONNX](https://onnx.ai)
 - [OpenCV](https://www.opencv.org) has DNN: <https://docs.opencv.org/3.3.0/d2/d58/tutorial_table_of_content_dnn.html>
