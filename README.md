@@ -475,6 +475,7 @@ Comparison:
   - [qgallouedec/panda-gym](https://github.com/qgallouedec/panda-gym)
   - [NVIDIA-Omniverse/IsaacGymEnvs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)
   - [leggedrobotics/legged_gym](https://github.com/leggedrobotics/legged_gym)
+  - [osudrl/cassie-mujoco-sim](https://github.com/osudrl/cassie-mujoco-sim)
   - [utiasDSL/safe-control-gym](https://github.com/utiasDSL/safe-control-gym)
   - [deepmind/bsuite](https://github.com/deepmind/bsuite) (Environments, Algorithms, Benchmarking)
   - [openai/gym-soccer](https://github.com/openai/gym-soccer)
