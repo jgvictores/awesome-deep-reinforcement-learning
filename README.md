@@ -471,6 +471,7 @@ Comparison:
   - ~~DEPRECATED: [openai/roboschool](https://github.com/openai/roboschool)~~
   - [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) (Environments, Algorithms) (includes design of environments)
   - [Unity-Technologies/obstacle-tower-env](https://github.com/Unity-Technologies/obstacle-tower-env)
+  - [huggingface/gym-xarm](https://github.com/huggingface/gym-xarm)
   - [LucasAlegre/sumo-rl](https://github.com/LucasAlegre/sumo-rl)
   - [qgallouedec/panda-gym](https://github.com/qgallouedec/panda-gym)
   - [NVIDIA-Omniverse/IsaacGymEnvs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)
