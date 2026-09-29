@@ -452,6 +452,7 @@ For specific algorithms (e.g. original paper implementations):
 
 Tutorials/education (typically from lower level):
 
+- [Cookie-27/credit-assignment-sanity-checks](https://github.com/Cookie-27/credit-assignment-sanity-checks) (educational, standard-library Python; exact finite credit-assignment checks with a [runnable walkthrough](https://github.com/Cookie-27/credit-assignment-sanity-checks/blob/main/docs/walkthrough.md))
 - [openai/spinningup](https://github.com/openai/spinningup) (<https://spinningup.openai.com>, educational, uses pytorch updated from tensorflow) [![GitHub stars](https://img.shields.io/github/stars/openai/spinningup)](https://github.com/openai/spinningup/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/openai/spinningup?label=last%20update)
 - [qfettes/DeepRL-Tutorials](https://github.com/qfettes/DeepRL-Tutorials) (uses pytorch) [![GitHub stars](https://img.shields.io/github/stars/qfettes/DeepRL-Tutorials)](https://github.com/qfettes/DeepRL-Tutorials/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/qfettes/DeepRL-Tutorials?label=last%20update)
 - <https://becominghuman.ai/lets-build-an-atari-ai-part-0-intro-to-rl-9b2c5336e0ec> (uses keras)
